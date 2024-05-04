@@ -1,0 +1,560 @@
+1	Monaco	Monaco	43	19	13	4	2	33	15	+18	a
+2	Lyon	Lyon	38	19	11	5	3	35	14	+21	a
+3	Sochaux	Sochaux	37	19	11	4	4	32	19	+13	a
+4	Paris SG	Paris SG	35	19	10	5	4	25	16	+9	a
+5	Marseille	Marseille	34	19	11	1	7	26	18	+8	a
+6	Auxerre	Auxerre	32	19	10	2	7	30	18	+12	a
+7	Nice	Nice	30	19	7	9	3	19	16	+3	a
+8	Lens	Lens	28	19	9	1	9	16	28	-12	a
+9	Nantes	Nantes	27	19	8	3	8	19	18	+1	a
+10	Bordeaux	Bordeaux	26	19	7	5	7	18	19	-1	a
+11	RC Strasbourg	RC Strasbourg	26	19	7	5	7	30	27	+3	a
+12	Bastia	Bastia	23	19	6	5	8	23	30	-7	a
+13	Rennes	Rennes	23	19	5	8	6	20	19	+1	a
+14	Lille	Lille	22	19	5	7	7	21	24	-3	a
+15	Montpellier	Montpellier	21	19	6	3	10	26	32	-6	a
+16	AC Ajaccio	AC Ajaccio	19	19	5	4	10	17	26	-9	a
+17	Metz	Metz	17	19	4	5	10	15	22	-7	a
+18	Le Mans	Le Mans	16	19	3	7	9	17	30	-13	a
+19	Guingamp	Guingamp	15	19	4	3	12	16	30	-14	a
+20	Toulouse	Toulouse	12	19	2	6	11	13	30	-17	a
+1	Lyon	Lyon	79	38	24	7	7	64	26	+38	a
+2	Paris SG	Paris SG	76	38	22	10	6	50	28	+22	a
+3	Monaco	Monaco	75	38	21	12	5	59	30	+29	a
+4	Auxerre	Auxerre	65	38	19	8	11	60	34	+26	a
+5	Sochaux	Sochaux	63	38	18	9	11	54	42	+12	a
+6	Nantes	Nantes	60	38	17	9	12	47	35	+12	a
+7	Marseille	Marseille	57	38	17	6	15	51	45	+6	a
+8	Lens	Lens	53	38	15	8	15	34	48	-14	a
+9	Rennes	Rennes	52	38	14	10	14	56	44	+12	a
+10	Lille	Lille	51	38	14	9	15	41	41	0	a
+11	Nice	Nice	50	38	11	17	10	42	39	+3	a
+12	Bordeaux	Bordeaux	50	38	13	11	14	40	43	-3	a
+13	RC Strasbourg	RC Strasbourg	43	38	10	13	15	43	50	-7	a
+14	Metz	Metz	42	38	11	9	18	34	42	-8	a
+15	AC Ajaccio	AC Ajaccio	40	38	10	10	18	33	55	-22	a
+16	Bastia	Bastia	39	38	9	12	17	33	49	-16	a
+17	Toulouse	Toulouse	39	38	9	12	17	31	44	-13	a
+18	Le Mans	Le Mans	38	38	9	11	18	35	57	-22	a
+19	Guingamp	Guingamp	38	38	10	8	20	36	58	-22	a
+20	Montpellier	Montpellier	31	38	8	7	23	41	74	-33	a
+1	Lyon	Lyon	39	19	10	9	0	23	8	+15	a
+2	Lille	Lille	36	19	10	6	3	23	11	+12	a
+3	Auxerre	Auxerre	32	19	9	5	5	26	19	+7	a
+4	Monaco	Monaco	30	19	7	9	3	24	18	+6	a
+5	Marseille	Marseille	29	19	8	5	6	22	18	+4	a
+6	Toulouse	Toulouse	28	19	7	7	5	21	17	+4	a
+7	Sochaux	Sochaux	27	19	7	6	6	24	19	+5	a
+8	Bordeaux	Bordeaux	27	19	5	12	2	21	10	+11	a
+9	Saint-Étienne	Saint-Étienne	26	19	6	8	5	26	19	+7	a
+10	Paris SG	Paris SG	26	19	6	8	5	23	22	+1	a
+11	Nice	Nice	25	19	6	7	6	24	25	-1	a
+12	Lens	Lens	24	19	5	9	5	21	20	+1	a
+13	Rennes	Rennes	23	19	6	5	8	19	23	-4	a
+14	Metz	Metz	23	19	5	8	6	17	26	-9	a
+15	RC Strasbourg	RC Strasbourg	19	19	4	7	8	18	25	-7	a
+16	Caen	Caen	19	19	4	7	8	15	30	-15	a
+17	Nantes	Nantes	18	19	4	6	9	16	22	-6	a
+18	Bastia	Bastia	17	19	4	5	10	14	25	-11	a
+19	AC Ajaccio	AC Ajaccio	16	19	2	10	7	16	23	-7	a
+20	Istres FC	Istres FC	12	19	1	9	9	10	23	-13	a
+1	Lyon	Lyon	79	38	22	13	3	56	22	+34	a
+2	Lille	Lille	67	38	18	13	7	52	29	+23	a
+3	Monaco	Monaco	63	38	15	18	5	52	35	+17	a
+4	Rennes	Rennes	55	38	15	10	13	49	42	+7	a
+5	Marseille	Marseille	55	38	15	10	13	47	42	+5	a
+6	Saint-Étienne	Saint-Étienne	53	38	12	17	9	47	34	+13	a
+7	Lens	Lens	52	38	13	13	12	45	39	+6	a
+8	Auxerre	Auxerre	52	38	14	10	14	48	47	+1	a
+9	Paris SG	Paris SG	51	38	12	15	11	40	41	-1	a
+10	Sochaux	Sochaux	50	38	13	11	14	42	41	+1	a
+11	RC Strasbourg	RC Strasbourg	48	38	12	12	14	42	43	-1	a
+12	Nice	Nice	46	38	10	16	12	38	45	-7	a
+13	Toulouse	Toulouse	46	38	12	10	16	36	43	-7	a
+14	AC Ajaccio	AC Ajaccio	45	38	10	15	13	36	40	-4	a
+15	Bordeaux	Bordeaux	44	38	8	20	10	37	41	-4	a
+16	Metz	Metz	44	38	10	14	14	33	45	-12	a
+17	Nantes	Nantes	43	38	10	13	15	33	38	-5	a
+18	Caen	Caen	42	38	10	12	16	36	60	-24	a
+19	Bastia	Bastia	41	38	11	8	19	32	48	-16	a
+20	Istres FC	Istres FC	32	38	6	14	18	25	51	-26	a
+1	Lyon	Lyon	44	19	13	5	1	30	13	+17	a
+2	Lens	Lens	32	19	7	11	1	27	14	+13	a
+3	Bordeaux	Bordeaux	32	19	8	8	3	17	11	+6	a
+4	Auxerre	Auxerre	32	19	10	2	7	26	21	+5	a
+5	Monaco	Monaco	31	19	9	4	6	19	13	+6	a
+6	Paris SG	Paris SG	31	19	9	4	6	23	18	+5	a
+7	Marseille	Marseille	31	19	9	4	6	21	21	0	a
+8	Lille	Lille	30	19	8	6	5	26	15	+11	a
+9	Saint-Étienne	Saint-Étienne	29	19	7	8	4	18	12	+6	a
+10	Rennes	Rennes	26	19	8	2	9	21	30	-9	a
+11	Le Mans	Le Mans	25	19	7	4	8	17	16	+1	a
+12	Nancy	Nancy	24	19	7	3	9	20	16	+4	a
+13	Nantes	Nantes	23	19	6	5	8	18	20	-2	a
+14	Nice	Nice	22	19	5	7	7	13	17	-4	a
+15	Toulouse	Toulouse	22	19	6	4	9	18	24	-6	a
+16	Troyes	Troyes	21	19	5	6	8	17	23	-6	a
+17	Sochaux	Sochaux	21	19	5	6	8	12	18	-6	a
+18	Metz	Metz	14	19	2	8	9	11	27	-16	a
+19	AC Ajaccio	AC Ajaccio	13	19	2	7	10	10	23	-13	a
+20	RC Strasbourg	RC Strasbourg	11	19	1	8	10	10	22	-12	a
+1	Lyon	Lyon	84	38	25	9	4	73	31	+42	a
+2	Bordeaux	Bordeaux	69	38	18	15	5	43	25	+18	a
+3	Lille	Lille	62	38	16	14	8	56	31	+25	a
+4	Lens	Lens	60	38	14	18	6	48	34	+14	a
+5	Marseille	Marseille	60	38	16	12	10	44	35	+9	a
+6	Auxerre	Auxerre	59	38	17	8	13	50	39	+11	a
+7	Rennes	Rennes	59	38	18	5	15	48	49	-1	a
+8	Nice	Nice	58	38	16	10	12	36	31	+5	a
+9	Paris SG	Paris SG	52	38	13	13	12	44	38	+6	a
+10	Monaco	Monaco	52	38	13	13	12	42	36	+6	a
+11	Le Mans	Le Mans	52	38	13	13	12	33	36	-3	a
+12	Nancy	Nancy	48	38	12	12	14	35	37	-2	a
+13	Saint-Étienne	Saint-Étienne	47	38	11	14	13	29	39	-10	a
+14	Nantes	Nantes	45	38	11	12	15	37	41	-4	a
+15	Sochaux	Sochaux	44	38	11	11	16	34	47	-13	a
+16	Toulouse	Toulouse	41	38	10	11	17	36	47	-11	a
+17	Troyes	Troyes	39	38	9	12	17	37	47	-10	a
+18	AC Ajaccio	AC Ajaccio	33	38	8	9	21	27	53	-26	a
+19	RC Strasbourg	RC Strasbourg	29	38	5	14	19	33	56	-23	a
+20	Metz	Metz	29	38	6	11	21	26	59	-33	a
+1	Lyon	Lyon	50	19	16	2	1	39	11	+28	a
+2	Lens	Lens	35	19	10	5	4	28	20	+8	a
+3	Sochaux	Sochaux	33	19	9	6	4	23	20	+3	a
+4	Saint-Étienne	Saint-Étienne	31	19	9	4	6	31	23	+8	a
+5	Lille	Lille	31	19	8	7	4	27	19	+8	a
+6	Marseille	Marseille	30	19	9	3	7	25	19	+6	a
+7	Nancy	Nancy	29	19	8	5	6	17	15	+2	a
+8	Bordeaux	Bordeaux	29	19	9	2	8	21	22	-1	a
+9	Rennes	Rennes	25	19	6	7	6	16	16	0	a
+10	Toulouse	Toulouse	25	19	7	4	8	20	25	-5	a
+11	Le Mans	Le Mans	24	19	5	9	5	21	22	-1	a
+12	Lorient	Lorient	24	19	6	6	7	19	22	-3	a
+13	Auxerre	Auxerre	23	19	5	8	6	20	24	-4	a
+14	Valenciennes	Valenciennes	21	19	6	3	10	16	28	-12	a
+15	Monaco	Monaco	20	19	5	5	9	23	21	+2	a
+16	Paris SG	Paris SG	20	19	4	8	7	18	24	-6	a
+17	Nantes	Nantes	17	19	3	8	8	16	23	-7	a
+18	Troyes	Troyes	17	19	3	8	8	20	28	-8	a
+19	Nice	Nice	16	19	3	7	9	15	21	-6	a
+20	CS Sedan	CS Sedan	13	19	2	7	10	22	34	-12	a
+1	Lyon	Lyon	81	38	24	9	5	64	27	+37	a
+2	Marseille	Marseille	64	38	19	7	12	53	38	+15	a
+3	Toulouse	Toulouse	61	38	17	7	14	44	43	+1	a
+4	Rennes	Rennes	57	38	14	15	9	38	30	+8	a
+5	Lens	Lens	57	38	15	12	11	47	41	+6	a
+6	Bordeaux	Bordeaux	57	38	16	9	13	39	35	+4	a
+7	Sochaux	Sochaux	57	38	15	12	11	46	48	-2	a
+8	Auxerre	Auxerre	54	38	13	15	10	41	41	0	a
+9	Monaco	Monaco	51	38	13	12	13	45	38	+7	a
+10	Lille	Lille	50	38	13	11	14	45	43	+2	a
+11	Saint-Étienne	Saint-Étienne	49	38	14	7	17	52	50	+2	a
+12	Le Mans	Le Mans	49	38	11	16	11	45	46	-1	a
+13	Nancy	Nancy	49	38	13	10	15	37	44	-7	a
+14	Lorient	Lorient	49	38	12	13	13	33	40	-7	a
+15	Paris SG	Paris SG	48	38	12	12	14	42	42	0	a
+16	Nice	Nice	43	38	9	16	13	34	40	-6	a
+17	Valenciennes	Valenciennes	43	38	11	10	17	36	48	-12	a
+18	Troyes	Troyes	39	38	9	12	17	39	54	-15	a
+19	CS Sedan	CS Sedan	35	38	7	14	17	46	58	-12	a
+20	Nantes	Nantes	34	38	7	13	18	29	49	-20	a
+1	Lyon	Lyon	39	19	12	3	4	38	16	+22	a
+2	Nancy	Nancy	35	19	9	8	2	25	11	+14	a
+3	Bordeaux	Bordeaux	33	19	9	6	4	27	23	+4	a
+4	Caen	Caen	31	19	9	4	6	23	19	+4	a
+5	Le Mans	Le Mans	30	19	9	3	7	26	26	0	a
+6	Valenciennes	Valenciennes	29	19	8	5	6	23	17	+6	a
+7	Nice	Nice	29	19	7	8	4	19	14	+5	a
+8	Lorient	Lorient	27	19	6	9	4	20	19	+1	a
+9	Monaco	Monaco	25	19	7	4	8	22	19	+3	a
+10	Saint-Étienne	Saint-Étienne	25	19	7	4	8	20	20	0	a
+11	Marseille	Marseille	25	19	6	7	6	20	20	0	a
+12	Toulouse	Toulouse	25	19	6	7	6	19	21	-2	a
+13	Rennes	Rennes	25	19	7	4	8	18	23	-5	a
+14	Lille	Lille	24	19	5	9	5	20	19	+1	a
+15	RC Strasbourg	RC Strasbourg	24	19	6	6	7	18	20	-2	a
+16	Auxerre	Auxerre	23	19	7	2	10	17	26	-9	a
+17	Paris SG	Paris SG	22	19	5	7	7	16	20	-4	a
+18	Lens	Lens	20	19	5	5	9	17	23	-6	a
+19	Sochaux	Sochaux	16	19	3	7	9	15	25	-10	a
+20	Metz	Metz	7	19	1	4	14	9	31	-22	a
+1	Lyon	Lyon	79	38	24	7	7	74	37	+37	a
+2	Bordeaux	Bordeaux	75	38	22	9	7	65	38	+27	a
+3	Marseille	Marseille	62	38	17	11	10	58	45	+13	a
+4	Nancy	Nancy	60	38	15	15	8	44	30	+14	a
+5	Saint-Étienne	Saint-Étienne	58	38	16	10	12	47	34	+13	a
+6	Rennes	Rennes	58	38	16	10	12	47	44	+3	a
+7	Lille	Lille	57	38	13	18	7	45	32	+13	a
+8	Nice	Nice	55	38	13	16	9	35	30	+5	a
+9	Le Mans	Le Mans	53	38	14	11	13	46	49	-3	a
+10	Lorient	Lorient	52	38	12	16	10	32	35	-3	a
+11	Caen	Caen	51	38	13	12	13	48	53	-5	a
+12	Monaco	Monaco	47	38	13	8	17	40	48	-8	a
+13	Valenciennes	Valenciennes	45	38	12	9	17	42	40	+2	a
+14	Sochaux	Sochaux	44	38	10	14	14	34	43	-9	a
+15	Auxerre	Auxerre	44	38	12	8	18	33	52	-19	a
+16	Paris SG	Paris SG	43	38	10	13	15	37	45	-8	a
+17	Toulouse	Toulouse	42	38	9	15	14	36	42	-6	a
+18	Lens	Lens	40	38	9	13	16	43	52	-9	a
+19	RC Strasbourg	RC Strasbourg	35	38	9	8	21	34	55	-21	a
+20	Metz	Metz	24	38	5	9	24	28	64	-36	a
+1	Lyon	Lyon	38	19	11	5	3	23	12	+11	a
+2	Bordeaux	Bordeaux	35	19	10	5	4	31	19	+12	a
+3	Rennes	Rennes	34	19	8	10	1	24	13	+11	a
+4	Paris SG	Paris SG	33	19	10	3	6	24	17	+7	a
+5	Marseille	Marseille	32	19	8	8	3	33	24	+9	a
+6	Lille	Lille	32	19	8	8	3	28	19	+9	a
+7	Toulouse	Toulouse	31	19	8	7	4	19	15	+4	a
+8	Nice	Nice	30	19	8	6	5	23	19	+4	a
+9	Lorient	Lorient	26	19	7	5	7	25	23	+2	a
+10	Nancy	Nancy	25	19	6	7	6	18	17	+1	a
+11	Grenoble	Grenoble	25	19	6	7	6	13	17	-4	a
+12	Le Mans	Le Mans	24	19	7	3	9	25	28	-3	a
+13	Caen	Caen	23	19	5	8	6	23	21	+2	a
+14	Monaco	Monaco	23	19	6	5	8	22	23	-1	a
+15	Auxerre	Auxerre	20	19	5	5	9	14	19	-5	a
+16	Nantes	Nantes	20	19	5	5	9	15	25	-10	a
+17	Saint-Étienne	Saint-Étienne	19	19	6	1	12	15	28	-13	a
+18	Valenciennes	Valenciennes	15	19	3	6	10	16	25	-9	a
+19	Sochaux	Sochaux	14	19	1	11	7	18	25	-7	a
+20	Le Havre	Le Havre	12	19	3	3	13	14	34	-20	a
+1	Bordeaux	Bordeaux	80	38	24	8	6	64	34	+30	a
+2	Marseille	Marseille	77	38	22	11	5	67	35	+32	a
+3	Lyon	Lyon	71	38	20	11	7	52	29	+23	a
+4	Toulouse	Toulouse	64	38	16	16	6	45	27	+18	a
+5	Lille	Lille	64	38	17	13	8	51	39	+12	a
+6	Paris SG	Paris SG	64	38	19	7	12	49	38	+11	a
+7	Rennes	Rennes	61	38	15	16	7	42	34	+8	a
+8	Auxerre	Auxerre	55	38	16	7	15	35	35	0	a
+9	Nice	Nice	50	38	13	11	14	40	41	-1	a
+10	Lorient	Lorient	45	38	10	15	13	47	47	0	a
+11	Monaco	Monaco	45	38	11	12	15	41	45	-4	a
+12	Valenciennes	Valenciennes	44	38	10	14	14	35	42	-7	a
+13	Grenoble	Grenoble	44	38	10	14	14	24	37	-13	a
+14	Sochaux	Sochaux	42	38	10	12	16	40	48	-8	a
+15	Nancy	Nancy	42	38	10	12	16	38	47	-9	a
+16	Le Mans	Le Mans	40	38	10	10	18	43	54	-11	a
+17	Saint-Étienne	Saint-Étienne	40	38	11	7	20	40	56	-16	a
+18	Caen	Caen	37	38	8	13	17	42	49	-7	a
+19	Nantes	Nantes	37	38	9	10	19	33	54	-21	a
+20	Le Havre	Le Havre	26	38	7	5	26	30	67	-37	a
+1	Bordeaux	Bordeaux	43	19	14	1	4	32	12	+20	a
+2	Marseille	Marseille	35	19	10	5	4	33	20	+13	a
+3	Lille	Lille	34	19	10	4	5	37	19	+18	a
+4	Montpellier	Montpellier	33	19	10	3	6	26	25	+1	a
+5	Auxerre	Auxerre	32	19	9	5	5	19	15	+4	a
+6	Lyon	Lyon	30	19	8	6	5	31	26	+5	a
+7	Monaco	Monaco	30	19	9	3	7	24	22	+2	a
+8	Paris SG	Paris SG	29	19	8	5	6	31	18	+13	a
+9	Lorient	Lorient	29	19	8	5	6	29	22	+7	a
+10	Rennes	Rennes	29	19	8	5	6	24	18	+6	a
+11	Valenciennes	Valenciennes	28	19	8	4	7	30	26	+4	a
+12	Nancy	Nancy	26	19	8	2	9	26	29	-3	a
+13	Lens	Lens	26	19	7	5	7	19	24	-5	a
+14	Sochaux	Sochaux	26	19	8	2	9	17	24	-7	a
+15	Toulouse	Toulouse	25	19	7	4	8	19	16	+3	a
+16	Nice	Nice	22	19	6	4	9	20	32	-12	a
+17	Le Mans	Le Mans	16	19	4	4	11	17	28	-11	a
+18	Saint-Étienne	Saint-Étienne	16	19	4	4	11	11	26	-15	a
+19	US Boulogne	US Boulogne	14	19	3	5	11	15	35	-20	a
+20	Grenoble	Grenoble	7	19	1	4	14	10	33	-23	a
+1	Marseille	Marseille	78	38	23	9	6	69	36	+33	a
+2	Lyon	Lyon	72	38	20	12	6	64	38	+26	a
+3	Auxerre	Auxerre	71	38	20	11	7	42	29	+13	a
+4	Lille	Lille	70	38	21	7	10	72	40	+32	a
+5	Montpellier	Montpellier	69	38	20	9	9	50	40	+10	a
+6	Bordeaux	Bordeaux	64	38	19	7	12	58	40	+18	a
+7	Lorient	Lorient	58	38	16	10	12	54	42	+12	a
+8	Monaco	Monaco	55	38	15	10	13	39	45	-6	a
+9	Rennes	Rennes	53	38	14	11	13	52	41	+11	a
+10	Valenciennes	Valenciennes	52	38	14	10	14	50	50	0	a
+11	Lens	Lens	48	38	12	12	14	40	44	-4	a
+12	Nancy	Nancy	48	38	13	9	16	46	53	-7	a
+13	Paris SG	Paris SG	47	38	12	11	15	50	46	+4	a
+14	Toulouse	Toulouse	47	38	12	11	15	36	36	0	a
+15	Nice	Nice	44	38	11	11	16	41	57	-16	a
+16	Sochaux	Sochaux	41	38	11	8	19	28	52	-24	a
+17	Saint-Étienne	Saint-Étienne	40	38	10	10	18	27	45	-18	a
+18	Le Mans	Le Mans	32	38	8	8	22	36	59	-23	a
+19	US Boulogne	US Boulogne	31	38	7	10	21	31	62	-31	a
+20	Grenoble	Grenoble	23	38	5	8	25	31	61	-30	a
+1	Lille	Lille	35	19	9	8	2	36	21	+15	a
+2	Paris SG	Paris SG	31	19	8	7	4	30	21	+9	a
+3	Rennes	Rennes	31	19	8	7	4	18	12	+6	a
+4	Lyon	Lyon	31	19	8	7	4	26	21	+5	a
+5	Marseille	Marseille	29	19	7	8	4	27	17	+10	a
+6	Saint-Étienne	Saint-Étienne	29	19	7	8	4	26	20	+6	a
+7	Brest	Brest	28	19	7	7	5	20	15	+5	a
+8	Bordeaux	Bordeaux	27	19	6	9	4	24	21	+3	a
+9	Toulouse	Toulouse	27	19	8	3	8	21	20	+1	a
+10	Montpellier	Montpellier	27	19	7	6	6	15	19	-4	a
+11	Sochaux	Sochaux	25	19	7	4	8	29	23	+6	a
+12	Lorient	Lorient	25	19	7	4	8	22	24	-2	a
+13	Nancy	Nancy	25	19	7	4	8	21	29	-8	a
+14	Auxerre	Auxerre	23	19	4	11	4	25	22	+3	a
+15	Nice	Nice	23	19	5	8	6	14	18	-4	a
+16	Valenciennes	Valenciennes	22	19	5	7	7	21	21	0	a
+17	Monaco	Monaco	19	19	3	10	6	19	20	-1	a
+18	Lens	Lens	19	19	4	7	8	19	32	-13	a
+19	Caen	Caen	18	19	4	6	9	17	28	-11	a
+20	AC Arles	AC Arles	8	19	1	5	13	10	36	-26	a
+1	Lille	Lille	76	38	21	13	4	68	36	+32	a
+2	Marseille	Marseille	68	38	18	14	6	62	39	+23	a
+3	Lyon	Lyon	64	38	17	13	8	61	40	+21	a
+4	Paris SG	Paris SG	60	38	15	15	8	56	41	+15	a
+5	Sochaux	Sochaux	58	38	17	7	14	60	43	+17	a
+6	Rennes	Rennes	56	38	15	11	12	38	35	+3	a
+7	Bordeaux	Bordeaux	51	38	12	15	11	43	42	+1	a
+8	Toulouse	Toulouse	50	38	14	8	16	38	36	+2	a
+9	Auxerre	Auxerre	49	38	10	19	9	45	41	+4	a
+10	Saint-Étienne	Saint-Étienne	49	38	12	13	13	46	47	-1	a
+11	Lorient	Lorient	49	38	12	13	13	46	48	-2	a
+12	Valenciennes	Valenciennes	48	38	10	18	10	45	41	+4	a
+13	Nancy	Nancy	48	38	13	9	16	43	48	-5	a
+14	Montpellier	Montpellier	47	38	12	11	15	32	43	-11	a
+15	Caen	Caen	46	38	11	13	14	46	51	-5	a
+16	Brest	Brest	46	38	11	13	14	36	43	-7	a
+17	Nice	Nice	46	38	11	13	14	33	48	-15	a
+18	Monaco	Monaco	44	38	9	17	12	36	40	-4	a
+19	Lens	Lens	35	38	7	14	17	35	58	-23	a
+20	AC Arles	AC Arles	20	38	3	11	24	21	70	-49	a
+1	Paris SG	Paris SG	40	19	12	4	3	31	17	+14	a
+2	Montpellier	Montpellier	37	19	11	4	4	39	23	+16	a
+3	Lille	Lille	36	19	9	9	1	33	19	+14	a
+4	Lyon	Lyon	35	19	11	2	6	31	21	+10	a
+5	Rennes	Rennes	32	19	9	5	5	29	23	+6	a
+6	Marseille	Marseille	31	19	8	7	4	27	18	+9	a
+7	Toulouse	Toulouse	31	19	8	7	4	20	17	+3	a
+8	Saint-Étienne	Saint-Étienne	30	19	8	6	5	23	21	+2	a
+9	Lorient	Lorient	24	19	6	6	7	18	21	-3	a
+10	Bordeaux	Bordeaux	23	19	5	8	6	20	22	-2	a
+11	Evian TG	Evian TG	22	19	5	7	7	27	29	-2	a
+12	Brest	Brest	21	19	3	12	4	19	19	0	a
+13	Valenciennes	Valenciennes	20	19	5	5	9	18	21	-3	a
+14	Caen	Caen	20	19	5	5	9	24	29	-5	a
+15	Auxerre	Auxerre	19	19	4	7	8	26	30	-4	a
+16	Dijon	Dijon	19	19	5	4	10	20	35	-15	a
+17	Nice	Nice	18	19	4	6	9	21	23	-2	a
+18	Nancy	Nancy	18	19	4	6	9	17	26	-9	a
+19	Sochaux	Sochaux	18	19	4	6	9	21	34	-13	a
+20	AC Ajaccio	AC Ajaccio	15	19	3	6	10	20	36	-16	a
+1	Montpellier	Montpellier	82	38	25	7	6	68	34	+34	a
+2	Paris SG	Paris SG	79	38	23	10	5	75	41	+34	a
+3	Lille	Lille	74	38	21	11	6	72	39	+33	a
+4	Lyon	Lyon	64	38	19	7	12	64	51	+13	a
+5	Bordeaux	Bordeaux	61	38	16	13	9	53	41	+12	a
+6	Rennes	Rennes	60	38	17	9	12	53	44	+9	a
+7	Saint-Étienne	Saint-Étienne	57	38	16	9	13	49	45	+4	a
+8	Toulouse	Toulouse	56	38	15	11	12	37	34	+3	a
+9	Evian TG	Evian TG	50	38	13	11	14	54	55	-1	a
+10	Marseille	Marseille	48	38	12	12	14	45	41	+4	a
+11	Nancy	Nancy	45	38	11	12	15	38	48	-10	a
+12	Valenciennes	Valenciennes	43	38	12	7	19	40	50	-10	a
+13	Nice	Nice	42	38	10	12	16	39	46	-7	a
+14	Sochaux	Sochaux	42	38	11	9	18	40	60	-20	a
+15	Brest	Brest	41	38	8	17	13	31	38	-7	a
+16	AC Ajaccio	AC Ajaccio	41	38	9	14	15	40	61	-21	a
+17	Lorient	Lorient	39	38	9	12	17	35	49	-14	a
+18	Caen	Caen	38	38	9	11	18	39	59	-20	a
+19	Dijon	Dijon	36	38	9	9	20	38	63	-25	a
+20	Auxerre	Auxerre	34	38	7	13	18	46	57	-11	a
+1	Paris SG	Paris SG	38	19	11	5	3	36	12	+24	a
+2	Lyon	Lyon	38	19	11	5	3	33	17	+16	a
+3	Marseille	Marseille	38	19	12	2	5	24	20	+4	a
+4	Rennes	Rennes	32	19	10	2	7	29	24	+5	a
+5	Lorient	Lorient	31	19	8	7	4	32	29	+3	a
+6	Valenciennes	Valenciennes	29	19	8	5	6	31	24	+7	a
+7	Bordeaux	Bordeaux	29	19	6	11	2	21	14	+7	a
+8	Lille	Lille	29	19	7	8	4	24	18	+6	a
+9	Nice	Nice	29	19	7	8	4	26	26	0	a
+10	Saint-Étienne	Saint-Étienne	27	19	7	6	6	24	14	+10	a
+11	Montpellier	Montpellier	26	19	7	5	7	29	24	+5	a
+12	Toulouse	Toulouse	26	19	7	5	7	25	20	+5	a
+13	Bastia	Bastia	22	19	6	4	9	26	41	-15	a
+14	Brest	Brest	21	19	6	3	10	20	28	-8	a
+15	Stade de Reims	Stade de Reims	19	19	4	7	8	16	20	-4	a
+16	AC Ajaccio	AC Ajaccio	19	19	5	6	8	21	29	-8	a
+17	Evian TG	Evian TG	19	19	5	4	10	22	32	-10	a
+18	Sochaux	Sochaux	16	19	4	4	11	17	29	-12	a
+19	Troyes	Troyes	13	19	2	7	10	20	37	-17	a
+20	Nancy	Nancy	11	19	1	8	10	15	33	-18	a
+1	Paris SG	Paris SG	83	38	25	8	5	69	23	+46	a
+2	Marseille	Marseille	71	38	21	8	9	42	36	+6	a
+3	Lyon	Lyon	67	38	19	10	9	61	38	+23	a
+4	Nice	Nice	64	38	18	10	10	57	46	+11	a
+5	Saint-Étienne	Saint-Étienne	63	38	16	15	7	60	32	+28	a
+6	Lille	Lille	62	38	16	14	8	59	40	+19	a
+7	Bordeaux	Bordeaux	55	38	13	16	9	40	34	+6	a
+8	Lorient	Lorient	53	38	14	11	13	57	58	-1	a
+9	Montpellier	Montpellier	52	38	15	7	16	54	51	+3	a
+10	Toulouse	Toulouse	51	38	13	12	13	49	47	+2	a
+11	Valenciennes	Valenciennes	48	38	12	12	14	49	53	-4	a
+12	Bastia	Bastia	47	38	13	8	17	50	66	-16	a
+13	Rennes	Rennes	46	38	13	7	18	48	59	-11	a
+14	Stade de Reims	Stade de Reims	43	38	10	13	15	33	42	-9	a
+15	Sochaux	Sochaux	41	38	10	11	17	41	57	-16	a
+16	Evian TG	Evian TG	40	38	10	10	18	46	53	-7	a
+17	AC Ajaccio	AC Ajaccio	40	38	9	15	14	39	51	-12	a
+18	Nancy	Nancy	38	38	9	11	18	38	58	-20	a
+19	Troyes	Troyes	37	38	8	13	17	43	61	-18	a
+20	Brest	Brest	29	38	8	5	25	32	62	-30	a
+1	Paris SG	Paris SG	44	19	13	5	1	44	13	+31	a
+2	Monaco	Monaco	41	19	12	5	2	31	13	+18	a
+3	Lille	Lille	40	19	12	4	3	22	8	+14	a
+4	Saint-Étienne	Saint-Étienne	33	19	10	3	6	28	20	+8	a
+5	Bordeaux	Bordeaux	31	19	8	7	4	27	21	+6	a
+6	Marseille	Marseille	29	19	8	5	6	27	20	+7	a
+7	Stade de Reims	Stade de Reims	29	19	7	8	4	23	21	+2	a
+8	Lorient	Lorient	27	19	8	3	8	26	26	0	a
+9	Bastia	Bastia	27	19	7	6	6	21	24	-3	a
+10	Nantes	Nantes	26	19	8	2	9	21	17	+4	a
+11	Lyon	Lyon	25	19	6	7	6	28	27	+1	a
+12	Toulouse	Toulouse	25	19	6	7	6	20	24	-4	a
+13	Guingamp	Guingamp	24	19	6	6	7	19	19	0	a
+14	Nice	Nice	23	19	7	2	10	18	25	-7	a
+15	Rennes	Rennes	21	19	5	6	8	22	24	-2	a
+16	Evian TG	Evian TG	20	19	5	5	9	19	32	-13	a
+17	Montpellier	Montpellier	17	19	2	11	6	18	24	-6	a
+18	Valenciennes	Valenciennes	14	19	3	5	11	17	28	-11	a
+19	Sochaux	Sochaux	11	19	2	5	12	15	39	-24	a
+20	AC Ajaccio	AC Ajaccio	9	19	1	6	12	13	34	-21	a
+1	Paris SG	Paris SG	89	38	27	8	3	84	23	+61	a
+2	Monaco	Monaco	80	38	23	11	4	63	31	+32	a
+3	Lille	Lille	71	38	20	11	7	46	26	+20	a
+4	Saint-Étienne	Saint-Étienne	69	38	20	9	9	56	34	+22	a
+5	Lyon	Lyon	61	38	17	10	11	56	44	+12	a
+6	Marseille	Marseille	60	38	16	12	10	53	40	+13	a
+7	Bordeaux	Bordeaux	53	38	13	14	11	49	43	+6	a
+8	Lorient	Lorient	49	38	13	10	15	48	53	-5	a
+9	Toulouse	Toulouse	49	38	12	13	13	46	53	-7	a
+10	Bastia	Bastia	49	38	13	10	15	42	56	-14	a
+11	Stade de Reims	Stade de Reims	48	38	12	12	14	44	52	-8	a
+12	Rennes	Rennes	46	38	11	13	14	47	45	+2	a
+13	Nantes	Nantes	46	38	12	10	16	38	43	-5	a
+14	Evian TG	Evian TG	44	38	11	11	16	39	51	-12	a
+15	Montpellier	Montpellier	42	38	8	18	12	45	53	-8	a
+16	Guingamp	Guingamp	42	38	11	9	18	34	42	-8	a
+17	Nice	Nice	42	38	12	6	20	30	44	-14	a
+18	Sochaux	Sochaux	40	38	10	10	18	37	61	-24	a
+19	Valenciennes	Valenciennes	29	38	7	8	23	37	65	-28	a
+20	AC Ajaccio	AC Ajaccio	23	38	4	11	23	37	72	-35	a
+1	Marseille	Marseille	41	19	13	2	4	38	17	+21	a
+2	Lyon	Lyon	39	19	12	3	4	40	17	+23	a
+3	Paris SG	Paris SG	38	19	10	8	1	32	13	+19	a
+4	Saint-Étienne	Saint-Étienne	36	19	10	6	3	22	12	+10	a
+5	Monaco	Monaco	32	19	9	5	5	23	18	+5	a
+6	Bordeaux	Bordeaux	31	19	9	4	6	26	27	-1	a
+7	Nantes	Nantes	30	19	8	6	5	19	17	+2	a
+8	Rennes	Rennes	28	19	8	4	7	21	24	-3	a
+9	Stade de Reims	Stade de Reims	28	19	8	4	7	25	30	-5	a
+10	Montpellier	Montpellier	26	19	7	5	7	21	19	+2	a
+11	Lille	Lille	24	19	6	6	7	16	17	-1	a
+12	Nice	Nice	22	19	6	4	9	21	26	-5	a
+13	Guingamp	Guingamp	22	19	7	1	11	20	31	-11	a
+14	Toulouse	Toulouse	21	19	6	3	10	22	29	-7	a
+15	Lorient	Lorient	20	19	6	2	11	21	26	-5	a
+16	Lens	Lens	19	19	5	4	10	20	24	-4	a
+17	Metz	Metz	19	19	5	4	10	17	27	-10	a
+18	Evian TG	Evian TG	19	19	6	1	12	20	33	-13	a
+19	Bastia	Bastia	18	19	4	6	9	16	23	-7	a
+20	Caen	Caen	15	19	3	6	10	22	32	-10	a
+1	Paris SG	Paris SG	83	38	24	11	3	83	36	+47	a
+2	Lyon	Lyon	75	38	22	9	7	72	33	+39	a
+3	Monaco	Monaco	71	38	20	11	7	51	26	+25	a
+4	Marseille	Marseille	69	38	21	6	11	76	42	+34	a
+5	Saint-Étienne	Saint-Étienne	69	38	19	12	7	51	30	+21	a
+6	Bordeaux	Bordeaux	63	38	17	12	9	47	44	+3	a
+7	Montpellier	Montpellier	56	38	16	8	14	46	39	+7	a
+8	Lille	Lille	56	38	16	8	14	43	42	+1	a
+9	Rennes	Rennes	50	38	13	11	14	35	42	-7	a
+10	Guingamp	Guingamp	49	38	15	4	19	41	55	-14	a
+11	Nice	Nice	48	38	13	9	16	44	53	-9	a
+12	Bastia	Bastia	47	38	12	11	15	37	46	-9	a
+13	Caen	Caen	46	38	12	10	16	54	55	-1	a
+14	Nantes	Nantes	45	38	11	12	15	29	40	-11	a
+15	Stade de Reims	Stade de Reims	44	38	12	8	18	47	66	-19	a
+16	Lorient	Lorient	43	38	12	7	19	44	50	-6	a
+17	Toulouse	Toulouse	42	38	12	6	20	43	64	-21	a
+18	Evian TG	Evian TG	37	38	11	4	23	41	62	-21	a
+19	Metz	Metz	30	38	7	9	22	31	61	-30	a
+20	Lens	Lens	29	38	7	8	23	32	61	-29	a
+1	Paris SG	Paris SG	51	19	16	3	0	48	9	+39	a
+2	Monaco	Monaco	32	19	8	8	3	25	23	+2	a
+3	Angers	Angers	31	19	8	7	4	17	11	+6	a
+4	Caen	Caen	30	19	9	3	7	21	22	-1	a
+5	Nice	Nice	29	19	8	5	6	32	23	+9	a
+6	Saint-Étienne	Saint-Étienne	29	19	9	2	8	22	22	0	a
+7	Rennes	Rennes	27	19	6	9	4	25	21	+4	a
+8	Lorient	Lorient	26	19	6	8	5	27	26	+1	a
+9	Lyon	Lyon	26	19	7	5	7	23	23	0	a
+10	Marseille	Marseille	25	19	6	7	6	28	21	+7	a
+11	Lille	Lille	24	19	5	9	5	15	13	+2	a
+12	GFC Ajaccio	GFC Ajaccio	24	19	6	6	7	20	22	-2	a
+13	Nantes	Nantes	24	19	6	6	7	14	17	-3	a
+14	Bordeaux	Bordeaux	23	19	5	8	6	23	28	-5	a
+15	Montpellier	Montpellier	22	19	6	4	9	22	25	-3	a
+16	Bastia	Bastia	22	19	6	4	9	20	24	-4	a
+17	Stade de Reims	Stade de Reims	21	19	5	6	8	19	24	-5	a
+18	Guingamp	Guingamp	19	19	5	4	10	17	27	-10	a
+19	Toulouse	Toulouse	17	19	3	8	8	21	33	-12	a
+20	Troyes	Troyes	8	19	0	8	11	10	35	-25	a
+1	Paris SG	Paris SG	96	38	30	6	2	102	19	+83	a
+2	Lyon	Lyon	65	38	19	8	11	67	43	+24	a
+3	Monaco	Monaco	65	38	17	14	7	57	50	+7	a
+4	Nice	Nice	63	38	18	9	11	58	41	+17	a
+5	Lille	Lille	60	38	15	15	8	39	27	+12	a
+6	Saint-Étienne	Saint-Étienne	58	38	17	7	14	42	37	+5	a
+7	Caen	Caen	54	38	16	6	16	39	52	-13	a
+8	Rennes	Rennes	52	38	13	13	12	52	54	-2	a
+9	Angers	Angers	50	38	13	11	14	40	38	+2	a
+10	Bastia	Bastia	50	38	14	8	16	36	42	-6	a
+11	Bordeaux	Bordeaux	50	38	12	14	12	50	57	-7	a
+12	Montpellier	Montpellier	49	38	14	7	17	49	47	+2	a
+13	Marseille	Marseille	48	38	10	18	10	48	42	+6	a
+14	Nantes	Nantes	48	38	12	12	14	33	44	-11	a
+15	Lorient	Lorient	46	38	11	13	14	47	58	-11	a
+16	Guingamp	Guingamp	44	38	11	11	16	47	56	-9	a
+17	Toulouse	Toulouse	40	38	9	13	16	45	55	-10	a
+18	Stade de Reims	Stade de Reims	39	38	10	9	19	44	57	-13	a
+19	GFC Ajaccio	GFC Ajaccio	37	38	8	13	17	37	58	-21	a
+20	Troyes	Troyes	18	38	3	9	26	28	83	-55	a
+1	Nice	Nice	44	19	13	5	1	34	13	+21	a
+2	Monaco	Monaco	42	19	13	3	3	56	20	+36	a
+3	Paris SG	Paris SG	39	19	12	3	4	38	15	+23	a
+4	Lyon	Lyon	37	19	12	1	6	37	19	+18	a
+5	Guingamp	Guingamp	30	19	8	6	5	25	19	+6	a
+6	Marseille	Marseille	30	19	8	6	5	22	19	+3	a
+7	Rennes	Rennes	28	19	8	4	7	20	23	-3	a
+8	Saint-Étienne	Saint-Étienne	26	19	6	8	5	18	16	+2	a
+9	Toulouse	Toulouse	26	19	7	5	7	22	21	+1	a
+10	Bordeaux	Bordeaux	25	19	6	7	6	20	26	-6	a
+11	Montpellier	Montpellier	22	19	5	7	7	28	31	-3	a
+12	Nantes	Nantes	22	19	6	4	9	13	26	-13	a
+13	Lille	Lille	21	19	6	3	10	18	25	-7	a
+14	Nancy	Nancy	21	19	5	6	8	15	23	-8	a
+15	Bastia	Bastia	20	19	5	5	9	17	23	-6	a
+16	Dijon	Dijon	19	19	4	7	8	26	29	-3	a
+17	Angers	Angers	19	19	5	4	10	15	24	-9	a
+18	Caen	Caen	18	19	5	3	11	20	33	-13	a
+19	Metz	Metz	17	19	5	4	10	18	39	-21	a
+20	Lorient	Lorient	15	19	4	3	12	20	38	-18	a
+1	Monaco	Monaco	95	38	30	5	3	107	31	+76	a
+2	Paris SG	Paris SG	87	38	27	6	5	83	27	+56	a
+3	Nice	Nice	78	38	22	12	4	63	36	+27	a
+4	Lyon	Lyon	67	38	21	4	13	80	48	+32	a
+5	Marseille	Marseille	62	38	17	11	10	57	41	+16	a
+6	Bordeaux	Bordeaux	59	38	15	14	9	53	43	+10	a
+7	Nantes	Nantes	51	38	14	9	15	40	54	-14	a
+8	Saint-Étienne	Saint-Étienne	50	38	12	14	12	41	42	-1	a
+9	Rennes	Rennes	50	38	12	14	12	36	42	-6	a
+10	Guingamp	Guingamp	50	38	14	8	16	46	53	-7	a
+11	Lille	Lille	46	38	13	7	18	40	47	-7	a
+12	Angers	Angers	46	38	13	7	18	40	49	-9	a
+13	Toulouse	Toulouse	44	38	10	14	14	37	41	-4	a
+14	Metz	Metz	41	38	11	10	17	39	72	-33	a
+15	Montpellier	Montpellier	39	38	10	9	19	48	66	-18	a
+16	Dijon	Dijon	37	38	8	13	17	46	58	-12	a
+17	Caen	Caen	37	38	10	7	21	36	65	-29	a
+18	Lorient	Lorient	36	38	10	6	22	44	70	-26	a
+19	Nancy	Nancy	35	38	9	8	21	29	52	-23	a
+20	Bastia	Bastia	34	38	8	10	20	29	57	-28	a

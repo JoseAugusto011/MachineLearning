@@ -1,0 +1,180 @@
+1	PSV	PSV	43	17	14	1	2	47	20	+27	a
+2	Ajax	Ajax	38	17	12	2	3	51	16	+35	a
+3	AZ Alkmaar	AZ Alkmaar	35	17	11	2	4	31	18	+13	a
+4	Zwolle	Zwolle	33	17	9	6	2	26	17	+9	a
+5	Feyenoord	Feyenoord	30	17	8	6	3	33	16	+17	a
+6	FC Utrecht	FC Utrecht	29	17	8	5	4	27	26	+1	a
+7	Vitesse	Vitesse	27	17	7	6	4	30	20	+10	a
+8	Heerenveen	Heerenveen	23	17	6	5	6	24	27	-3	a
+9	ADO Den Haag	ADO Den Haag	23	17	7	2	8	21	28	-7	a
+10	Heracles Almelo	Heracles Almelo	22	17	6	4	7	25	34	-9	a
+11	Excelsior	Excelsior	20	17	6	2	9	21	27	-6	a
+12	VVV-Venlo	VVV-Venlo	19	17	4	7	6	19	25	-6	a
+13	FC Groningen	FC Groningen	17	17	4	5	8	26	30	-4	a
+14	Willem II	Willem II	16	17	4	4	9	26	37	-11	a
+15	FC Twente	FC Twente	14	17	4	2	11	24	33	-9	a
+16	NAC Breda	NAC Breda	13	17	3	4	10	17	34	-17	a
+17	Roda	Roda	11	17	3	2	12	16	35	-19	a
+18	Sparta Rotterdam	Sparta Rotterdam	11	17	2	5	10	13	34	-21	a
+1	PSV	PSV	83	34	26	5	3	87	39	+48	a
+2	Ajax	Ajax	79	34	25	4	5	89	33	+56	a
+3	AZ Alkmaar	AZ Alkmaar	71	34	22	5	7	72	38	+34	a
+4	Feyenoord	Feyenoord	66	34	20	6	8	76	39	+37	a
+5	FC Utrecht	FC Utrecht	54	34	14	12	8	58	53	+5	a
+6	Vitesse	Vitesse	49	34	13	10	11	63	47	+16	a
+7	ADO Den Haag	ADO Den Haag	47	34	13	8	13	45	53	-8	a
+8	Heerenveen	Heerenveen	46	34	12	10	12	48	53	-5	a
+9	Zwolle	Zwolle	44	34	12	8	14	42	54	-12	a
+10	Heracles Almelo	Heracles Almelo	42	34	11	9	14	50	64	-14	a
+11	Excelsior	Excelsior	40	34	11	7	16	41	56	-15	a
+12	FC Groningen	FC Groningen	38	34	8	14	12	50	50	0	a
+13	Willem II	Willem II	37	34	10	7	17	50	63	-13	a
+14	NAC Breda	NAC Breda	34	34	9	7	18	41	57	-16	a
+15	VVV-Venlo	VVV-Venlo	34	34	7	13	14	35	54	-19	a
+16	Roda	Roda	30	34	8	6	20	42	69	-27	a
+17	Sparta Rotterdam	Sparta Rotterdam	27	34	7	6	21	34	75	-41	a
+18	FC Twente	FC Twente	24	34	5	9	20	37	63	-26	a
+1	PSV	PSV	48	17	16	0	1	60	8	+52	a
+2	Ajax	Ajax	46	17	15	1	1	60	8	+52	a
+3	Feyenoord	Feyenoord	36	17	11	3	3	35	20	+15	a
+4	FC Utrecht	FC Utrecht	28	17	8	4	5	30	23	+7	a
+5	Vitesse	Vitesse	26	17	7	5	5	27	21	+6	a
+6	Heracles Almelo	Heracles Almelo	26	17	8	2	7	33	35	-2	a
+7	AZ Alkmaar	AZ Alkmaar	25	17	7	4	6	30	26	+4	a
+8	VVV-Venlo	VVV-Venlo	23	17	6	5	6	21	24	-3	a
+9	Fortuna Sittard	Fortuna Sittard	20	17	5	5	7	29	30	-1	a
+10	Heerenveen	Heerenveen	20	17	5	5	7	36	39	-3	a
+11	ADO Den Haag	ADO Den Haag	20	17	5	5	7	23	34	-11	a
+12	Willem II	Willem II	19	17	5	4	8	26	34	-8	a
+13	FC Emmen	FC Emmen	17	17	4	5	8	19	36	-17	a
+14	Excelsior	Excelsior	16	17	4	4	9	23	45	-22	a
+15	FC Groningen	FC Groningen	15	17	4	3	10	18	28	-10	a
+16	Zwolle	Zwolle	15	17	4	3	10	17	30	-13	a
+17	NAC Breda	NAC Breda	15	17	4	3	10	21	38	-17	a
+18	De Graafschap	De Graafschap	12	17	3	3	11	14	43	-29	a
+1	Ajax	Ajax	86	34	28	2	4	119	32	+87	a
+2	PSV	PSV	83	34	26	5	3	98	26	+72	a
+3	Feyenoord	Feyenoord	65	34	20	5	9	75	41	+34	a
+4	AZ Alkmaar	AZ Alkmaar	58	34	17	7	10	64	43	+21	a
+5	Vitesse	Vitesse	53	34	14	11	9	70	51	+19	a
+6	FC Utrecht	FC Utrecht	53	34	15	8	11	60	51	+9	a
+7	Heracles Almelo	Heracles Almelo	48	34	15	3	16	61	68	-7	a
+8	FC Groningen	FC Groningen	45	34	13	6	15	39	41	-2	a
+9	ADO Den Haag	ADO Den Haag	45	34	12	9	13	58	63	-5	a
+10	Willem II	Willem II	44	34	13	5	16	58	72	-14	a
+11	Heerenveen	Heerenveen	41	34	10	11	13	64	73	-9	a
+12	VVV-Venlo	VVV-Venlo	41	34	11	8	15	47	63	-16	a
+13	Zwolle	Zwolle	39	34	11	6	17	44	57	-13	a
+14	FC Emmen	FC Emmen	38	34	10	8	16	41	72	-31	a
+15	Fortuna Sittard	Fortuna Sittard	34	34	9	7	18	50	80	-30	a
+16	Excelsior	Excelsior	33	34	9	6	19	46	79	-33	a
+17	De Graafschap	De Graafschap	29	34	8	5	21	38	75	-37	a
+18	NAC Breda	NAC Breda	23	34	5	8	21	29	74	-45	a
+1	Ajax	Ajax	41	17	13	2	2	58	13	+45	a
+2	Vitesse	Vitesse	38	17	12	2	3	31	13	+18	a
+3	PSV	PSV	37	17	11	4	2	41	19	+22	a
+4	Feyenoord	Feyenoord	35	17	10	5	2	32	13	+19	a
+5	AZ Alkmaar	AZ Alkmaar	34	17	9	7	1	41	25	+16	a
+6	FC Groningen	FC Groningen	31	17	9	4	4	25	21	+4	a
+7	FC Twente	FC Twente	28	17	8	4	5	33	24	+9	a
+8	Heerenveen	Heerenveen	22	17	5	7	5	25	26	-1	a
+9	Sparta Rotterdam	Sparta Rotterdam	21	17	6	3	8	28	30	-2	a
+10	FC Utrecht	FC Utrecht	21	17	4	9	4	22	24	-2	a
+11	Fortuna Sittard	Fortuna Sittard	19	17	5	4	8	25	34	-9	a
+12	Heracles Almelo	Heracles Almelo	18	17	5	3	9	19	28	-9	a
+13	Zwolle	Zwolle	17	17	3	8	6	17	26	-9	a
+14	VVV-Venlo	VVV-Venlo	16	17	4	4	9	27	45	-18	a
+15	RKC Waalwijk	RKC Waalwijk	14	17	3	5	9	15	29	-14	a
+16	Willem II	Willem II	10	17	2	4	11	20	36	-16	a
+17	ADO Den Haag	ADO Den Haag	10	17	2	4	11	16	41	-25	a
+18	FC Emmen	FC Emmen	5	17	0	5	12	17	45	-28	a
+1	Ajax	Ajax	88	34	28	4	2	102	23	+79	a
+2	PSV	PSV	72	34	21	9	4	74	35	+39	a
+3	AZ Alkmaar	AZ Alkmaar	71	34	21	8	5	75	41	+34	a
+4	Vitesse	Vitesse	61	34	18	7	9	52	38	+14	a
+5	Feyenoord	Feyenoord	59	34	16	11	7	64	36	+28	a
+6	FC Utrecht	FC Utrecht	53	34	13	14	7	52	41	+11	a
+7	FC Groningen	FC Groningen	50	34	14	8	12	40	37	+3	a
+8	Sparta Rotterdam	Sparta Rotterdam	47	34	13	8	13	49	48	+1	a
+9	Heracles Almelo	Heracles Almelo	44	34	12	8	14	42	53	-11	a
+10	FC Twente	FC Twente	41	34	10	11	13	48	50	-2	a
+11	Fortuna Sittard	Fortuna Sittard	41	34	12	5	17	50	58	-8	a
+12	Heerenveen	Heerenveen	39	34	9	12	13	43	49	-6	a
+13	Zwolle	Zwolle	38	34	9	11	14	44	53	-9	a
+14	Willem II	Willem II	31	34	8	7	19	40	68	-28	a
+15	RKC Waalwijk	RKC Waalwijk	30	34	7	9	18	33	55	-22	a
+16	FC Emmen	FC Emmen	30	34	7	9	18	40	68	-28	a
+17	VVV-Venlo	VVV-Venlo	23	34	6	5	23	43	91	-48	a
+18	ADO Den Haag	ADO Den Haag	22	34	4	10	20	29	76	-47	a
+1	PSV	PSV	40	17	13	1	3	44	24	+20	a
+2	Ajax	Ajax	39	17	12	3	2	51	4	+47	a
+3	Feyenoord	Feyenoord	36	17	11	3	3	39	17	+22	a
+4	FC Twente	FC Twente	31	17	9	4	4	27	21	+6	a
+5	Vitesse	Vitesse	30	17	9	3	5	24	25	-1	a
+6	AZ Alkmaar	AZ Alkmaar	29	17	9	2	6	34	23	+11	a
+7	FC Utrecht	FC Utrecht	28	17	8	4	5	32	22	+10	a
+8	SC Cambuur	SC Cambuur	27	17	9	0	8	31	38	-7	a
+9	Heerenveen	Heerenveen	25	17	7	4	6	20	22	-2	a
+10	NEC	NEC	22	17	6	4	7	23	26	-3	a
+11	Go Ahead Eagles	Go Ahead Eagles	21	17	6	3	8	19	27	-8	a
+12	FC Groningen	FC Groningen	19	17	4	7	6	20	26	-6	a
+13	Willem II	Willem II	18	17	5	3	9	18	35	-17	a
+14	Heracles Almelo	Heracles Almelo	17	17	5	2	10	20	25	-5	a
+15	RKC Waalwijk	RKC Waalwijk	15	17	3	6	8	18	29	-11	a
+16	Fortuna Sittard	Fortuna Sittard	13	17	3	4	10	19	41	-22	a
+17	Sparta Rotterdam	Sparta Rotterdam	12	17	2	6	9	14	26	-12	a
+18	Zwolle	Zwolle	6	17	1	3	13	9	31	-22	a
+1	Ajax	Ajax	83	34	26	5	3	98	19	+79	a
+2	PSV	PSV	81	34	26	3	5	86	42	+44	a
+3	Feyenoord	Feyenoord	71	34	22	5	7	76	34	+42	a
+4	FC Twente	FC Twente	68	34	20	8	6	55	37	+18	a
+5	AZ Alkmaar	AZ Alkmaar	61	34	18	7	9	64	44	+20	a
+6	Vitesse	Vitesse	51	34	15	6	13	42	51	-9	a
+7	FC Utrecht	FC Utrecht	47	34	12	11	11	51	46	+5	a
+8	Heerenveen	Heerenveen	41	34	11	8	15	37	50	-13	a
+9	SC Cambuur	SC Cambuur	39	34	11	6	17	53	70	-17	a
+10	RKC Waalwijk	RKC Waalwijk	38	34	9	11	14	40	51	-11	a
+11	NEC	NEC	38	34	10	8	16	38	52	-14	a
+12	FC Groningen	FC Groningen	36	34	9	9	16	41	55	-14	a
+13	Go Ahead Eagles	Go Ahead Eagles	36	34	10	6	18	37	51	-14	a
+14	Sparta Rotterdam	Sparta Rotterdam	35	34	8	11	15	30	48	-18	a
+15	Fortuna Sittard	Fortuna Sittard	35	34	10	5	19	36	67	-31	a
+16	Heracles Almelo	Heracles Almelo	34	34	9	7	18	33	49	-16	a
+17	Willem II	Willem II	33	34	9	6	19	32	57	-25	a
+18	Zwolle	Zwolle	27	34	7	6	21	26	52	-26	a
+1	Feyenoord	Feyenoord	38	17	11	5	1	40	15	+25	a
+2	AZ Alkmaar	AZ Alkmaar	36	17	11	3	3	31	18	+13	a
+3	PSV	PSV	35	17	11	2	4	45	22	+23	a
+4	FC Twente	FC Twente	34	17	10	4	3	28	9	+19	a
+5	Ajax	Ajax	33	17	9	6	2	46	19	+27	a
+6	Sparta Rotterdam	Sparta Rotterdam	31	17	9	4	4	29	16	+13	a
+7	Heerenveen	Heerenveen	27	17	7	6	4	19	16	+3	a
+8	FC Utrecht	FC Utrecht	26	17	7	5	5	26	26	0	a
+9	NEC	NEC	22	17	4	10	3	23	18	+5	a
+10	RKC Waalwijk	RKC Waalwijk	21	17	5	6	6	29	31	-2	a
+11	Go Ahead Eagles	Go Ahead Eagles	19	17	4	7	6	26	29	-3	a
+12	Excelsior	Excelsior	19	17	6	1	10	19	38	-19	a
+13	Fortuna Sittard	Fortuna Sittard	16	17	4	4	9	21	32	-11	a
+14	Vitesse	Vitesse	15	17	3	6	8	18	32	-14	a
+15	FC Groningen	FC Groningen	12	17	3	3	11	18	36	-18	a
+16	FC Emmen	FC Emmen	12	17	2	6	9	14	32	-18	a
+17	FC Volendam	FC Volendam	12	17	3	3	11	18	42	-24	a
+18	SC Cambuur	SC Cambuur	9	17	2	3	12	9	28	-19	a
+1	Feyenoord	Feyenoord	82	34	25	7	2	81	30	+51	a
+2	PSV	PSV	75	34	23	6	5	89	40	+49	a
+3	Ajax	Ajax	69	34	20	9	5	86	38	+48	a
+4	AZ Alkmaar	AZ Alkmaar	67	34	20	7	7	68	35	+33	a
+5	FC Twente	FC Twente	64	34	18	10	6	66	27	+39	a
+6	Sparta Rotterdam	Sparta Rotterdam	59	34	17	8	9	60	37	+23	a
+7	FC Utrecht	FC Utrecht	54	34	15	9	10	55	50	+5	a
+8	Heerenveen	Heerenveen	46	34	12	10	12	44	50	-6	a
+9	RKC Waalwijk	RKC Waalwijk	41	34	11	8	15	50	64	-14	a
+10	Vitesse	Vitesse	40	34	10	10	14	45	50	-5	a
+11	Go Ahead Eagles	Go Ahead Eagles	40	34	10	10	14	46	56	-10	a
+12	NEC	NEC	39	34	8	15	11	42	45	-3	a
+13	Fortuna Sittard	Fortuna Sittard	36	34	10	6	18	39	62	-23	a
+14	FC Volendam	FC Volendam	36	34	10	6	18	42	71	-29	a
+15	Excelsior	Excelsior	32	34	9	5	20	32	71	-39	a
+16	FC Emmen	FC Emmen	28	34	6	10	18	33	65	-32	a
+17	SC Cambuur	SC Cambuur	19	34	5	4	25	26	69	-43	a
+18	FC Groningen	FC Groningen	18	34	4	6	24	31	75	-44	a

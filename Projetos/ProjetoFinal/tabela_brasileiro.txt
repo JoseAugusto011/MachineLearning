@@ -1,0 +1,440 @@
+1	São Paulo	São Paulo	38	19	11	5	3	32	21	+11	a
+2	Internacional	Internacional	34	19	9	7	3	27	21	+6	a
+3	Santos	Santos	32	19	9	5	5	27	17	+10	a
+4	Paraná	Paraná	31	19	9	4	6	35	25	+10	a
+5	Grêmio	Grêmio	29	19	8	5	6	30	26	+4	a
+6	Fluminense	Fluminense	29	19	8	5	6	30	30	0	a
+7	Vasco	Vasco	29	19	8	5	6	26	27	-1	a
+8	Cruzeiro	Cruzeiro	27	19	7	6	6	29	21	+8	a
+9	Figueirense	Figueirense	27	19	7	6	6	29	25	+4	a
+10	Palmeiras	Palmeiras	25	19	7	4	8	29	32	-3	a
+11	São Caetano	São Caetano	25	19	6	7	6	23	23	0	a
+12	Juventude	Juventude	23	19	6	5	8	20	22	-2	a
+13	Flamengo	Flamengo	23	19	6	5	8	17	21	-4	a
+14	Atlético Paranaense	Atlético Paranaense	22	19	6	4	9	25	24	+1	a
+15	Ponte Preta	Ponte Preta	22	19	6	4	9	27	39	-12	a
+16	Goiás	Goiás	21	19	5	6	8	22	26	-4	a
+17	Botafogo	Botafogo	21	19	4	9	6	21	23	-2	a
+18	Corinthians	Corinthians	20	19	6	2	11	20	28	-8	a
+19	Fortaleza	Fortaleza	20	19	4	8	7	20	28	-8	a
+20	Santa Cruz	Santa Cruz	18	19	4	6	9	23	33	-10	a
+1	São Paulo	São Paulo	78	38	22	12	4	66	32	+34	a
+2	Internacional	Internacional	69	38	20	9	9	52	36	+16	a
+3	Grêmio	Grêmio	67	38	20	7	11	64	45	+19	a
+4	Santos	Santos	64	38	18	10	10	58	36	+22	a
+5	Paraná	Paraná	60	38	18	6	14	56	49	+7	a
+6	Vasco	Vasco	59	38	15	14	9	57	50	+7	a
+7	Figueirense	Figueirense	57	38	15	12	11	52	44	+8	a
+8	Goiás	Goiás	55	38	15	10	13	63	49	+14	a
+9	Corinthians	Corinthians	53	38	15	8	15	41	46	-5	a
+10	Cruzeiro	Cruzeiro	53	38	14	11	13	52	45	+7	a
+11	Flamengo	Flamengo	52	38	15	7	16	44	48	-4	a
+12	Botafogo	Botafogo	51	38	13	12	13	52	50	+2	a
+13	Atlético Paranaense	Atlético Paranaense	48	38	13	9	16	61	62	-1	a
+14	Juventude	Juventude	47	38	13	8	17	44	54	-10	a
+15	Fluminense	Fluminense	45	38	11	12	15	48	58	-10	a
+16	Palmeiras	Palmeiras	44	38	12	8	18	58	70	-12	a
+17	Ponte Preta	Ponte Preta	39	38	10	9	19	45	65	-20	a
+18	Fortaleza	Fortaleza	38	38	8	14	16	39	62	-23	a
+19	São Caetano	São Caetano	36	38	9	9	20	37	53	-16	a
+20	Santa Cruz	Santa Cruz	28	38	7	7	24	41	76	-35
+1	São Paulo	São Paulo	40	19	12	4	3	24	7	+17	a
+2	Botafogo	Botafogo 	33	19	9	6	4	38	27	+11	a
+3	Cruzeiro	Cruzeiro 	32	19	10	2	7	41	36	+5	a
+4	Vasco	          Vasco 	31	19	9	4	6	34	23	+11	a
+5	Palmeiras	Palmeiras 	30	19	8	6	5	25	23	+2	a
+6	Goiás	Goiás 	29	19	9	2	8	28	25	+3	a
+7	Grêmio	Grêmio 	28	19	8	4	7	18	20	-2	a
+8	Santos	Santos 	27	19	8	3	8	27	26	+1	a
+9	Internacional	Internacional 	27	19	8	3	8	26	25	+1	a
+10	Sport	Sport 	27	19	8	3	8	33	34	-1	a
+11	Flamengo	Flamengo 	27	19	7	6	6	30	30	0	a
+12	Fluminense	Fluminense 	26	19	6	8	5	21	15	+6	a
+13	Corinthians	Corinthians 	26	19	6	8	5	22	24	-2	a
+14	Atlético Mineiro	Atlético Mineiro 	25	19	7	4	8	29	28	+1	a
+15	Figueirense	Figueirense 	24	19	6	6	7	28	32	-4	a
+16	Paraná	Paraná 	24	19	6	6	7	21	23	-2	a
+17	Atlético Paranaense	Atlético Paranaense	22	19	5	7	7	29	28	+1	a
+18	Náutico	Náutico 	20	19	5	5	9	28	34	-6	a
+19	Juventude	Juventude 	16	19	4	4	11	19	35	-16	a
+20	América-RN	América-RN 	10	19	3	1	15	16	42	-26	a
+1      São Paulo	São Paulo	77	38	23	8	7	55	19	+36	a
+2	Santos	Santos 	62	38	19	5	14	57	47	+10	a
+3	Flamengo	Flamengo 	61	38	17	10	11	55	49	+6	a
+4	Fluminense	Fluminense 	61	38	16	13	9	57	39	+18	a
+5	Cruzeiro	Cruzeiro 	60	38	18	6	14	73	58	+15	a
+6	Grêmio	Grêmio 	58	38	17	7	14	44	43	+1	a
+7	Palmeiras	Palmeiras 	58	38	16	10	12	48	47	+1	a
+8	Atlético Mineiro	Atlético Mineiro 	55	38	15	10	13	63	51	+12	a
+9	Botafogo	Botafogo 	55	38	14	13	11	62	58	+4	a
+10	Vasco	Vasco 	54	38	15	9	14	58	47	+11	a
+11	Internacional	Internacional 	54	38	15	9	14	49	44	+5	a
+12	Atlético Paranaense	Atlético Paranaense	54	38	14	12	12	51	50	+1	a
+13	Figueirense	Figueirense 	53	38	14	11	13	57	56	+1	a
+14	Sport	Sport 	51	38	14	9	15	54	55	-1	a
+15	Náutico	Náutico 	49	38	14	7	17	66	63	+3	a
+16	Goiás	Goiás 	45	38	13	6	19	49	62	-13	a
+17	Corinthians	Corinthians 	44	38	10	14	14	40	50	-10	a
+18	Juventude	Juventude 	41	38	11	8	19	43	65	-22	a
+19	Paraná	Paraná 	41	38	11	8	19	42	64	-22	a
+20	América-RN	América-RN 	17	38	4	5	29	24	80	-56	a
+1	Grêmio	Grêmio 	41	19	12	5	2	35	12	+23	a
+2	Cruzeiro	Cruzeiro 	36	19	11	3	5	32	19	+13	a
+3	Palmeiras	Palmeiras 	34	19	10	4	5	32	21	+11	a
+4	São Paulo	São Paulo	33	19	9	6	4	33	21	+12	a
+5	Vitória	Vitória 	32	19	10	2	7	30	21	+9	a
+6	Coritiba	Coritiba 	32	19	9	5	5	29	19	+10	a
+7	Flamengo	Flamengo 	31	19	9	4	6	30	19	+11	a
+8	Botafogo	Botafogo 	31	19	9	4	6	29	19	+10	a
+9	Sport	Sport 	27	19	8	3	8	21	24	-3	a
+10	Internacional	Internacional 	26	19	7	5	7	21	20	+1	a
+11	Figueirense	Figueirense 	25	19	6	7	6	24	35	-11	a
+12	Atlético Mineiro	Atlético Mineiro 	24	19	6	6	7	25	37	-12	a
+13	Goiás	Goiás 	23	19	6	5	8	23	28	-5	a
+14	Portuguesa	Portuguesa 	22	19	6	4	9	26	39	-13	a
+15	Náutico	Náutico 	21	19	6	3	10	20	29	-9	a
+16	Atlético Paranaense	Atlético Paranaense	20	19	5	5	9	17	21	-4	a
+17	Vasco	Vasco 	19	19	5	4	10	30	39	-9	a
+18	Santos	Santos 	17	19	4	5	10	21	33	-12	a
+19	Fluminense	Fluminense 	16	19	4	4	11	21	29	-8	a
+20	Ipatinga	Ipatinga	16	19	4	4	11	20	34	-14	a
+1	São Paulo	São Paulo	75	38	21	12	5	66	36	+30	a
+2	Grêmio	Grêmio 	72	38	21	9	8	59	35	+24	a
+3	Cruzeiro	Cruzeiro 	67	38	21	4	13	59	44	+15	a
+4	Palmeiras	Palmeiras 	65	38	19	8	11	55	45	+10	a
+5	Flamengo	Flamengo 	64	38	18	10	10	67	48	+19	a
+6	Internacional	Internacional 	54	38	15	9	14	48	47	+1	a
+7	Botafogo	Botafogo 	53	38	15	8	15	51	44	+7	a
+8	Goiás	Goiás 	53	38	14	11	13	57	47	+10	a
+9	Coritiba	Coritiba 	53	38	14	11	13	55	48	+7	a
+10	Vitória	Vitória 	52	38	15	7	16	48	44	+4	a
+11	Sport	Sport 	52	38	14	10	14	48	45	+3	a
+12	Atlético Mineiro	Atlético Mineiro 	48	38	12	12	14	50	61	-11	a
+13	Atlético Paranaense	Atlético Paranaense	45	38	12	9	17	45	54	-9	a
+14	Fluminense	Fluminense 	45	38	11	12	15	49	48	+1	a
+15	Santos	Santos 	45	38	11	12	15	44	53	-9	a
+16	Náutico	Náutico 	44	38	11	11	16	44	54	-10	a
+17	Figueirense	Figueirense 	44	38	11	11	16	49	73	-24	a
+18	Vasco	Vasco 	40	38	11	7	20	56	72	-16	a
+19	Portuguesa	Portuguesa 	38	38	9	11	18	48	70	-22	a
+20	Ipatinga	Ipatinga	35	38	9	8	21	37	67	-30	a
+1	Internacional	Internacional	37	19	11	4	4	37	23	+14	a
+2	Palmeiras	Palmeiras	37	19	10	7	2	31	17	+14	a
+3	Goiás	Goiás	35	19	10	5	4	37	26	+11	a
+4	São Paulo	São Paulo	33	19	9	6	4	28	21	+7	a
+5	Atlético Mineiro	Atlético Mineiro	32	19	9	5	5	32	25	+7	a
+6	Avaí	Avaí	30	19	8	6	5	28	22	+6	a
+7	Flamengo	Flamengo	29	19	8	5	6	27	29	-2	a
+8	Grêmio	Grêmio	28	19	8	4	7	33	22	+11	a
+9	Corinthians	Corinthians	28	19	8	4	7	23	23	0	a
+10	Grêmio Barueri	Grêmio Barueri	28	19	7	7	5	38	28	+10	a
+11	Santos	Santos	26	19	6	8	5	34	34	0	a
+12	Vitória	Vitória	25	19	7	4	8	27	29	-2	a
+13	Atlético Paranaense	Atlético Paranaense	24	19	7	3	9	21	29	-8	a
+14	Cruzeiro	Cruzeiro	22	19	6	4	9	19	28	-9	a
+15	Botafogo	Botafogo	20	19	4	8	7	24	30	-6	a
+16	Coritiba	Coritiba	19	19	5	4	10	26	32	-6	a
+17	Santo André	Santo André	18	19	4	6	9	21	29	-8	a
+18	Náutico	Náutico	18	19	4	6	9	22	37	-15	a
+19	Fluminense	Fluminense	15	19	3	6	10	21	32	-11	a
+20	Sport	Sport	13	19	3	4	12	24	37	-13
+1	Flamengo	Flamengo	67	38	19	10	9	58	44	+14	a
+2	Internacional	Internacional	65	38	19	8	11	65	44	+21	a
+3	São Paulo	São Paulo	65	38	18	11	9	57	42	+15	a
+4	Cruzeiro	Cruzeiro	62	38	18	8	12	58	53	+5	a
+5	Palmeiras	Palmeiras	62	38	17	11	10	58	45	+13	a
+6	Avaí	Avaí	57	38	15	12	11	61	52	+9	a
+7	Atlético Mineiro	Atlético Mineiro	56	38	16	8	14	55	56	-1	a
+8	Grêmio	Grêmio	55	38	15	10	13	67	46	+21	a
+9	Goiás	Goiás	55	38	15	10	13	64	65	-1	a
+10	Corinthians	Corinthians	52	38	14	10	14	50	54	-4	a
+11	Grêmio Barueri	Grêmio Barueri	49	38	12	13	13	59	52	+7	a
+12	Santos	Santos	49	38	12	13	13	58	58	0	a
+13	Vitória	Vitória	48	38	13	9	16	51	57	-6	a
+14	Atlético Paranaense	Atlético Paranaense	48	38	13	9	16	42	49	-7	a
+15	Botafogo	Botafogo	47	38	11	14	13	52	58	-6	a
+16	Fluminense	Fluminense	46	38	11	13	14	49	56	-7	a
+17	Coritiba	Coritiba	45	38	12	9	17	48	60	-12	a
+18	Santo André	Santo André	41	38	11	8	19	46	61	-15	a
+19	Náutico	Náutico	38	38	10	8	20	48	71	-23	a
+20	Sport	Sport	31	38	7	10	21	48	71	-23	
+1	Fluminense	Fluminense	38	19	11	5	3	32	16	+16	a
+2	Corinthians	Corinthians	37	19	11	4	4	34	21	+13	a
+3	Santos	Santos	34	19	10	4	5	30	22	+8	a
+4	Internacional	Internacional	31	19	9	4	6	24	20	+4	a
+5	Botafogo	Botafogo	31	19	8	7	4	30	20	+10	a
+6	Cruzeiro	Cruzeiro	31	19	8	7	4	22	17	+5	a
+7	Vasco	Vasco	29	19	7	8	4	21	18	+3	a
+8	Atlético Paranaense	Atlético Paranaense	27	19	8	3	8	23	28	-5	a
+9	Guarani	Guarani	26	19	6	8	5	22	24	-2	a
+10	São Paulo	São Paulo	25	19	6	7	6	25	25	0	a
+11	Ceará	Ceará	25	19	6	7	6	15	15	0	a
+12	Palmeiras	Palmeiras	24	19	5	9	5	21	22	-1	a
+13	Avaí	Avaí	23	19	6	5	8	28	29	-1	a
+14	Flamengo	Flamengo	22	19	5	7	7	14	15	-1	a
+15	Vitória	Vitória	22	19	5	7	7	22	26	-4	a
+16	Grêmio	Grêmio	20	19	4	8	7	23	26	-3	a
+17	Atlético Mineiro	Atlético Mineiro	17	19	5	2	12	23	34	-11	a
+18	Atlético Goianiense	Atlético Goianiense	17	19	4	5	10	22	26	-4	a
+19	Grêmio Barueri	Grêmio Barueri	16	19	4	7	8	19	25	-6	a
+20	Goiás	Goiás	13	19	3	4	12	16	37	-21	a
+1	Fluminense	Fluminense	71	38	20	11	7	62	36	+26	a
+2	Cruzeiro	Cruzeiro	69	38	20	9	9	53	38	+15	a
+3	Corinthians	Corinthians	68	38	19	11	8	65	41	+24	a
+4	Grêmio	Grêmio	63	38	17	12	9	68	43	+25	a
+5	Atlético Paranaense	Atlético Paranaense	60	38	17	9	12	43	45	-2	a
+6	Botafogo	Botafogo	59	38	14	17	7	54	42	+12	a
+7	Internacional	Internacional	58	38	16	10	12	48	41	+7	a
+8	Santos	Santos	56	38	15	11	12	63	50	+13	a
+9	São Paulo	São Paulo	55	38	15	10	13	54	54	0	a
+10	Palmeiras	Palmeiras	50	38	12	14	12	42	43	-1	a
+11	Vasco	Vasco	49	38	11	16	11	43	45	-2	a
+12	Ceará	Ceará	47	38	10	17	11	35	44	-9	a
+13	Atlético Mineiro	Atlético Mineiro	45	38	13	6	19	52	64	-12	a
+14	Flamengo	Flamengo	44	38	9	17	12	41	44	-3	a
+15	Avaí	Avaí	43	38	11	10	17	49	58	-9	a
+16	Atlético Goianiense	Atlético Goianiense	42	38	11	9	18	51	57	-6	a
+17	Vitória	Vitória	42	38	9	15	14	42	48	-6	a
+18	Guarani	Guarani	37	38	8	13	17	33	53	-20	a
+19	Goiás	Goiás	33	38	8	9	21	41	68	-27	a
+20	Grêmio Barueri	Grêmio Barueri	28	38	7	10	21	39	64	-25	a
+1	Corinthians	Corinthians	37	19	11	4	4	30	18	+12	a
+2	Flamengo	Flamengo	36	19	9	9	1	33	21	+12	a
+3	São Paulo	São Paulo	35	19	10	5	4	30	23	+7	a
+4	Vasco	Vasco	35	19	10	5	4	26	21	+5	a
+5	Botafogo	Botafogo	34	19	10	4	5	29	19	+10	a
+6	Palmeiras	Palmeiras	32	19	8	8	3	25	14	+11	a
+7	Cruzeiro	Cruzeiro	27	19	8	3	8	26	20	+6	a
+8	Internacional	Internacional	27	19	7	6	6	28	24	+4	a
+9	Coritiba	Coritiba	26	19	7	5	7	32	24	+8	a
+10	Figueirense	Figueirense	26	19	7	5	7	21	24	-3	a
+11	Fluminense	Fluminense	25	19	8	1	10	22	22	0	a
+12	Atlético Goianiense	Atlético Goianiense	25	19	7	4	8	22	21	+1	a
+13	Ceará	Ceará	25	19	7	4	8	27	28	-1	a
+14	Grêmio	Grêmio	24	19	6	6	7	19	23	-4	a
+15	Santos	Santos	22	19	6	4	9	23	29	-6	a
+16	Bahia	Bahia	20	19	4	8	7	21	27	-6	a
+17	Atlético Paranaense	Atlético Paranaense	18	19	4	6	9	20	28	-8	a
+18	Avaí	Avaí	17	19	4	5	10	21	40	-19	a
+19	Atlético Mineiro	Atlético Mineiro	15	19	4	3	12	24	38	-14	a
+20	América Mineiro	América Mineiro	13	19	2	7	10	22	37	-15	a
+1	Corinthians	Corinthians	71	38	21	8	9	53	36	+17	a
+2	Vasco	Vasco	69	38	19	12	7	57	40	+17	a
+3	Fluminense	Fluminense	63	38	20	3	15	60	51	+9	a
+4	Flamengo	Flamengo	61	38	15	16	7	59	47	+12	a
+5	Internacional	Internacional	60	38	16	12	10	57	43	+14	a
+6	São Paulo	São Paulo	59	38	16	11	11	57	46	+11	a
+7	Figueirense	Figueirense	58	38	15	13	10	46	45	+1	a
+8	Coritiba	Coritiba	57	38	16	9	13	57	41	+16	a
+9	Botafogo	Botafogo	56	38	16	8	14	52	49	+3	a
+10	Santos	Santos	53	38	15	8	15	55	55	0	a
+11	Palmeiras	Palmeiras	50	38	11	17	10	43	39	+4	a
+12	Grêmio	Grêmio	48	38	13	9	16	49	57	-8	a
+13	Atlético Goianiense	Atlético Goianiense	48	38	12	12	14	50	45	+5	a
+14	Bahia	Bahia	46	38	11	13	14	43	49	-6	a
+15	Atlético Mineiro	Atlético Mineiro	45	38	13	6	19	50	60	-10	a
+16	Cruzeiro	Cruzeiro	43	38	11	10	17	48	51	-3	a
+17	Atlético Paranaense	Atlético Paranaense	41	38	10	11	17	38	55	-17	a
+18	Ceará	Ceará	39	38	10	9	19	47	64	-17	a
+19	América Mineiro	América Mineiro	37	38	8	13	17	51	69	-18	a
+20	Avaí	Avaí	31	38	7	10	21	45	75	-30	a
+1	Atlético Mineiro	Atlético Mineiro	43	19	13	4	2	34	15	+19	a
+2	Fluminense	Fluminense	42	19	12	6	1	31	11	+20	a
+3	Grêmio	Grêmio	37	19	12	1	6	29	16	+13	a
+4	Vasco	Vasco	35	19	10	5	4	25	17	+8	a
+5	São Paulo	São Paulo	31	19	10	1	8	29	24	+5	a
+6	Internacional	Internacional	31	19	8	7	4	22	15	+7	a
+7	Flamengo	Flamengo	29	19	8	5	6	23	23	0	a
+8	Botafogo	Botafogo	28	19	8	4	7	30	24	+6	a
+9	Cruzeiro	Cruzeiro	28	19	8	4	7	24	27	-3	a
+10	Santos	Santos	26	19	6	8	5	23	23	0	a
+11	Náutico	Náutico	24	19	7	3	9	24	29	-5	a
+12	Corinthians	Corinthians	24	19	6	6	7	20	20	0	a
+13	Ponte Preta	Ponte Preta	23	19	6	5	8	21	26	-5	a
+14	Portuguesa	Portuguesa	22	19	5	7	7	17	21	-4	a
+15	Coritiba	Coritiba	19	19	5	4	10	31	37	-6	a
+16	Bahia	Bahia	17	19	3	8	8	15	24	-9	a
+17	Palmeiras	Palmeiras	16	19	4	4	11	18	23	-5	a
+18	Atlético Goianiense	Atlético Goianiense	16	19	3	7	9	20	33	-13	a
+19	Sport	Sport	15	19	3	6	10	13	26	-13	a
+20	Figueirense	Figueirense	14	19	3	5	11	18	33	-15
+1	Fluminense	Fluminense	77	38	22	11	5	61	33	+28	a
+2	Atlético Mineiro	Atlético Mineiro	72	38	20	12	6	64	37	+27	a
+3	Grêmio	Grêmio	71	38	20	11	7	56	33	+23	a
+4	São Paulo	São Paulo	66	38	20	6	12	59	37	+22	a
+5	Vasco	Vasco	58	38	16	10	12	45	44	+1	a
+6	Corinthians	Corinthians	57	38	15	12	11	51	39	+12	a
+7	Botafogo	Botafogo	55	38	15	10	13	60	50	+10	a
+8	Santos	Santos	53	38	13	14	11	50	44	+6	a
+9	Cruzeiro	Cruzeiro	52	38	15	7	16	47	51	-4	a
+10	Internacional	Internacional	52	38	13	13	12	44	40	+4	a
+11	Flamengo	Flamengo	50	38	12	14	12	39	46	-7	a
+12	Náutico	Náutico	49	38	14	7	17	44	51	-7	a
+13	Coritiba	Coritiba	48	38	14	6	18	53	60	-7	a
+14	Ponte Preta	Ponte Preta	48	38	12	12	14	37	44	-7	a
+15	Bahia	Bahia	47	38	11	14	13	37	41	-4	a
+16	Portuguesa	Portuguesa	45	38	10	15	13	39	41	-2	a
+17	Sport	Sport	41	38	10	11	17	39	56	-17	a
+18	Palmeiras	Palmeiras	34	38	9	7	22	39	54	-15	a
+19	Atlético Goianiense	Atlético Goianiense	30	38	7	9	22	37	67	-30	a
+20	Figueirense	Figueirense	30	38	7	9	22	39	72	-33	a
+1	Cruzeiro	Cruzeiro	40	19	12	4	3	42	18	+24	a
+2	Botafogo	Botafogo	36	19	10	6	3	32	21	+11	a
+3	Grêmio	Grêmio	34	19	10	4	5	26	19	+7	a
+4	Atlético Paranaense	Atlético Paranaense	34	19	9	7	3	34	24	+10	a
+5	Corinthians	Corinthians	30	19	7	9	3	19	8	+11	a
+6	Internacional	Internacional	30	19	7	9	3	32	27	+5	a
+7	Santos	Santos	29	19	7	8	4	23	16	+7	a
+8	Coritiba	Coritiba	28	19	7	7	5	23	20	+3	a
+9	Goiás	Goiás	26	19	6	8	5	19	22	-3	a
+10	Atlético Mineiro	Atlético Mineiro	25	19	6	7	6	22	22	0	a
+11	Vasco	Vasco	24	19	6	6	7	29	32	-3	a
+12	Criciúma	Criciúma	23	19	7	2	10	25	31	-6	a
+13	Vitória	Vitória	23	19	6	5	8	23	27	-4	a
+14	Bahia	Bahia	23	19	6	5	8	18	24	-6	a
+15	Fluminense	Fluminense	22	19	6	4	9	22	26	-4	a
+16	Flamengo	Flamengo	18	19	5	7	7	19	23	-4	a
+17	São Paulo	São Paulo	18	19	4	6	9	17	22	-5	a
+18	Portuguesa	Portuguesa	15	19	4	7	8	26	32	-6	a
+19	Ponte Preta	Ponte Preta	15	19	4	3	12	20	34	-14	a
+20	Náutico	Náutico	10	19	2	4	13	10	33	-23	a
+1	Cruzeiro	Cruzeiro	76	38	23	7	8	77	37	+40	a
+2	Grêmio	Grêmio	65	38	18	11	9	42	35	+7	a
+3	Atlético Paranaense	Atlético Paranaense	64	38	18	10	10	65	49	+16	a
+4	Botafogo	Botafogo	61	38	17	10	11	55	41	+14	a
+5	Vitória	Vitória	59	38	16	11	11	59	53	+6	a
+6	Goiás	Goiás	59	38	16	11	11	48	44	+4	a
+7	Santos	Santos	57	38	15	12	11	51	38	+13	a
+8	Atlético Mineiro	Atlético Mineiro	57	38	15	12	11	49	38	+11	a
+9	São Paulo	São Paulo	50	38	14	8	16	39	40	-1	a
+10	Corinthians	Corinthians	50	38	11	17	10	27	22	+5	a
+11	Coritiba	Coritiba	48	38	12	12	14	42	45	-3	a
+12	Bahia	Bahia	48	38	12	12	14	37	45	-8	a
+13	Internacional	Internacional	48	38	11	15	12	51	52	-1	a
+14	Criciúma	Criciúma	46	38	13	7	18	49	63	-14	a
+15	Fluminense	Fluminense	46	38	12	10	16	43	47	-4	a
+16	Flamengo	Flamengo	45	38	12	13	13	43	46	-3	a
+17	Portuguesa	Portuguesa	44	38	12	12	14	50	46	+4	a
+18	Vasco	Vasco	44	38	11	11	16	50	61	-11	a
+19	Ponte Preta	Ponte Preta	37	38	9	10	19	37	55	-18	a
+20	Náutico	Náutico	20	38	5	5	28	22	79	-57	a
+1	Cruzeiro	Cruzeiro	43	19	13	4	2	41	18	+23	a
+2	São Paulo	São Paulo	36	19	10	6	3	31	20	+11	a
+3	Internacional	Internacional	34	19	10	4	5	25	16	+9	a
+4	Corinthians	Corinthians	33	19	8	9	2	24	12	+12	a
+5	Fluminense	Fluminense	31	19	9	4	6	31	19	+12	a
+6	Grêmio	Grêmio	31	19	9	4	6	17	14	+3	a
+7	Atlético Mineiro	Atlético Mineiro	30	19	8	6	5	24	19	+5	a
+8	Sport	Sport	28	19	8	4	7	16	23	-7	a
+9	Santos	Santos	26	19	7	5	7	21	15	+6	a
+10	Flamengo	Flamengo	25	19	7	4	8	16	23	-7	a
+11	Atlético Paranaense	Atlético Paranaense	25	19	6	7	6	25	26	-1	a
+12	Figueirense	Figueirense	24	19	7	3	9	17	25	-8	a
+13	Goiás	Goiás	24	19	6	6	7	14	19	-5	a
+14	Botafogo	Botafogo	22	19	6	4	9	19	19	0	a
+15	Chapecoense	Chapecoense	20	19	5	5	9	13	20	-7	a
+16	Palmeiras	Palmeiras	18	19	5	3	11	15	25	-10	a
+17	Criciúma	Criciúma	18	19	4	6	9	9	25	-16	a
+18	Coritiba	Coritiba	17	19	3	8	8	14	18	-4	a
+19	Bahia	Bahia	17	19	3	8	8	11	17	-6	a
+20	Vitória	Vitória	15	19	3	6	10	17	27	-10	a
+1	Cruzeiro	Cruzeiro	80	38	24	8	6	67	38	+29	a
+2	São Paulo	São Paulo	70	38	20	10	8	59	40	+19	a
+3	Internacional	Internacional	69	38	21	6	11	53	41	+12	a
+4	Corinthians	Corinthians	69	38	19	12	7	49	31	+18	a
+5	Atlético Mineiro	Atlético Mineiro	62	38	17	11	10	51	38	+13	a
+6	Fluminense	Fluminense	61	38	17	10	11	61	42	+19	a
+7	Grêmio	Grêmio	61	38	17	10	11	36	24	+12	a
+8	Atlético Paranaense	Atlético Paranaense	54	38	15	9	14	43	42	+1	a
+9	Santos	Santos	53	38	15	8	15	42	35	+7	a
+10	Flamengo	Flamengo	52	38	14	10	14	46	47	-1	a
+11	Sport	Sport	52	38	14	10	14	36	46	-10	a
+12	Goiás	Goiás	47	38	13	8	17	38	40	-2	a
+13	Figueirense	Figueirense	47	38	13	8	17	37	47	-10	a
+14	Coritiba	Coritiba	47	38	12	11	15	42	45	-3	a
+15	Chapecoense	Chapecoense	43	38	11	10	17	39	44	-5	a
+16	Palmeiras	Palmeiras	40	38	11	7	20	34	59	-25	a
+17	Vitória	Vitória	38	38	10	8	20	37	54	-17	a
+18	Bahia	Bahia	37	38	9	10	19	31	43	-12	a
+19	Botafogo	Botafogo	34	38	9	7	22	31	48	-17	a
+20	Criciúma	Criciúma	32	38	7	11	20	28	56	-28	a
+1	Corinthians	Corinthians	40	19	12	4	3	27	14	+13	a
+2	Atlético Mineiro	Atlético Mineiro	36	19	11	3	5	33	18	+15	a
+3	Grêmio	Grêmio	36	19	11	3	5	29	17	+12	a
+4	Fluminense	Fluminense	33	19	10	3	6	22	18	+4	a
+5	Palmeiras	Palmeiras	31	19	9	4	6	32	18	+14	a
+6	São Paulo	São Paulo	31	19	9	4	6	25	21	+4	a
+7	Sport	Sport	31	19	7	10	2	31	21	+10	a
+8	Atlético Paranaense	Atlético Paranaense	30	19	9	3	7	23	21	+2	a
+9	Chapecoense	Chapecoense	28	19	8	4	7	17	17	0	a
+10	Ponte Preta	Ponte Preta	26	19	6	8	5	21	21	0	a
+11	Internacional	Internacional	25	19	6	7	6	14	21	-7	a
+12	Santos	Santos	24	19	6	6	7	25	24	+1	a
+13	Flamengo	Flamengo	23	19	7	2	10	21	28	-7	a
+14	Cruzeiro	Cruzeiro	22	19	6	4	9	15	17	-2	a
+15	Figueirense	Figueirense	20	19	5	5	9	18	26	-8	a
+16	Avaí	Avaí	20	19	5	5	9	18	28	-10	a
+17	Goiás	Goiás	19	19	4	7	8	16	16	0	a
+18	Coritiba	Coritiba	18	19	4	6	9	13	23	-10	a
+19	Joinville	Joinville	16	19	4	4	11	13	21	-8	a
+20	Vasco	Vasco	13	19	3	4	12	8	31	-23	a
+1	Corinthians	Corinthians	81	38	24	9	5	71	31	+40	a
+2	Atlético Mineiro	Atlético Mineiro	69	38	21	6	11	65	47	+18	a
+3	Grêmio	Grêmio	68	38	20	8	10	52	32	+20	a
+4	São Paulo	São Paulo	62	38	18	8	12	53	47	+6	a
+5	Internacional	Internacional	60	38	17	9	12	39	38	+1	a
+6	Sport	Sport	59	38	15	14	9	53	38	+15	a
+7	Santos	Santos	58	38	16	10	12	59	41	+18	a
+8	Cruzeiro	Cruzeiro	55	38	15	10	13	44	35	+9	a
+9	Palmeiras	Palmeiras	53	38	15	8	15	60	51	+9	a
+10	Atlético Paranaense	Atlético Paranaense	51	38	14	9	15	43	48	-5	a
+11	Ponte Preta	Ponte Preta	51	38	13	12	13	41	40	+1	a
+12	Flamengo	Flamengo	49	38	15	4	19	45	53	-8	a
+13	Fluminense	Fluminense	47	38	14	5	19	40	49	-9	a
+14	Chapecoense	Chapecoense	47	38	12	11	15	34	44	-10	a
+15	Coritiba	Coritiba	44	38	11	11	16	31	42	-11	a
+16	Figueirense	Figueirense	43	38	11	10	17	36	50	-14	a
+17	Avaí	Avaí	42	38	11	9	18	38	60	-22	a
+18	Vasco	Vasco	41	38	10	11	17	28	54	-26	a
+19	Goiás	Goiás	38	38	10	8	20	39	49	-10	a
+20	Joinville	Joinville	31	38	7	10	21	26	48	-22	a
+1	Palmeiras	Palmeiras	36	19	11	3	5	35	20	+15	a
+2	Atlético Mineiro	Atlético Mineiro	35	19	10	5	4	33	25	+8	a
+3	Corinthians	Corinthians	34	19	10	4	5	28	15	+13	a
+4	Flamengo	Flamengo	34	19	10	4	5	23	19	+4	a
+5	Santos	Santos	33	19	10	3	6	32	17	+15	a
+6	Grêmio	Grêmio	32	19	9	5	5	27	21	+6	a
+7	Atlético Paranaense	Atlético Paranaense	30	19	9	3	7	20	18	+2	a
+8	Fluminense	Fluminense	28	19	7	7	5	23	20	+3	a
+9	Ponte Preta	Ponte Preta	27	19	8	3	8	23	31	-8	a
+10	São Paulo	São Paulo	26	19	7	5	7	21	20	+1	a
+11	Chapecoense	Chapecoense	24	19	5	9	5	27	33	-6	a
+12	Sport	Sport	23	19	6	5	8	29	29	0	a
+13	Botafogo	Botafogo	23	19	6	5	8	25	30	-5	a
+14	Internacional	Internacional	22	19	6	4	9	21	23	-2	a
+15	Vitória	Vitória	22	19	5	7	7	24	28	-4	a
+16	Coritiba	Coritiba	21	19	5	6	8	21	26	-5	a
+17	Figueirense	Figueirense	21	19	4	9	6	18	23	-5	a
+18	Cruzeiro	Cruzeiro	19	19	5	4	10	24	32	-8	a
+19	Santa Cruz	Santa Cruz	18	19	5	3	11	20	26	-6	a
+20	América Mineiro	América Mineiro	13	19	3	4	12	12	30	-18	
+1	Palmeiras	Palmeiras	80	38	24	8	6	62	32	+30	a
+2	Santos	Santos	71	38	22	5	11	59	35	+24	a
+3	Flamengo	Flamengo	71	38	20	11	7	52	35	+17	a
+4	Atlético Mineiro	Atlético Mineiro	62	38	17	11	10	61	53	+8	a
+5	Botafogo	Botafogo	59	38	17	8	13	43	39	+4	a
+6	Atlético Paranaense	Atlético Paranaense	57	38	17	6	15	38	32	+6	a
+7	Corinthians	Corinthians	55	38	15	10	13	48	42	+6	a
+8	Ponte Preta	Ponte Preta	53	38	15	8	15	48	52	-4	a
+9	Grêmio	Grêmio	53	38	14	11	13	41	44	-3	a
+10	São Paulo	São Paulo	52	38	14	10	14	44	36	+8	a
+11	Chapecoense	Chapecoense	52	38	13	13	12	49	56	-7	a
+12	Cruzeiro	Cruzeiro	51	38	14	9	15	48	49	-1	a
+13	Fluminense	Fluminense	50	38	13	11	14	45	45	0	a
+14	Sport	Sport	47	38	13	8	17	49	55	-6	a
+15	Coritiba	Coritiba	46	38	11	13	14	41	42	-1	a
+16	Vitória	Vitória	45	38	12	9	17	51	53	-2	a
+17	Internacional	Internacional	43	38	11	10	17	35	41	-6	a
+18	Figueirense	Figueirense	37	38	8	13	17	30	50	-20	a
+19	Santa Cruz	Santa Cruz	31	38	8	7	23	45	69	-24	a
+20	América Mineiro	América Mineiro	28	38	7	7	24	23	58	-35	a

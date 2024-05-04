@@ -1,0 +1,18 @@
+ano,País,linkInicio,LinkFim
+
+2003, Italia,https://www.ogol.com.br/edicao/serie-a-2003-2004/12?jornada_in=19&fase=10038,https://www.ogol.com.br/edicao/serie-a-2003-2004/12
+
+2003, Espanha,https://www.ogol.com.br/edicao/la-liga-2003-2004/7?jornada_in=19&fase=10034,https://www.ogol.com.br/edicao/la-liga-2003-2004/7?jornada_in=38&fase=10034
+
+2003, França,https://www.ogol.com.br/edicao/ligue-1-2003-2004/11?jornada_in=19&fase=10037,https://www.ogol.com.br/edicao/ligue-1-2003-2004/11
+
+2003, Inglaterra ,https://www.ogol.com.br/edicao/premier-league-2003-2004/9?jornada_in=19&fase=10035,https://www.ogol.com.br/edicao/premier-league-2003-2004/9
+
+2003, Alemanha ,https://www.ogol.com.br/edicao/1-bundesliga-2003-2004/10?jornada_in=19&fase=10036 ,https://www.ogol.com.br/edicao/1-bundesliga-2003-2004/10
+
+2003, Holanda ,https://www.ogol.com.br/edicao/dutch-holland-eredivisie-2003-04/2156?jornada_in=19&fase=14782 ,https://www.ogol.com.br/edicao/dutch-holland-eredivisie-2003-04/2156
+
+2003, Portugal ,https://www.ogol.com.br/edicao/superliga-2003-2004/5?jornada_in=19&fase=10033 ,https://www.ogol.com.br/edicao/superliga-2003-2004/5
+
+2003, Brasil ,https://www.ogol.com.br/edicao/campeonato-brasileiro-serie-a-2003/2489?jornada_in=19&fase=15470 ,https://www.ogol.com.br/edicao/campeonato-brasileiro-serie-a-2003/2489
+

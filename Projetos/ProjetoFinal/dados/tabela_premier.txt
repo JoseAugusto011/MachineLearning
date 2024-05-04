@@ -1,0 +1,560 @@
+1	Manchester United	Manchester United	46	19	15	1	3	38	13	+25	a
+2	Arsenal	Arsenal	45	19	13	6	0	35	12	+23	a
+3	Chelsea	Chelsea	42	19	13	3	3	36	16	+20	a
+4	Charlton Athletic	Charlton Athletic	30	19	8	6	5	27	22	+5	a
+5	Birmingham City	Birmingham City	29	19	8	5	6	19	21	-2	a
+6	Fulham	Fulham	28	19	8	4	7	30	26	+4	a
+7	Liverpool	Liverpool	27	19	7	6	6	29	22	+7	a
+8	Newcastle	Newcastle	26	19	6	8	5	26	22	+4	a
+9	Southampton	Southampton	26	19	7	5	7	18	15	+3	a
+10	Aston Villa	Aston Villa	24	19	6	6	7	19	23	-4	a
+11	Bolton	Bolton	23	19	5	8	6	20	28	-8	a
+12	Everton	Everton	23	19	6	5	8	23	25	-2	a
+13	Manchester City	Manchester City	21	19	5	6	8	27	27	0	a
+14	Blackburn Rovers	Blackburn Rovers	21	19	6	3	10	26	29	-3	a
+15	Middlesbrough	Middlesbrough	21	19	5	6	8	15	21	-6	a
+16	Portsmouth	Portsmouth	19	19	5	4	10	20	28	-8	a
+17	Tottenham	Tottenham	18	19	5	3	11	19	29	-10	a
+18	Leicester City	Leicester City	18	19	4	6	9	28	31	-3	a
+19	Leeds United	Leeds United	17	19	4	5	10	18	40	-22	a
+20	Wolverhampton	Wolverhampton	15	19	3	6	10	17	40	-23	a
+1	Arsenal	Arsenal	90	38	26	12	0	73	26	+47	a
+2	Chelsea	Chelsea	79	38	24	7	7	67	30	+37	a
+3	Manchester United	Manchester United	75	38	23	6	9	64	35	+29	a
+4	Liverpool	Liverpool	60	38	16	12	10	55	37	+18	a
+5	Aston Villa	Aston Villa	56	38	15	11	12	48	44	+4	a
+6	Newcastle	Newcastle	56	38	13	17	8	52	40	+12	a
+7	Bolton	Bolton	53	38	14	11	13	48	56	-8	a
+8	Charlton Athletic	Charlton Athletic	53	38	14	11	13	51	51	0	a
+9	Fulham	Fulham	52	38	14	10	14	52	46	+6	a
+10	Birmingham City	Birmingham City	50	38	12	14	12	43	48	-5	a
+11	Middlesbrough	Middlesbrough	48	38	13	9	16	44	52	-8	a
+12	Southampton	Southampton	47	38	12	11	15	44	45	-1	a
+13	Portsmouth	Portsmouth	45	38	12	9	17	47	54	-7	a
+14	Tottenham	Tottenham	45	38	13	6	19	47	57	-10	a
+15	Blackburn Rovers	Blackburn Rovers	44	38	12	8	18	51	59	-8	a
+16	Manchester City	Manchester City	41	38	9	14	15	55	54	+1	a
+17	Everton	Everton	39	38	9	12	17	45	57	-12	a
+18	Leicester City	Leicester City	33	38	6	15	17	48	65	-17	a
+19	Leeds United	Leeds United	33	38	8	9	21	40	79	-39	a
+20	Wolverhampton	Wolverhampton	33	38	7	12	19	38	77	-39	a
+1	Chelsea	Chelsea	46	19	14	4	1	38	8	+30	a
+2	Arsenal	Arsenal	41	19	12	5	2	47	22	+25	a
+3	Everton	Everton	40	19	12	4	3	23	15	+8	a
+4	Manchester United	Manchester United	37	19	10	7	2	30	13	+17	a
+5	Middlesbrough	Middlesbrough	32	19	9	5	5	32	24	+8	a
+6	Liverpool	Liverpool	31	19	9	4	6	33	20	+13	a
+7	Charlton Athletic	Charlton Athletic	28	19	8	4	7	21	28	-7	a
+8	Tottenham	Tottenham	28	19	8	4	7	23	18	+5	a
+9	Portsmouth	Portsmouth	26	19	7	5	7	24	25	-1	a
+10	Aston Villa	Aston Villa	25	19	6	7	6	22	23	-1	a
+11	Manchester City	Manchester City	23	19	6	5	8	23	20	+3	a
+12	Birmingham City	Birmingham City	23	19	5	8	6	20	19	+1	a
+13	Bolton	Bolton	23	19	6	5	8	26	28	-2	a
+14	Newcastle	Newcastle	22	19	5	7	7	31	37	-6	a
+15	Fulham	Fulham	18	19	5	3	11	20	32	-12	a
+16	Blackburn Rovers	Blackburn Rovers	16	19	2	10	7	18	32	-14	a
+17	Norwich City	Norwich City	15	19	2	9	8	17	34	-17	a
+18	Crystal Palace	Crystal Palace	14	19	3	5	11	19	30	-11	a
+19	Southampton	Southampton	14	19	2	8	9	18	31	-13	a
+20	West Bromwich	West Bromwich	10	19	1	7	11	15	41	-26	a
+1	Chelsea	Chelsea	95	38	29	8	1	72	15	+57	a
+2	Arsenal	Arsenal	83	38	25	8	5	87	36	+51	a
+3	Manchester United	Manchester United	77	38	22	11	5	58	26	+32	a
+4	Everton	Everton	61	38	18	7	13	45	46	-1	a
+5	Liverpool	Liverpool	58	38	17	7	14	52	41	+11	a
+6	Bolton	Bolton	58	38	16	10	12	49	44	+5	a
+7	Middlesbrough	Middlesbrough	55	38	14	13	11	53	46	+7	a
+8	Tottenham	Tottenham	52	38	14	10	14	47	41	+6	a
+9	Manchester City	Manchester City	52	38	13	13	12	47	39	+8	a
+10	Aston Villa	Aston Villa	47	38	12	11	15	45	52	-7	a
+11	Charlton Athletic	Charlton Athletic	46	38	12	10	16	42	58	-16	a
+12	Birmingham City	Birmingham City	45	38	11	12	15	40	46	-6	a
+13	Fulham	Fulham	44	38	12	8	18	52	60	-8	a
+14	Newcastle	Newcastle	44	38	10	14	14	47	57	-10	a
+15	Blackburn Rovers	Blackburn Rovers	42	38	9	15	14	32	43	-11	a
+16	Portsmouth	Portsmouth	39	38	10	9	19	43	59	-16	a
+17	West Bromwich	West Bromwich	34	38	6	16	16	36	61	-25	a
+18	Norwich City	Norwich City	33	38	7	12	19	42	77	-35	a
+19	Crystal Palace	Crystal Palace	33	38	7	12	19	41	62	-21	a
+20	Southampton	Southampton	32	38	6	14	18	45	66	-21	a
+1	Chelsea	Chelsea	52	19	17	1	1	41	9	+32	a
+2	Manchester United	Manchester United	41	19	12	5	2	36	16	+20	a
+3	Liverpool	Liverpool	40	19	12	4	3	26	11	+15	a
+4	Tottenham	Tottenham	34	19	9	7	3	27	18	+9	a
+5	Wigan Athletic	Wigan Athletic	34	19	11	1	7	25	21	+4	a
+6	Bolton	Bolton	32	19	9	5	5	23	16	+7	a
+7	Arsenal	Arsenal	32	19	10	2	7	27	16	+11	a
+8	Manchester City	Manchester City	27	19	8	3	8	27	22	+5	a
+9	Blackburn Rovers	Blackburn Rovers	27	19	8	3	8	23	24	-1	a
+10	West Ham	West Ham	26	19	7	5	7	26	25	+1	a
+11	Newcastle	Newcastle	26	19	7	5	7	18	19	-1	a
+12	Charlton Athletic	Charlton Athletic	26	19	8	2	9	23	27	-4	a
+13	Aston Villa	Aston Villa	21	19	5	6	8	23	29	-6	a
+14	Middlesbrough	Middlesbrough	21	19	5	6	8	24	29	-5	a
+15	Fulham	Fulham	20	19	5	5	9	23	28	-5	a
+16	West Bromwich	West Bromwich	19	19	5	4	10	19	28	-9	a
+17	Everton	Everton	17	19	5	2	12	10	30	-20	a
+18	Birmingham City	Birmingham City	16	19	4	4	11	14	27	-13	a
+19	Portsmouth	Portsmouth	14	19	3	5	11	14	31	-17	a
+20	Sunderland	Sunderland	6	19	1	3	15	14	37	-23	a
+1	Chelsea	Chelsea	91	38	29	4	5	72	22	+50	a
+2	Manchester United	Manchester United	83	38	25	8	5	72	34	+38	a
+3	Liverpool	Liverpool	82	38	25	7	6	57	25	+32	a
+4	Arsenal	Arsenal	67	38	20	7	11	68	31	+37	a
+5	Tottenham	Tottenham	65	38	18	11	9	53	38	+15	a
+6	Blackburn Rovers	Blackburn Rovers	63	38	19	6	13	51	42	+9	a
+7	Newcastle	Newcastle	58	38	17	7	14	47	42	+5	a
+8	Bolton	Bolton	56	38	15	11	12	49	41	+8	a
+9	West Ham	West Ham	55	38	16	7	15	52	55	-3	a
+10	Wigan Athletic	Wigan Athletic	51	38	15	6	17	45	52	-7	a
+11	Everton	Everton	50	38	14	8	16	34	49	-15	a
+12	Fulham	Fulham	48	38	14	6	18	48	58	-10	a
+13	Charlton Athletic	Charlton Athletic	47	38	13	8	17	41	55	-14	a
+14	Middlesbrough	Middlesbrough	45	38	12	9	17	48	58	-10	a
+15	Manchester City	Manchester City	43	38	13	4	21	43	48	-5	a
+16	Aston Villa	Aston Villa	42	38	10	12	16	42	55	-13	a
+17	Portsmouth	Portsmouth	38	38	10	8	20	37	62	-25	a
+18	Birmingham City	Birmingham City	34	38	8	10	20	28	50	-22	a
+19	West Bromwich	West Bromwich	30	38	7	9	22	31	58	-27	a
+20	Sunderland	Sunderland	15	38	3	6	29	26	69	-43	a
+1	Manchester United	Manchester United	47	19	15	2	2	41	10	+31	a
+2	Chelsea	Chelsea	45	19	14	3	2	33	13	+20	a
+3	Liverpool	Liverpool	34	19	10	4	5	28	15	+13	a
+4	Bolton	Bolton	33	19	10	3	6	22	15	+7	a
+5	Arsenal	Arsenal	33	19	9	6	4	35	17	+18	a
+6	Portsmouth	Portsmouth	32	19	9	5	5	28	17	+11	a
+7	Tottenham	Tottenham	28	19	8	4	7	23	25	-2	a
+8	Everton	Everton	27	19	7	6	6	24	20	+4	a
+9	Reading	Reading	26	19	8	2	9	20	25	-5	a
+10	Aston Villa	Aston Villa	25	19	5	10	4	21	21	0	a
+11	Newcastle	Newcastle	25	19	7	4	8	20	21	-1	a
+12	Fulham	Fulham	24	19	6	6	7	18	28	-10	a
+13	Wigan Athletic	Wigan Athletic	22	19	6	4	9	22	26	-4	a
+14	Middlesbrough	Middlesbrough	20	19	5	5	9	17	24	-7	a
+15	Manchester City	Manchester City	20	19	5	5	9	15	24	-9	a
+16	Sheffield United	Sheffield United	20	19	5	5	9	15	25	-10	a
+17	Blackburn Rovers	Blackburn Rovers	19	19	5	4	10	19	30	-11	a
+18	West Ham	West Ham	18	19	5	3	11	11	24	-13	a
+19	Watford	Watford	14	19	2	8	9	13	25	-12	a
+20	Charlton Athletic	Charlton Athletic	12	19	3	3	13	13	33	-20	a
+1	Manchester United	Manchester United	89	38	28	5	5	83	27	+56	a
+2	Chelsea	Chelsea	83	38	24	11	3	64	24	+40	a
+3	Liverpool	Liverpool	68	38	20	8	10	57	27	+30	a
+4	Arsenal	Arsenal	68	38	19	11	8	63	35	+28	a
+5	Tottenham	Tottenham	60	38	17	9	12	57	54	+3	a
+6	Everton	Everton	58	38	15	13	10	52	36	+16	a
+7	Bolton	Bolton	56	38	16	8	14	47	52	-5	a
+8	Reading	Reading	55	38	16	7	15	52	47	+5	a
+9	Portsmouth	Portsmouth	54	38	14	12	12	45	42	+3	a
+10	Blackburn Rovers	Blackburn Rovers	52	38	15	7	16	52	54	-2	a
+11	Aston Villa	Aston Villa	50	38	11	17	10	43	41	+2	a
+12	Middlesbrough	Middlesbrough	46	38	12	10	16	44	49	-5	a
+13	Newcastle	Newcastle	43	38	11	10	17	38	47	-9	a
+14	Manchester City	Manchester City	42	38	11	9	18	29	44	-15	a
+15	West Ham	West Ham	41	38	12	5	21	35	59	-24	a
+16	Fulham	Fulham	39	38	8	15	15	38	60	-22	a
+17	Wigan Athletic	Wigan Athletic	38	38	10	8	20	37	59	-22	a
+18	Sheffield United	Sheffield United	38	38	10	8	20	32	55	-23	a
+19	Charlton Athletic	Charlton Athletic	34	38	8	10	20	34	60	-26	a
+20	Watford	Watford	28	38	5	13	20	29	59	-30	a
+1	Manchester United	Manchester United	45	19	14	3	2	36	9	+27	a
+2	Arsenal	Arsenal	44	19	13	5	1	36	15	+21	a
+3	Liverpool	Liverpool	39	19	11	6	2	37	12	+25	a
+4	Chelsea	Chelsea	38	19	11	5	3	29	14	+15	a
+5	Manchester City	Manchester City	35	19	10	5	4	27	22	+5	a
+6	Everton	Everton	33	19	10	3	6	34	18	+16	a
+7	Portsmouth	Portsmouth	31	19	8	7	4	29	19	+10	a
+8	Aston Villa	Aston Villa	30	19	8	6	5	33	25	+8	a
+9	Blackburn Rovers	Blackburn Rovers	27	19	7	6	6	25	27	-2	a
+10	Newcastle	Newcastle	26	19	7	5	7	26	29	-3	a
+11	West Ham	West Ham	26	19	7	5	7	23	20	+3	a
+12	Reading	Reading	22	19	6	4	9	25	36	-11	a
+13	Tottenham	Tottenham	21	19	5	6	8	35	32	+3	a
+14	Birmingham City	Birmingham City	18	19	5	3	11	21	30	-9	a
+15	Middlesbrough	Middlesbrough	17	19	4	5	10	17	33	-16	a
+16	Bolton	Bolton	17	19	4	5	10	21	29	-8	a
+17	Wigan Athletic	Wigan Athletic	16	19	4	4	11	19	34	-15	a
+18	Fulham	Fulham	14	19	2	8	9	20	34	-14	a
+19	Sunderland	Sunderland	14	19	3	5	11	17	38	-21	a
+20	Derby County	Derby County	7	19	1	4	14	9	43	-34	a
+1	Manchester United	Manchester United	87	38	27	6	5	80	22	+58	a
+2	Chelsea	Chelsea	85	38	25	10	3	65	26	+39	a
+3	Arsenal	Arsenal	83	38	24	11	3	74	31	+43	a
+4	Liverpool	Liverpool	76	38	21	13	4	67	28	+39	a
+5	Everton	Everton	65	38	19	8	11	55	33	+22	a
+6	Aston Villa	Aston Villa	60	38	16	12	10	71	51	+20	a
+7	Blackburn Rovers	Blackburn Rovers	58	38	15	13	10	50	48	+2	a
+8	Portsmouth	Portsmouth	57	38	16	9	13	48	40	+8	a
+9	Manchester City	Manchester City	55	38	15	10	13	45	53	-8	a
+10	West Ham	West Ham	49	38	13	10	15	42	50	-8	a
+11	Tottenham	Tottenham	46	38	11	13	14	66	61	+5	a
+12	Newcastle	Newcastle	43	38	11	10	17	45	65	-20	a
+13	Middlesbrough	Middlesbrough	42	38	10	12	16	43	53	-10	a
+14	Wigan Athletic	Wigan Athletic	40	38	10	10	18	34	51	-17	a
+15	Sunderland	Sunderland	39	38	11	6	21	36	59	-23	a
+16	Bolton	Bolton	37	38	9	10	19	36	54	-18	a
+17	Fulham	Fulham	36	38	8	12	18	38	60	-22	a
+18	Reading	Reading	36	38	10	6	22	41	66	-25	a
+19	Birmingham City	Birmingham City	35	38	8	11	19	46	62	-16	a
+20	Derby County	Derby County	11	38	1	8	29	20	89	-69	a
+1	Liverpool	Liverpool	42	19	12	6	1	30	12	+18	a
+2	Chelsea	Chelsea	41	19	12	5	2	38	7	+31	a
+3	Manchester United	Manchester United	41	19	12	5	2	32	10	+22	a
+4	Aston Villa	Aston Villa	35	19	10	5	4	32	22	+10	a
+5	Arsenal	Arsenal	32	19	9	5	5	32	23	+9	a
+6	Everton	Everton	29	19	8	5	6	24	25	-1	a
+7	Hull City	Hull City	27	19	7	6	6	28	36	-8	a
+8	Wigan Athletic	Wigan Athletic	25	19	7	4	8	23	22	+1	a
+9	Fulham	Fulham	25	19	6	7	6	16	15	+1	a
+10	Bolton	Bolton	23	19	7	2	10	22	27	-5	a
+11	Portsmouth	Portsmouth	23	19	6	5	8	21	32	-11	a
+12	Newcastle	Newcastle	22	19	5	7	7	25	27	-2	a
+13	West Ham	West Ham	22	19	6	4	9	22	27	-5	a
+14	Sunderland	Sunderland	22	19	6	4	9	21	26	-5	a
+15	Manchester City	Manchester City	21	19	6	3	10	36	28	+8	a
+16	Tottenham	Tottenham	20	19	5	5	9	20	23	-3	a
+17	Middlesbrough	Middlesbrough	20	19	5	5	9	17	28	-11	a
+18	Stoke City	Stoke City	20	19	5	5	9	17	31	-14	a
+19	Blackburn Rovers	Blackburn Rovers	17	19	4	5	10	20	34	-14	a
+20	West Bromwich	West Bromwich	15	19	4	3	12	14	35	-21	a
+1	Manchester United	Manchester United	90	38	28	6	4	68	24	+44	a
+2	Liverpool	Liverpool	86	38	25	11	2	77	27	+50	a
+3	Chelsea	Chelsea	83	38	25	8	5	68	24	+44	a
+4	Arsenal	Arsenal	72	38	20	12	6	68	37	+31	a
+5	Everton	Everton	63	38	17	12	9	55	37	+18	a
+6	Aston Villa	Aston Villa	62	38	17	11	10	54	48	+6	a
+7	Fulham	Fulham	53	38	14	11	13	39	34	+5	a
+8	Tottenham	Tottenham	51	38	14	9	15	45	45	0	a
+9	West Ham	West Ham	51	38	14	9	15	42	45	-3	a
+10	Manchester City	Manchester City	50	38	15	5	18	58	50	+8	a
+11	Wigan Athletic	Wigan Athletic	45	38	12	9	17	34	45	-11	a
+12	Stoke City	Stoke City	45	38	12	9	17	38	55	-17	a
+13	Bolton	Bolton	41	38	11	8	19	41	53	-12	a
+14	Portsmouth	Portsmouth	41	38	10	11	17	38	57	-19	a
+15	Blackburn Rovers	Blackburn Rovers	41	38	10	11	17	40	60	-20	a
+16	Sunderland	Sunderland	36	38	9	9	20	34	54	-20	a
+17	Hull City	Hull City	35	38	8	11	19	39	64	-25	a
+18	Newcastle	Newcastle	34	38	7	13	18	40	59	-19	a
+19	Middlesbrough	Middlesbrough	32	38	7	11	20	28	57	-29	a
+20	West Bromwich	West Bromwich	32	38	8	8	22	36	67	-31	a
+1	Chelsea	Chelsea	42	19	13	3	3	43	15	+28	a
+2	Arsenal	Arsenal	41	19	13	2	4	51	22	+29	a
+3	Manchester United	Manchester United	40	19	13	1	5	40	18	+22	a
+4	Aston Villa	Aston Villa	35	19	10	5	4	29	17	+12	a
+5	Tottenham	Tottenham	34	19	10	4	5	40	22	+18	a
+6	Manchester City	Manchester City	32	19	8	8	3	35	29	+6	a
+7	Liverpool	Liverpool	30	19	9	3	7	36	25	+11	a
+8	Birmingham City	Birmingham City	29	19	8	5	6	19	18	+1	a
+9	Fulham	Fulham	27	19	7	6	6	25	20	+5	a
+10	Stoke City	Stoke City	24	19	6	6	7	18	24	-6	a
+11	Sunderland	Sunderland	22	19	6	4	9	26	29	-3	a
+12	Everton	Everton	22	19	5	7	7	26	32	-6	a
+13	Blackburn Rovers	Blackburn Rovers	20	19	5	5	9	18	33	-15	a
+14	Burnley	Burnley	20	19	5	5	9	22	38	-16	a
+15	Wigan Athletic	Wigan Athletic	20	19	5	5	9	21	39	-18	a
+16	Wolverhampton	Wolverhampton	19	19	5	4	10	17	33	-16	a
+17	West Ham	West Ham	18	19	4	6	9	28	35	-7	a
+18	Bolton	Bolton	18	19	4	6	9	26	38	-12	a
+19	Hull City	Hull City	17	19	4	5	10	18	40	-22	a
+20	Portsmouth	Portsmouth*	5	19	4	2	13	17	28	-11	a
+1	Chelsea	Chelsea	86	38	27	5	6	103	32	+71	a
+2	Manchester United	Manchester United	85	38	27	4	7	86	28	+58	a
+3	Arsenal	Arsenal	75	38	23	6	9	83	41	+42	a
+4	Tottenham	Tottenham	70	38	21	7	10	67	41	+26	a
+5	Manchester City	Manchester City	67	38	18	13	7	73	45	+28	a
+6	Aston Villa	Aston Villa	64	38	17	13	8	52	39	+13	a
+7	Liverpool	Liverpool	63	38	18	9	11	61	35	+26	a
+8	Everton	Everton	61	38	16	13	9	60	49	+11	a
+9	Birmingham City	Birmingham City	50	38	13	11	14	38	47	-9	a
+10	Blackburn Rovers	Blackburn Rovers	50	38	13	11	14	41	55	-14	a
+11	Stoke City	Stoke City	47	38	11	14	13	34	48	-14	a
+12	Fulham	Fulham	46	38	12	10	16	39	46	-7	a
+13	Sunderland	Sunderland	44	38	11	11	16	48	56	-8	a
+14	Bolton	Bolton	39	38	10	9	19	42	67	-25	a
+15	Wolverhampton	Wolverhampton	38	38	9	11	18	32	56	-24	a
+16	Wigan Athletic	Wigan Athletic	36	38	9	9	20	37	79	-42	a
+17	West Ham	West Ham	35	38	8	11	19	47	66	-19	a
+18	Burnley	Burnley	30	38	8	6	24	42	82	-40	a
+19	Hull City	Hull City	30	38	6	12	20	34	75	-41	a
+20	Portsmouth	Portsmouth*	19	38	7	7	24	34	66	-32	a
+1	Manchester United	Manchester United	40	19	11	7	1	42	20	+22	a
+2	Arsenal	Arsenal	38	19	12	2	5	38	20	+18	a
+3	Manchester City	Manchester City	35	19	10	5	4	28	16	+12	a
+4	Chelsea	Chelsea	34	19	10	4	5	34	16	+18	a
+5	Tottenham	Tottenham	30	19	8	6	5	28	26	+2	a
+6	Bolton	Bolton	29	19	7	8	4	32	25	+7	a
+7	Blackpool	Blackpool	28	19	8	4	7	31	34	-3	a
+8	Sunderland	Sunderland	27	19	6	9	4	21	20	+1	a
+9	Newcastle	Newcastle	25	19	7	4	8	30	29	+1	a
+10	Liverpool	Liverpool	25	19	7	4	8	23	24	-1	a
+11	Stoke City	Stoke City	24	19	7	3	9	23	23	0	a
+12	West Bromwich	West Bromwich	23	19	6	5	8	25	32	-7	a
+13	Aston Villa	Aston Villa	23	19	6	5	8	22	31	-9	a
+14	Everton	Everton	22	19	4	10	5	21	22	-1	a
+15	Blackburn Rovers	Blackburn Rovers	22	19	6	4	9	23	30	-7	a
+16	Birmingham City	Birmingham City	19	19	3	10	6	18	23	-5	a
+17	Wigan Athletic	Wigan Athletic	19	19	4	7	8	16	31	-15	a
+18	Fulham	Fulham	16	19	2	10	7	17	24	-7	a
+19	Wolverhampton	Wolverhampton	16	19	4	4	11	20	33	-13	a
+20	West Ham	West Ham	16	19	3	7	9	19	32	-13	a
+1	Manchester United	Manchester United	80	38	23	11	4	78	37	+41	a
+2	Chelsea	Chelsea	71	38	21	8	9	69	33	+36	a
+3	Manchester City	Manchester City	71	38	21	8	9	60	33	+27	a
+4	Arsenal	Arsenal	68	38	19	11	8	72	43	+29	a
+5	Tottenham	Tottenham	62	38	16	14	8	55	46	+9	a
+6	Liverpool	Liverpool	58	38	17	7	14	59	44	+15	a
+7	Everton	Everton	54	38	13	15	10	51	45	+6	a
+8	Fulham	Fulham	49	38	11	16	11	49	43	+6	a
+9	Aston Villa	Aston Villa	48	38	12	12	14	48	59	-11	a
+10	Sunderland	Sunderland	47	38	12	11	15	45	56	-11	a
+11	West Bromwich	West Bromwich	47	38	12	11	15	56	71	-15	a
+12	Newcastle	Newcastle	46	38	11	13	14	56	57	-1	a
+13	Stoke City	Stoke City	46	38	13	7	18	46	48	-2	a
+14	Bolton	Bolton	46	38	12	10	16	52	56	-4	a
+15	Blackburn Rovers	Blackburn Rovers	43	38	11	10	17	46	59	-13	a
+16	Wigan Athletic	Wigan Athletic	42	38	9	15	14	40	61	-21	a
+17	Wolverhampton	Wolverhampton	40	38	11	7	20	46	66	-20	a
+18	Birmingham City	Birmingham City	39	38	8	15	15	37	58	-21	a
+19	Blackpool	Blackpool	39	38	10	9	19	55	78	-23	a
+20	West Ham	West Ham	33	38	7	12	19	43	70	-27	a
+1	Manchester City	Manchester City	45	19	14	3	2	53	16	+37	a
+2	Manchester United	Manchester United	45	19	14	3	2	49	17	+32	a
+3	Tottenham	Tottenham	42	19	13	3	3	37	20	+17	a
+4	Arsenal	Arsenal	36	19	11	3	5	35	26	+9	a
+5	Chelsea	Chelsea	34	19	10	4	5	37	24	+13	a
+6	Liverpool	Liverpool	34	19	9	7	3	24	15	+9	a
+7	Newcastle	Newcastle	30	19	8	6	5	26	25	+1	a
+8	Stoke City	Stoke City	26	19	7	5	7	20	30	-10	a
+9	Everton	Everton	24	19	7	3	9	19	22	-3	a
+10	Aston Villa	Aston Villa	23	19	5	8	6	22	24	-2	a
+11	Norwich City	Norwich City	22	19	5	7	7	28	34	-6	a
+12	West Bromwich	West Bromwich	22	19	6	4	9	19	27	-8	a
+13	Sunderland	Sunderland	21	19	5	6	8	23	22	+1	a
+14	Fulham	Fulham	20	19	4	8	7	20	25	-5	a
+15	Swansea City	Swansea City	20	19	4	8	7	18	23	-5	a
+16	Wolverhampton	Wolverhampton	17	19	4	5	10	21	34	-13	a
+17	QPR	QPR	17	19	4	5	10	18	33	-15	a
+18	Wigan Athletic	Wigan Athletic	15	19	3	6	10	17	37	-20	a
+19	Blackburn Rovers	Blackburn Rovers	14	19	3	5	11	28	41	-13	a
+20	Bolton	Bolton	13	19	4	1	14	23	42	-19	a
+1	Manchester City	Manchester City	89	38	28	5	5	93	29	+64	a
+2	Manchester United	Manchester United	89	38	28	5	5	89	33	+56	a
+3	Arsenal	Arsenal	70	38	21	7	10	74	49	+25	a
+4	Tottenham	Tottenham	69	38	20	9	9	66	41	+25	a
+5	Newcastle	Newcastle	65	38	19	8	11	56	51	+5	a
+6	Chelsea	Chelsea	64	38	18	10	10	65	46	+19	a
+7	Everton	Everton	56	38	15	11	12	50	40	+10	a
+8	Liverpool	Liverpool	52	38	14	10	14	47	40	+7	a
+9	Fulham	Fulham	52	38	14	10	14	48	51	-3	a
+10	West Bromwich	West Bromwich	47	38	13	8	17	45	52	-7	a
+11	Swansea City	Swansea City	47	38	12	11	15	44	51	-7	a
+12	Norwich City	Norwich City	47	38	12	11	15	52	66	-14	a
+13	Sunderland	Sunderland	45	38	11	12	15	45	46	-1	a
+14	Stoke City	Stoke City	45	38	11	12	15	36	53	-17	a
+15	Wigan Athletic	Wigan Athletic	43	38	11	10	17	42	62	-20	a
+16	Aston Villa	Aston Villa	38	38	7	17	14	37	53	-16	a
+17	QPR	QPR	37	38	10	7	21	43	66	-23	a
+18	Bolton	Bolton	36	38	10	6	22	46	77	-31	a
+19	Blackburn Rovers	Blackburn Rovers	31	38	8	7	23	48	78	-30	a
+20	Wolverhampton	Wolverhampton	25	38	5	10	23	40	82	-42	a
+1	Manchester United	Manchester United	46	19	15	1	3	48	28	+20	a
+2	Manchester City	Manchester City	39	19	11	6	2	34	16	+18	a
+3	Chelsea	Chelsea	36	19	10	6	3	39	19	+20	a
+4	Arsenal	Arsenal	33	19	9	6	4	37	19	+18	a
+5	Tottenham	Tottenham	33	19	10	3	6	34	25	+9	a
+6	Everton	Everton	33	19	8	9	2	32	23	+9	a
+7	West Bromwich	West Bromwich	33	19	10	3	6	28	23	+5	a
+8	Stoke City	Stoke City	28	19	6	10	3	18	14	+4	a
+9	Swansea City	Swansea City	25	19	6	7	6	27	23	+4	a
+10	Liverpool	Liverpool	25	19	6	7	6	28	26	+2	a
+11	Norwich City	Norwich City	25	19	6	7	6	20	28	-8	a
+12	West Ham	West Ham	23	19	6	5	8	23	27	-4	a
+13	Sunderland	Sunderland	22	19	5	7	7	20	24	-4	a
+14	Fulham	Fulham	21	19	5	6	8	29	34	-5	a
+15	Newcastle	Newcastle	20	19	5	5	9	23	30	-7	a
+16	Aston Villa	Aston Villa	18	19	4	6	9	15	36	-21	a
+17	Southampton	Southampton	17	19	4	5	10	25	36	-11	a
+18	Wigan Athletic	Wigan Athletic	15	19	4	3	12	19	35	-16	a
+19	Reading	Reading	10	19	1	7	11	21	37	-16	a
+20	QPR	QPR	10	19	1	7	11	16	33	-17	a
+1	Manchester United	Manchester United	89	38	28	5	5	86	43	+43	a
+2	Manchester City	Manchester City	78	38	23	9	6	66	34	+32	a
+3	Chelsea	Chelsea	75	38	22	9	7	75	39	+36	a
+4	Arsenal	Arsenal	73	38	21	10	7	72	37	+35	a
+5	Tottenham	Tottenham	72	38	21	9	8	66	46	+20	a
+6	Everton	Everton	63	38	16	15	7	55	40	+15	a
+7	Liverpool	Liverpool	61	38	16	13	9	71	43	+28	a
+8	West Bromwich	West Bromwich	49	38	14	7	17	53	57	-4	a
+9	Swansea City	Swansea City	46	38	11	13	14	47	51	-4	a
+10	West Ham	West Ham	46	38	12	10	16	45	53	-8	a
+11	Norwich City	Norwich City	44	38	10	14	14	41	58	-17	a
+12	Fulham	Fulham	43	38	11	10	17	50	60	-10	a
+13	Stoke City	Stoke City	42	38	9	15	14	34	45	-11	a
+14	Southampton	Southampton	41	38	9	14	15	49	60	-11	a
+15	Aston Villa	Aston Villa	41	38	10	11	17	47	69	-22	a
+16	Newcastle	Newcastle	41	38	11	8	19	45	68	-23	a
+17	Sunderland	Sunderland	39	38	9	12	17	41	54	-13	a
+18	Wigan Athletic	Wigan Athletic	36	38	9	9	20	47	73	-26	a
+19	Reading	Reading	28	38	6	10	22	43	73	-30	a
+20	QPR	QPR	25	38	4	13	21	30	60	-30	a
+1	Arsenal	Arsenal	42	19	13	3	3	37	18	+19	a
+2	Manchester City	Manchester City	41	19	13	2	4	54	21	+33	a
+3	Chelsea	Chelsea	40	19	12	4	3	35	19	+16	a
+4	Everton	Everton	37	19	10	7	2	31	18	+13	a
+5	Liverpool	Liverpool	36	19	11	3	5	44	23	+21	a
+6	Manchester United	Manchester United	34	19	10	4	5	32	22	+10	a
+7	Tottenham	Tottenham	34	19	10	4	5	22	24	-2	a
+8	Newcastle	Newcastle	33	19	10	3	6	29	24	+5	a
+9	Southampton	Southampton	27	19	7	6	6	26	20	+6	a
+10	Hull City	Hull City	23	19	6	5	8	22	23	-1	a
+11	Swansea City	Swansea City	21	19	5	6	8	24	25	-1	a
+12	Stoke City	Stoke City	21	19	5	6	8	18	29	-11	a
+13	Aston Villa	Aston Villa	20	19	5	5	9	18	25	-7	a
+14	Norwich City	Norwich City	19	19	5	4	10	16	32	-16	a
+15	West Bromwich	West Bromwich	18	19	3	9	7	22	27	-5	a
+16	Cardiff City	Cardiff City	18	19	4	6	9	15	30	-15	a
+17	Crystal Palace	Crystal Palace	16	19	5	1	13	12	28	-16	a
+18	Fulham	Fulham	16	19	5	1	13	19	41	-22	a
+19	West Ham	West Ham	15	19	3	6	10	18	28	-10	a
+20	Sunderland	Sunderland	14	19	3	5	11	15	32	-17	a
+1	Manchester City	Manchester City	86	38	27	5	6	102	37	+65	a
+2	Liverpool	Liverpool	84	38	26	6	6	101	50	+51	a
+3	Chelsea	Chelsea	82	38	25	7	6	71	27	+44	a
+4	Arsenal	Arsenal	79	38	24	7	7	68	41	+27	a
+5	Everton	Everton	72	38	21	9	8	61	39	+22	a
+6	Tottenham	Tottenham	69	38	21	6	11	55	51	+4	a
+7	Manchester United	Manchester United	64	38	19	7	12	64	43	+21	a
+8	Southampton	Southampton	56	38	15	11	12	54	46	+8	a
+9	Stoke City	Stoke City	50	38	13	11	14	45	52	-7	a
+10	Newcastle	Newcastle	49	38	15	4	19	43	59	-16	a
+11	Crystal Palace	Crystal Palace	45	38	13	6	19	33	48	-15	a
+12	Swansea City	Swansea City	42	38	11	9	18	54	54	0	a
+13	West Ham	West Ham	40	38	11	7	20	40	51	-11	a
+14	Sunderland	Sunderland	38	38	10	8	20	41	60	-19	a
+15	Aston Villa	Aston Villa	38	38	10	8	20	39	61	-22	a
+16	Hull City	Hull City	37	38	10	7	21	38	53	-15	a
+17	West Bromwich	West Bromwich	36	38	7	15	16	43	59	-16	a
+18	Norwich City	Norwich City	33	38	8	9	21	28	62	-34	a
+19	Fulham	Fulham	32	38	9	5	24	40	85	-45	a
+20	Cardiff City	Cardiff City	30	38	7	9	22	32	74	-42	a
+1	Chelsea	Chelsea	46	19	14	4	1	41	14	+27	a
+2	Manchester City	Manchester City	43	19	13	4	2	41	17	+24	a
+3	Manchester United	Manchester United	36	19	10	6	3	33	19	+14	a
+4	Southampton	Southampton	33	19	10	3	6	32	15	+17	a
+5	Arsenal	Arsenal	33	19	9	6	4	34	23	+11	a
+6	West Ham	West Ham	31	19	9	4	6	30	23	+7	a
+7	Tottenham	Tottenham	31	19	9	4	6	24	24	0	a
+8	Liverpool	Liverpool	28	19	8	4	7	26	25	+1	a
+9	Swansea City	Swansea City	28	19	8	4	7	24	23	+1	a
+10	Newcastle	Newcastle	26	19	7	5	7	22	28	-6	a
+11	Stoke City	Stoke City	25	19	7	4	8	21	23	-2	a
+12	Everton	Everton	21	19	5	6	8	29	31	-2	a
+13	Aston Villa	Aston Villa	21	19	5	6	8	11	22	-11	a
+14	Sunderland	Sunderland	20	19	3	11	5	16	27	-11	a
+15	QPR	QPR	18	19	5	3	11	21	34	-13	a
+16	West Bromwich	West Bromwich	17	19	4	5	10	18	28	-10	a
+17	Hull City	Hull City	16	19	3	7	9	18	26	-8	a
+18	Crystal Palace	Crystal Palace	16	19	3	7	9	20	30	-10	a
+19	Burnley	Burnley	16	19	3	7	9	14	29	-15	a
+20	Leicester City	Leicester City	13	19	3	4	12	17	31	-14	a
+1	Chelsea	Chelsea	87	38	26	9	3	73	32	+41	a
+2	Manchester City	Manchester City	79	38	24	7	7	83	38	+45	a
+3	Arsenal	Arsenal	75	38	22	9	7	71	36	+35	a
+4	Manchester United	Manchester United	70	38	20	10	8	62	37	+25	a
+5	Tottenham	Tottenham	64	38	19	7	12	58	53	+5	a
+6	Liverpool	Liverpool	62	38	18	8	12	52	48	+4	a
+7	Southampton	Southampton	60	38	18	6	14	54	33	+21	a
+8	Swansea City	Swansea City	56	38	16	8	14	46	49	-3	a
+9	Stoke City	Stoke City	54	38	15	9	14	48	45	+3	a
+10	Crystal Palace	Crystal Palace	48	38	13	9	16	47	51	-4	a
+11	Everton	Everton	47	38	12	11	15	48	50	-2	a
+12	West Ham	West Ham	47	38	12	11	15	44	47	-3	a
+13	West Bromwich	West Bromwich	44	38	11	11	16	38	51	-13	a
+14	Leicester City	Leicester City	41	38	11	8	19	46	55	-9	a
+15	Newcastle	Newcastle	39	38	10	9	19	40	63	-23	a
+16	Sunderland	Sunderland	38	38	7	17	14	31	53	-22	a
+17	Aston Villa	Aston Villa	38	38	10	8	20	31	57	-26	a
+18	Hull City	Hull City	35	38	8	11	19	33	51	-18	a
+19	Burnley	Burnley	33	38	7	12	19	28	53	-25	a
+20	QPR	QPR	30	38	8	6	24	42	73	-31	a
+1	Arsenal	Arsenal	39	19	12	3	4	33	18	+15	a
+2	Leicester City	Leicester City	39	19	11	6	2	37	25	+12	a
+3	Manchester City	Manchester City	36	19	11	3	5	37	20	+17	a
+4	Tottenham	Tottenham	35	19	9	8	2	33	15	+18	a
+5	Crystal Palace	Crystal Palace	31	19	9	4	6	23	16	+7	a
+6	Manchester United	Manchester United	30	19	8	6	5	22	16	+6	a
+7	Liverpool	Liverpool	30	19	8	6	5	22	22	0	a
+8	West Ham	West Ham	29	19	7	8	4	28	23	+5	a
+9	Watford	Watford	29	19	8	5	6	24	20	+4	a
+10	Stoke City	Stoke City	29	19	8	5	6	20	19	+1	a
+11	Everton	Everton	26	19	6	8	5	35	28	+7	a
+12	Southampton	Southampton	24	19	6	6	7	26	23	+3	a
+13	West Bromwich	West Bromwich	23	19	6	5	8	18	24	-6	a
+14	Chelsea	Chelsea	20	19	5	5	9	23	29	-6	a
+15	Norwich City	Norwich City	20	19	5	5	9	22	32	-10	a
+16	Bournemouth	Bournemouth	20	19	5	5	9	22	34	-12	a
+17	Swansea City	Swansea City	19	19	4	7	8	16	24	-8	a
+18	Newcastle	Newcastle	17	19	4	5	10	19	34	-15	a
+19	Sunderland	Sunderland	12	19	3	3	13	19	38	-19	a
+20	Aston Villa	Aston Villa	8	19	1	5	13	15	34	-19	a
+1	Leicester City	Leicester City	81	38	23	12	3	68	36	+32	a
+2	Arsenal	Arsenal	71	38	20	11	7	65	36	+29	a
+3	Tottenham	Tottenham	70	38	19	13	6	69	35	+34	a
+4	Manchester City	Manchester City	66	38	19	9	10	71	41	+30	a
+5	Manchester United	Manchester United	66	38	19	9	10	49	35	+14	a
+6	Southampton	Southampton	63	38	18	9	11	59	41	+18	a
+7	West Ham	West Ham	62	38	16	14	8	65	51	+14	a
+8	Liverpool	Liverpool	60	38	16	12	10	63	50	+13	a
+9	Stoke City	Stoke City	51	38	14	9	15	41	55	-14	a
+10	Chelsea	Chelsea	50	38	12	14	12	59	53	+6	a
+11	Everton	Everton	47	38	11	14	13	59	55	+4	a
+12	Swansea City	Swansea City	47	38	12	11	15	42	52	-10	a
+13	Watford	Watford	45	38	12	9	17	40	50	-10	a
+14	West Bromwich	West Bromwich	43	38	10	13	15	34	48	-14	a
+15	Crystal Palace	Crystal Palace	42	38	11	9	18	39	51	-12	a
+16	Bournemouth	Bournemouth	42	38	11	9	18	45	67	-22	a
+17	Sunderland	Sunderland	39	38	9	12	17	48	62	-14	a
+18	Newcastle	Newcastle	37	38	9	10	19	44	65	-21	a
+19	Norwich City	Norwich City	34	38	9	7	22	39	67	-28	a
+20	Aston Villa	Aston Villa	17	38	3	8	27	27	76	-49	a
+1	Chelsea	Chelsea	49	19	16	1	2	42	13	+29	a
+2	Liverpool	Liverpool	43	19	13	4	2	46	21	+25	a
+3	Arsenal	Arsenal	40	19	12	4	3	41	19	+22	a
+4	Tottenham	Tottenham	39	19	11	6	2	37	14	+23	a
+5	Manchester City	Manchester City	39	19	12	3	4	39	21	+18	a
+6	Manchester United	Manchester United	36	19	10	6	3	29	19	+10	a
+7	Everton	Everton	27	19	7	6	6	25	23	+2	a
+8	West Bromwich	West Bromwich	26	19	7	5	7	25	23	+2	a
+9	Southampton	Southampton	24	19	6	6	7	19	22	-3	a
+10	Bournemouth	Bournemouth	24	19	7	3	9	26	31	-5	a
+11	Burnley	Burnley	23	19	7	2	10	21	29	-8	a
+12	West Ham	West Ham	22	19	6	4	9	23	33	-10	a
+13	Watford	Watford	22	19	6	4	9	23	34	-11	a
+14	Stoke City	Stoke City	21	19	5	6	8	22	32	-10	a
+15	Leicester City	Leicester City	20	19	5	5	9	24	31	-7	a
+16	Middlesbrough	Middlesbrough	18	19	4	6	9	17	22	-5	a
+17	Crystal Palace	Crystal Palace	16	19	4	4	11	29	35	-6	a
+18	Sunderland	Sunderland	14	19	4	2	13	17	35	-18	a
+19	Hull City	Hull City	13	19	3	4	12	16	41	-25	a
+20	Swansea City	Swansea City	12	19	3	3	13	21	44	-23	a
+1	Chelsea	Chelsea	93	38	30	3	5	85	33	+52	a
+2	Tottenham	Tottenham	86	38	26	8	4	86	26	+60	a
+3	Manchester City	Manchester City	78	38	23	9	6	80	39	+41	a
+4	Liverpool	Liverpool	76	38	22	10	6	78	42	+36	a
+5	Arsenal	Arsenal	75	38	23	6	9	77	44	+33	a
+6	Manchester United	Manchester United	69	38	18	15	5	54	29	+25	a
+7	Everton	Everton	61	38	17	10	11	62	44	+18	a
+8	Southampton	Southampton	46	38	12	10	16	41	48	-7	a
+9	Bournemouth	Bournemouth	46	38	12	10	16	55	67	-12	a
+10	West Bromwich	West Bromwich	45	38	12	9	17	43	51	-8	a
+11	West Ham	West Ham	45	38	12	9	17	47	64	-17	a
+12	Leicester City	Leicester City	44	38	12	8	18	48	63	-15	a
+13	Stoke City	Stoke City	44	38	11	11	16	41	56	-15	a
+14	Crystal Palace	Crystal Palace	41	38	12	5	21	50	63	-13	a
+15	Swansea City	Swansea City	41	38	12	5	21	45	70	-25	a
+16	Burnley	Burnley	40	38	11	7	20	39	55	-16	a
+17	Watford	Watford	40	38	11	7	20	40	68	-28	a
+18	Hull City	Hull City	34	38	9	7	22	37	80	-43	a
+19	Middlesbrough	Middlesbrough	28	38	5	13	20	27	53	-26	a
+20	Sunderland	Sunderland	24	38	6	6	26	29	69	-40	a

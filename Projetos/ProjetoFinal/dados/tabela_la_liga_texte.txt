@@ -1,0 +1,240 @@
+1	Barcelona	Barcelona	51	19	16	3	0	52	9	+43	a
+2	Atlético de Madrid	Atlético de Madrid	42	19	12	6	1	28	8	+20	a
+3	Valencia	Valencia	40	19	12	4	3	40	19	+21	a
+4	Real Madrid	Real Madrid	35	19	10	5	4	35	18	+17	a
+5	Villarreal	Villarreal	31	19	9	4	6	26	21	+5	a
+6	Sevilla	Sevilla	29	19	9	2	8	23	28	-5	a
+7	Eibar	Eibar	27	19	8	3	8	24	31	-7	a
+8	Real Betis	Real Betis	27	19	8	3	8	33	36	-3	a
+9	Girona	Girona	26	19	7	5	7	28	28	0	a
+10	Getafe	Getafe	26	19	7	5	7	23	18	+5	a
+11	Celta de Vigo	Celta de Vigo	25	19	7	4	8	33	27	+6	a
+12	Athletic Bilbao	Athletic Bilbao	25	19	6	7	6	21	20	+1	a
+13	Leganés	Leganés	24	19	7	3	9	16	20	-4	a
+14	Espanyol	Espanyol	24	19	6	6	7	16	22	-6	a
+15	Real Sociedad	Real Sociedad	23	19	6	5	8	33	34	-1	a
+16	Alavés	Alavés	18	19	6	0	13	14	27	-13	a
+17	Levante	Levante	18	19	3	9	7	15	26	-11	a
+18	Deportivo	Deportivo	16	19	4	4	11	21	37	-16	a
+19	Las Palmas	Las Palmas	11	19	3	2	14	14	46	-32	a
+20	Málaga	Málaga	11	19	3	2	14	13	33	-20	a
+1	Barcelona	Barcelona	93	38	28	9	1	99	29	+70	a
+2	Atlético de Madrid	Atlético de Madrid	79	38	23	10	5	58	22	+36	a
+3	Real Madrid	Real Madrid	76	38	22	10	6	94	44	+50	a
+4	Valencia	Valencia	73	38	22	7	9	65	38	+27	a
+5	Villarreal	Villarreal	61	38	18	7	13	57	50	+7	a
+6	Real Betis	Real Betis	60	38	18	6	14	60	61	-1	a
+7	Sevilla	Sevilla	58	38	17	7	14	49	58	-9	a
+8	Getafe	Getafe	55	38	15	10	13	42	33	+9	a
+9	Eibar	Eibar	51	38	14	9	15	44	50	-6	a
+10	Girona	Girona	51	38	14	9	15	50	59	-9	a
+11	Espanyol	Espanyol	49	38	12	13	13	36	42	-6	a
+12	Real Sociedad	Real Sociedad	49	38	14	7	17	66	59	+7	a
+13	Celta de Vigo	Celta de Vigo	49	38	13	10	15	59	60	-1	a
+14	Alavés	Alavés	47	38	15	2	21	40	50	-10	a
+15	Levante	Levante	46	38	11	13	14	44	58	-14	a
+16	Athletic Bilbao	Athletic Bilbao	43	38	10	13	15	41	49	-8	a
+17	Leganés	Leganés	43	38	12	7	19	34	51	-17	a
+18	Deportivo	Deportivo	29	38	6	11	21	38	76	-38	a
+19	Las Palmas	Las Palmas	22	38	5	7	26	24	74	-50	a
+20	Málaga	Málaga	20	38	5	5	28	24	61	-37	a
+1	Barcelona	Barcelona	43	19	13	4	2	53	20	+33	a
+2	Atlético de Madrid	Atlético de Madrid	38	19	10	8	1	27	13	+14	a
+3	Sevilla	Sevilla	33	19	9	6	4	31	20	+11	a
+4	Real Madrid	Real Madrid	33	19	10	3	6	28	24	+4	a
+5	Alavés	Alavés	32	19	9	5	5	22	19	+3	a
+6	Getafe	Getafe	28	19	7	7	5	21	16	+5	a
+7	Real Betis	Real Betis	26	19	7	5	7	22	23	-1	a
+8	Real Sociedad	Real Sociedad	25	19	7	4	8	23	22	+1	a
+9	Girona	Girona	24	19	5	9	5	21	23	-2	a
+10	Espanyol	Espanyol	24	19	7	3	9	21	27	-6	a
+11	Valencia	Valencia	23	19	4	11	4	17	17	0	a
+12	Levante	Levante	23	19	6	5	8	30	35	-5	a
+13	Athletic Bilbao	Athletic Bilbao	22	19	4	10	5	20	25	-5	a
+14	Eibar	Eibar	22	19	5	7	7	21	28	-7	a
+15	Leganés	Leganés	22	19	5	7	7	17	21	-4	a
+16	Valladolid	Valladolid	22	19	5	7	7	17	21	-4	a
+17	Celta de Vigo	Celta de Vigo	21	19	5	6	8	31	32	-1	a
+18	Rayo Vallecano	Rayo Vallecano	19	19	5	4	10	22	34	-12	a
+19	Villarreal	Villarreal	17	19	3	8	8	20	25	-5	a
+20	Huesca	Huesca	11	19	2	5	12	17	36	-19	a
+1	Barcelona	Barcelona	87	38	26	9	3	90	36	+54	a
+2	Atlético de Madrid	Atlético de Madrid	76	38	22	10	6	55	29	+26	a
+3	Real Madrid	Real Madrid	68	38	21	5	12	63	46	+17	a
+4	Valencia	Valencia	61	38	15	16	7	51	35	+16	a
+5	Getafe	Getafe	59	38	15	14	9	48	35	+13	a
+6	Sevilla	Sevilla	59	38	17	8	13	62	47	+15	a
+7	Espanyol	Espanyol	53	38	14	11	13	48	50	-2	a
+8	Athletic Bilbao	Athletic Bilbao	53	38	13	14	11	41	45	-4	a
+9	Real Sociedad	Real Sociedad	50	38	13	11	14	45	46	-1	a
+10	Real Betis	Real Betis	50	38	14	8	16	44	52	-8	a
+11	Alavés	Alavés	50	38	13	11	14	39	50	-11	a
+12	Eibar	Eibar	47	38	11	14	13	46	50	-4	a
+13	Leganés	Leganés	45	38	11	12	15	37	43	-6	a
+14	Villarreal	Villarreal	44	38	10	14	14	49	52	-3	a
+15	Levante	Levante	44	38	11	11	16	59	66	-7	a
+16	Valladolid	Valladolid	41	38	10	11	17	32	51	-19	a
+17	Celta de Vigo	Celta de Vigo	41	38	10	11	17	53	62	-9	a
+18	Girona	Girona	37	38	9	10	19	37	53	-16	a
+19	Huesca	Huesca	33	38	7	12	19	43	65	-22	a
+20	Rayo Vallecano	Rayo Vallecano	32	38	8	8	22	41	70	-29	a
+1	Barcelona	Barcelona	40	19	12	4	3	49	23	+26	a
+2	Real Madrid	Real Madrid	40	19	11	7	1	36	12	+24	a
+3	Atlético de Madrid	Atlético de Madrid	35	19	9	8	2	22	12	+10	a
+4	Sevilla	Sevilla	35	19	10	5	4	24	18	+6	a
+5	Real Sociedad	Real Sociedad	31	19	9	4	6	33	25	+8	a
+6	Valencia	Valencia	31	19	8	7	4	29	25	+4	a
+7	Getafe	Getafe	30	19	8	6	5	26	20	+6	a
+8	Athletic Bilbao	Athletic Bilbao	29	19	7	8	4	20	13	+7	a
+9	Villarreal	Villarreal	28	19	8	4	7	33	26	+7	a
+10	Granada	Granada	27	19	8	3	8	25	25	0	a
+11	Levante	Levante	26	19	8	2	9	26	29	-3	a
+12	Osasuna	Osasuna	24	19	5	9	5	26	25	+1	a
+13	Real Betis	Real Betis	24	19	6	6	7	26	32	-6	a
+14	Valladolid	Valladolid	21	19	4	9	6	17	23	-6	a
+15	Alavés	Alavés	20	19	5	5	9	20	29	-9	a
+16	Eibar	Eibar	19	19	5	4	10	18	29	-11	a
+17	Celta de Vigo	Celta de Vigo	15	19	3	6	10	16	29	-13	a
+18	Mallorca	Mallorca	15	19	4	3	12	18	33	-15	a
+19	Leganés	Leganés	14	19	3	5	11	16	30	-14	a
+20	Espanyol	Espanyol	11	19	2	5	12	14	36	-22	a
+1	Real Madrid	Real Madrid	87	38	26	9	3	70	25	+45	a
+2	Barcelona	Barcelona	82	38	25	7	6	86	38	+48	a
+3	Atlético de Madrid	Atlético de Madrid	70	38	18	16	4	51	27	+24	a
+4	Sevilla	Sevilla	70	38	19	13	6	54	34	+20	a
+5	Villarreal	Villarreal	60	38	18	6	14	63	49	+14	a
+6	Real Sociedad	Real Sociedad	56	38	16	8	14	56	48	+8	a
+7	Granada	Granada	56	38	16	8	14	52	45	+7	a
+8	Getafe	Getafe	54	38	14	12	12	43	37	+6	a
+9	Valencia	Valencia	53	38	14	11	13	46	53	-7	a
+10	Osasuna	Osasuna	52	38	13	13	12	46	54	-8	a
+11	Athletic Bilbao	Athletic Bilbao	51	38	13	12	13	41	38	+3	a
+12	Levante	Levante	49	38	14	7	17	47	53	-6	a
+13	Valladolid	Valladolid	42	38	9	15	14	32	43	-11	a
+14	Eibar	Eibar	42	38	11	9	18	39	56	-17	a
+15	Real Betis	Real Betis	41	38	10	11	17	48	60	-12	a
+16	Alavés	Alavés	39	38	10	9	19	34	59	-25	a
+17	Celta de Vigo	Celta de Vigo	37	38	7	16	15	37	49	-12	a
+18	Leganés	Leganés	36	38	8	12	18	30	51	-21	a
+19	Mallorca	Mallorca	33	38	9	6	23	40	65	-25	a
+20	Espanyol	Espanyol	25	38	5	10	23	27	58	-31	a
+1	Atlético de Madrid	Atlético de Madrid	48	19	15	3	1	36	9	+27	a
+2	Real Madrid	Real Madrid	40	19	12	4	3	32	15	+17	a
+3	Barcelona	Barcelona	37	19	11	4	4	40	17	+23	a
+4	Sevilla	Sevilla	36	19	11	3	5	25	16	+9	a
+5	Villarreal	Villarreal	33	19	8	9	2	28	19	+9	a
+6	Real Sociedad	Real Sociedad	30	19	8	6	5	29	16	+13	a
+7	Granada	Granada	28	19	8	4	7	23	31	-8	a
+8	Real Betis	Real Betis	26	19	8	2	9	24	32	-8	a
+9	Cádiz	Cádiz	24	19	6	6	7	17	24	-7	a
+10	Levante	Levante	23	19	5	8	6	26	27	-1	a
+11	Celta de Vigo	Celta de Vigo	23	19	6	5	8	23	30	-7	a
+12	Getafe	Getafe	23	19	6	5	8	16	20	-4	a
+13	Athletic Bilbao	Athletic Bilbao	21	19	6	3	10	22	24	-2	a
+14	Valencia	Valencia	20	19	4	8	7	25	26	-1	a
+15	Eibar	Eibar	19	19	4	7	8	16	20	-4	a
+16	Valladolid	Valladolid	19	19	4	7	8	18	27	-9	a
+17	Alavés	Alavés	18	19	4	6	9	17	25	-8	a
+18	Elche	Elche	17	19	3	8	8	16	28	-12	a
+19	Osasuna	Osasuna	16	19	3	7	9	16	28	-12	a
+20	Huesca	Huesca	12	19	1	9	9	14	29	-15	a
+1	Atlético de Madrid	Atlético de Madrid	86	38	26	8	4	67	25	+42	a
+2	Real Madrid	Real Madrid	84	38	25	9	4	67	28	+39	a
+3	Barcelona	Barcelona	79	38	24	7	7	85	38	+47	a
+4	Sevilla	Sevilla	77	38	24	5	9	53	33	+20	a
+5	Real Sociedad	Real Sociedad	62	38	17	11	10	59	38	+21	a
+6	Real Betis	Real Betis	61	38	17	10	11	50	50	0	a
+7	Villarreal	Villarreal	58	38	15	13	10	60	44	+16	a
+8	Celta de Vigo	Celta de Vigo	53	38	14	11	13	55	57	-2	a
+9	Granada	Granada	46	38	13	7	18	47	65	-18	a
+10	Athletic Bilbao	Athletic Bilbao	46	38	11	13	14	46	42	+4	a
+11	Osasuna	Osasuna	44	38	11	11	16	37	48	-11	a
+12	Cádiz	Cádiz	44	38	11	11	16	36	58	-22	a
+13	Valencia	Valencia	43	38	10	13	15	50	53	-3	a
+14	Levante	Levante	41	38	9	14	15	46	57	-11	a
+15	Getafe	Getafe	38	38	9	11	18	28	43	-15	a
+16	Alavés	Alavés	38	38	9	11	18	36	57	-21	a
+17	Elche	Elche	36	38	8	12	18	34	55	-21	a
+18	Huesca	Huesca	34	38	7	13	18	34	53	-19	a
+19	Valladolid	Valladolid	31	38	5	16	17	34	57	-23	a
+20	Eibar	Eibar	30	38	6	12	20	29	52	-23	a
+1	Real Madrid	Real Madrid	43	19	13	4	2	39	16	+23	a
+2	Sevilla	Sevilla	41	19	12	5	2	30	13	+17	a
+3	Real Betis	Real Betis	33	19	10	3	6	32	23	+9	a
+4	Atlético de Madrid	Atlético de Madrid	32	19	9	5	5	31	22	+9	a
+5	Barcelona	Barcelona	31	19	8	7	4	30	22	+8	a
+6	Real Sociedad	Real Sociedad	30	19	8	6	5	21	21	0	a
+7	Rayo Vallecano	Rayo Vallecano	30	19	9	3	7	26	20	+6	a
+8	Valencia	Valencia	28	19	7	7	5	31	28	+3	a
+9	Villarreal	Villarreal	28	19	7	7	5	31	20	+11	a
+10	Athletic Bilbao	Athletic Bilbao	27	19	6	9	4	19	15	+4	a
+11	Espanyol	Espanyol	26	19	7	5	7	22	22	0	a
+12	Celta de Vigo	Celta de Vigo	23	19	6	5	8	22	22	0	a
+13	Granada	Granada	23	19	5	8	6	23	26	-3	a
+14	Osasuna	Osasuna	22	19	5	7	7	18	25	-7	a
+15	Mallorca	Mallorca	20	19	4	8	7	17	28	-11	a
+16	Getafe	Getafe	18	19	4	6	9	13	20	-7	a
+17	Alavés	Alavés	16	19	4	4	11	16	30	-14	a
+18	Elche	Elche	16	19	3	7	9	18	27	-9	a
+19	Cádiz	Cádiz	14	19	2	8	9	15	32	-17	a
+20	Levante	Levante	8	19	0	8	11	19	41	-22	a
+1	Real Madrid	Real Madrid	86	38	26	8	4	80	31	+49	a
+2	Barcelona	Barcelona	73	38	21	10	7	68	38	+30	a
+3	Atlético de Madrid	Atlético de Madrid	71	38	21	8	9	65	43	+22	a
+4	Sevilla	Sevilla	70	38	18	16	4	53	30	+23	a
+5	Real Betis	Real Betis	65	38	19	8	11	62	40	+22	a
+6	Real Sociedad	Real Sociedad	62	38	17	11	10	40	37	+3	a
+7	Villarreal	Villarreal	59	38	16	11	11	63	37	+26	a
+8	Athletic Bilbao	Athletic Bilbao	55	38	14	13	11	43	36	+7	a
+9	Valencia	Valencia	48	38	11	15	12	48	53	-5	a
+10	Osasuna	Osasuna	47	38	12	11	15	37	51	-14	a
+11	Celta de Vigo	Celta de Vigo	46	38	12	10	16	43	43	0	a
+12	Rayo Vallecano	Rayo Vallecano	42	38	11	9	18	39	50	-11	a
+13	Elche	Elche	42	38	11	9	18	40	52	-12	a
+14	Espanyol	Espanyol	42	38	10	12	16	40	53	-13	a
+15	Getafe	Getafe	39	38	8	15	15	33	41	-8	a
+16	Mallorca	Mallorca	39	38	10	9	19	36	63	-27	a
+17	Cádiz	Cádiz	39	38	8	15	15	35	51	-16	a
+18	Granada	Granada	38	38	8	14	16	44	61	-17	a
+19	Levante	Levante	35	38	8	11	19	51	76	-25	a
+20	Alavés	Alavés	31	38	8	7	23	31	65	-34	a
+1	Barcelona	Barcelona	50	19	16	2	1	39	7	+32	a
+2	Real Madrid	Real Madrid	45	19	14	3	2	40	16	+24	a
+3	Real Sociedad	Real Sociedad	39	19	12	3	4	28	18	+10	a
+4	Atlético de Madrid	Atlético de Madrid	34	19	10	4	5	28	16	+12	a
+5	Real Betis	Real Betis	31	19	9	4	6	21	16	+5	a
+6	Villarreal	Villarreal	31	19	9	4	6	21	14	+7	a
+7	Rayo Vallecano	Rayo Vallecano	29	19	8	5	6	25	22	+3	a
+8	Osasuna	Osasuna	28	19	8	4	7	18	18	0	a
+9	Athletic Bilbao	Athletic Bilbao	26	19	7	5	7	25	20	+5	a
+10	Mallorca	Mallorca	25	19	7	4	8	15	18	-3	a
+11	Almería	Almería	22	19	6	4	9	23	29	-6	a
+12	Girona	Girona	21	19	5	6	8	26	29	-3	a
+13	Sevilla	Sevilla	21	19	5	6	8	21	26	-5	a
+14	Valladolid	Valladolid	20	19	6	2	11	14	28	-14	a
+15	Valencia	Valencia	20	19	5	5	9	25	23	+2	a
+16	Espanyol	Espanyol	20	19	4	8	7	23	29	-6	a
+17	Celta de Vigo	Celta de Vigo	20	19	5	5	9	18	29	-11	a
+18	Cádiz	Cádiz	19	19	4	7	8	14	29	-15	a
+19	Getafe	Getafe	17	19	4	5	10	16	26	-10	a
+20	Elche	Elche	6	19	0	6	13	12	39	-27	a
+1	Barcelona	Barcelona	88	38	28	4	6	70	20	+50	a
+2	Real Madrid	Real Madrid	78	38	24	6	8	75	36	+39	a
+3	Atlético de Madrid	Atlético de Madrid	77	38	23	8	7	70	33	+37	a
+4	Real Sociedad	Real Sociedad	71	38	21	8	9	51	35	+16	a
+5	Villarreal	Villarreal	64	38	19	7	12	59	40	+19	a
+6	Real Betis	Real Betis	60	38	17	9	12	46	41	+5	a
+7	Osasuna	Osasuna	53	38	15	8	15	37	42	-5	a
+8	Athletic Bilbao	Athletic Bilbao	51	38	14	9	15	47	43	+4	a
+9	Mallorca	Mallorca	50	38	14	8	16	37	43	-6	a
+10	Girona	Girona	49	38	13	10	15	58	55	+3	a
+11	Rayo Vallecano	Rayo Vallecano	49	38	13	10	15	45	53	-8	a
+12	Sevilla	Sevilla	49	38	13	10	15	47	54	-7	a
+13	Celta de Vigo	Celta de Vigo	43	38	11	10	17	43	53	-10	a
+14	Cádiz	Cádiz	42	38	10	12	16	30	53	-23	a
+15	Valencia	Valencia	42	38	11	9	18	42	45	-3	a
+16	Getafe	Getafe	42	38	10	12	16	34	45	-11	a
+17	Almería	Almería	41	38	11	8	19	49	65	-16	a
+18	Valladolid	Valladolid	40	38	11	7	20	33	63	-30	a
+19	Espanyol	Espanyol	37	38	8	13	17	52	69	-17	a
+20	Elche	Elche	25	38	5	10	23	30	67	-37	a

@@ -1,0 +1,504 @@
+1	Werder Bremen	Werder Bremen	39	17	12	3	2	45	20	+25	a
+2	Bayern München	Bayern München	35	17	10	5	2	40	19	+21	a
+3	Bayer Leverkusen	Bayer Leverkusen	35	17	10	5	2	34	17	+17	a
+4	Stuttgart	Stuttgart	35	17	10	5	2	24	7	+17	a
+5	VfL Bochum	VfL Bochum	26	17	7	5	5	30	22	+8	a
+6	Borussia Dortmund	Borussia Dortmund	25	17	7	4	6	29	25	+4	a
+7	Wolfsburg	Wolfsburg	25	17	8	1	8	35	32	+3	a
+8	Schalke 04	Schalke 04	24	17	6	6	5	23	23	0	a
+9	Hamburger SV	Hamburger SV	23	17	6	5	6	23	29	-6	a
+10	SC Freiburg	SC Freiburg	21	17	6	3	8	24	37	-13	a
+11	Hannover 96	Hannover 96	20	17	5	5	7	30	37	-7	a
+12	Hansa Rostock	Hansa Rostock	19	17	5	4	8	24	27	-3	a
+13	Borussia M´gladbach	Borussia M´gladbach	19	17	5	4	8	18	24	-6	a
+14	TSV 1860 München	TSV 1860 München	19	17	5	4	8	18	26	-8	a
+15	Kaiserslautern	Kaiserslautern	18	17	5	3	9	20	31	-11	a
+16	FC Köln	FC Köln	13	17	3	4	10	15	26	-11	a
+17	Hertha BSC	Hertha BSC	13	17	2	7	8	15	33	-18	a
+18	Eintracht Frankfurt	Eintracht Frankfurt	12	17	3	3	11	16	28	-12	a
+1	Werder Bremen	Werder Bremen	74	34	22	8	4	79	38	+41	a
+2	Bayern München	Bayern München	68	34	20	8	6	70	39	+31	a
+3	Bayer Leverkusen	Bayer Leverkusen	65	34	19	8	7	73	39	+34	a
+4	Stuttgart	Stuttgart	64	34	18	10	6	52	24	+28	a
+5	VfL Bochum	VfL Bochum	56	34	15	11	8	57	39	+18	a
+6	Borussia Dortmund	Borussia Dortmund	55	34	16	7	11	59	48	+11	a
+7	Schalke 04	Schalke 04	50	34	13	11	10	49	42	+7	a
+8	Hamburger SV	Hamburger SV	49	34	14	7	13	47	60	-13	a
+9	Hansa Rostock	Hansa Rostock	44	34	12	8	14	55	54	+1	a
+10	Wolfsburg	Wolfsburg	42	34	13	3	18	56	61	-5	a
+11	Borussia M´gladbach	Borussia M´gladbach	39	34	10	9	15	40	49	-9	a
+12	Hertha BSC	Hertha BSC	39	34	9	12	13	42	59	-17	a
+13	Kaiserslautern	Kaiserslautern	39	34	11	6	17	39	62	-23	a
+14	SC Freiburg	SC Freiburg	38	34	10	8	16	42	67	-25	a
+15	Hannover 96	Hannover 96	37	34	9	10	15	49	63	-14	a
+16	TSV 1860 München	TSV 1860 München	32	34	8	8	18	32	55	-23	a
+17	Eintracht Frankfurt	Eintracht Frankfurt	32	34	9	5	20	36	53	-17	a
+18	FC Köln	FC Köln	23	34	6	5	23	32	57	-25 a
+1	Schalke 04	Schalke 04	34	17	11	1	5	26	21	+5	a
+2	Bayern München	Bayern München	34	17	10	4	3	33	20	+13	a
+3	Stuttgart	Stuttgart	31	17	9	4	4	32	19	+13	a
+4	Wolfsburg	Wolfsburg	30	17	10	0	7	32	26	+6	a
+5	Werder Bremen	Werder Bremen	28	17	8	4	5	36	19	+17	a
+6	Hertha BSC	Hertha BSC	28	17	7	7	3	28	15	+13	a
+7	Hannover 96	Hannover 96	28	17	8	4	5	24	16	+8	a
+8	Bayer Leverkusen	Bayer Leverkusen	26	17	7	5	5	28	25	+3	a
+9	Hamburger SV	Hamburger SV	25	17	8	1	8	30	25	+5	a
+10	Arminia Bielefeld	Arminia Bielefeld	24	17	7	3	7	19	23	-4	a
+11	Mainz	Mainz	22	17	6	4	7	24	27	-3	a
+12	FC Nürnberg	FC Nürnberg	21	17	5	6	6	28	26	+2	a
+13	Kaiserslautern	Kaiserslautern	21	17	6	3	8	22	26	-4	a
+14	Borussia Dortmund	Borussia Dortmund	18	17	4	6	7	17	22	-5	a
+15	Borussia M´gladbach	Borussia M´gladbach	17	17	4	5	8	20	30	-10	a
+16	VfL Bochum	VfL Bochum	14	17	3	5	9	23	35	-12	a
+17	Hansa Rostock	Hansa Rostock	11	17	2	5	10	13	36	-23	a
+18	SC Freiburg	SC Freiburg	11	17	2	5	10	14	38	-24	a
+1	Bayern München	Bayern München	77	34	24	5	5	75	33	+42	a
+2	Schalke 04	Schalke 04	63	34	20	3	11	56	46	+10	a
+3	Werder Bremen	Werder Bremen	59	34	18	5	11	68	37	+31	a
+4	Stuttgart	Stuttgart	58	34	17	7	10	54	40	+14	a
+5	Hertha BSC	Hertha BSC	58	34	15	13	6	59	31	+28	a
+6	Bayer Leverkusen	Bayer Leverkusen	57	34	16	9	9	65	44	+21	a
+7	Borussia Dortmund	Borussia Dortmund	55	34	15	10	9	47	44	+3	a
+8	Hamburger SV	Hamburger SV	51	34	16	3	15	55	50	+5	a
+9	Wolfsburg	Wolfsburg	48	34	15	3	16	49	51	-2	a
+10	Hannover 96	Hannover 96	45	34	13	6	15	34	36	-2	a
+11	Mainz	Mainz	43	34	12	7	15	50	55	-5	a
+12	Kaiserslautern	Kaiserslautern	42	34	12	6	16	43	52	-9	a
+13	Arminia Bielefeld	Arminia Bielefeld	40	34	11	7	16	37	49	-12	a
+14	FC Nürnberg	FC Nürnberg	38	34	10	8	16	55	63	-8	a
+15	Borussia M´gladbach	Borussia M´gladbach	36	34	8	12	14	35	51	-16	a
+16	VfL Bochum	VfL Bochum	35	34	9	8	17	47	68	-21	a
+17	Hansa Rostock	Hansa Rostock	30	34	7	9	18	31	65	-34	a
+18	SC Freiburg	SC Freiburg	18	34	3	9	22	30	75	-45	a
+1	Bayern München	Bayern München	44	17	14	2	1	35	12	+23	a
+2	Hamburger SV	Hamburger SV	38	17	11	5	1	28	9	+19	a
+3	Werder Bremen	Werder Bremen	36	17	11	3	3	46	21	+25	a
+4	Schalke 04	Schalke 04	31	17	8	7	2	20	12	+8	a
+5	Hertha BSC	Hertha BSC	26	17	7	5	5	27	24	+3	a
+6	Borussia M´gladbach	Borussia M´gladbach	25	17	6	7	4	24	21	+3	a
+7	Stuttgart	Stuttgart	25	17	5	10	2	21	17	+4	a
+8	Hannover 96	Hannover 96	21	17	4	9	4	26	23	+3	a
+9	Borussia Dortmund	Borussia Dortmund	21	17	5	6	6	23	24	-1	a
+10	Eintracht Frankfurt	Eintracht Frankfurt	21	17	6	3	8	24	27	-3	a
+11	Arminia Bielefeld	Arminia Bielefeld	20	17	5	5	7	21	25	-4	a
+12	Bayer Leverkusen	Bayer Leverkusen	19	17	4	7	6	24	26	-2	a
+13	Wolfsburg	Wolfsburg	18	17	4	6	7	17	29	-12	a
+14	Mainz	Mainz	16	17	4	4	9	24	26	-2	a
+15	FC Nürnberg	FC Nürnberg	14	17	3	5	9	18	30	-12	a
+16	FC Köln	FC Köln	12	17	3	3	11	24	39	-15	a
+17	MSV Duisburg	MSV Duisburg	12	17	2	6	9	15	31	-16	a
+18	Kaiserslautern	Kaiserslautern	12	17	3	3	11	23	44	-21	a
+1	Bayern München	Bayern München	75	34	22	9	3	67	32	+35	a
+2	Werder Bremen	Werder Bremen	70	34	21	7	6	79	37	+42	a
+3	Hamburger SV	Hamburger SV	68	34	21	5	8	53	30	+23	a
+4	Schalke 04	Schalke 04	61	34	16	13	5	47	31	+16	a
+5	Bayer Leverkusen	Bayer Leverkusen	52	34	14	10	10	64	49	+15	a
+6	Hertha BSC	Hertha BSC	48	34	12	12	10	52	48	+4	a
+7	Borussia Dortmund	Borussia Dortmund	46	34	11	13	10	45	42	+3	a
+8	FC Nürnberg	FC Nürnberg	44	34	12	8	14	49	51	-2	a
+9	Stuttgart	Stuttgart	43	34	9	16	9	37	39	-2	a
+10	Borussia M´gladbach	Borussia M´gladbach	42	34	10	12	12	42	50	-8	a
+11	Mainz	Mainz	38	34	9	11	14	46	47	-1	a
+12	Hannover 96	Hannover 96	38	34	7	17	10	43	47	-4	a
+13	Arminia Bielefeld	Arminia Bielefeld	37	34	10	7	17	32	47	-15	a
+14	Eintracht Frankfurt	Eintracht Frankfurt	36	34	9	9	16	42	51	-9	a
+15	Wolfsburg	Wolfsburg	34	34	7	13	14	33	55	-22	a
+16	Kaiserslautern	Kaiserslautern	33	34	8	9	17	47	71	-24	a
+17	FC Köln	FC Köln	30	34	7	9	18	49	71	-22	a
+18	MSV Duisburg	MSV Duisburg	27	34	5	12	17	34	63	-29	a
+1	Schalke 04	Schalke 04	36	17	11	3	3	29	17	+12	a
+2	Werder Bremen	Werder Bremen	36	17	11	3	3	47	22	+25	a
+3	Bayern München	Bayern München	33	17	10	3	4	30	19	+11	a
+4	Stuttgart	Stuttgart	32	17	9	5	3	28	19	+9	a
+5	Hertha BSC	Hertha BSC	27	17	7	6	4	28	24	+4	a
+6	Bayer Leverkusen	Bayer Leverkusen	25	17	7	4	6	28	24	+4	a
+7	FC Nürnberg	FC Nürnberg	23	17	4	11	2	21	16	+5	a
+8	Arminia Bielefeld	Arminia Bielefeld	22	17	5	7	5	23	19	+4	a
+9	Borussia Dortmund	Borussia Dortmund	22	17	5	7	5	21	21	0	a
+10	Eintracht Frankfurt	Eintracht Frankfurt	20	17	4	8	5	22	28	-6	a
+11	Hannover 96	Hannover 96	20	17	5	5	7	16	26	-10	a
+12	Alemannia Aachen	Alemannia Aachen	19	17	5	4	8	28	33	-5	a
+13	Wolfsburg	Wolfsburg	19	17	4	7	6	12	16	-4	a
+14	VfL Bochum	VfL Bochum	18	17	5	3	9	22	30	-8	a
+15	Energie Cottbus	Energie Cottbus	17	17	4	5	8	18	24	-6	a
+16	Borussia M´gladbach	Borussia M´gladbach	15	17	4	3	10	13	23	-10	a
+17	Hamburger SV	Hamburger SV	13	17	1	10	6	16	22	-6	a
+18	Mainz	Mainz	11	17	1	8	8	11	30	-19	a
+1	Stuttgart	Stuttgart	70	34	21	7	6	61	37	+24	a
+2	Schalke 04	Schalke 04	68	34	21	5	8	53	32	+21	a
+3	Werder Bremen	Werder Bremen	66	34	20	6	8	76	40	+36	a
+4	Bayern München	Bayern München	60	34	18	6	10	55	40	+15	a
+5	Bayer Leverkusen	Bayer Leverkusen	51	34	15	6	13	54	49	+5	a
+6	FC Nürnberg	FC Nürnberg	48	34	11	15	8	43	32	+11	a
+7	Hamburger SV	Hamburger SV	45	34	10	15	9	43	37	+6	a
+8	VfL Bochum	VfL Bochum	45	34	13	6	15	49	50	-1	a
+9	Borussia Dortmund	Borussia Dortmund	44	34	12	8	14	41	43	-2	a
+10	Hertha BSC	Hertha BSC	44	34	12	8	14	50	55	-5	a
+11	Hannover 96	Hannover 96	44	34	12	8	14	41	50	-9	a
+12	Arminia Bielefeld	Arminia Bielefeld	42	34	11	9	14	47	49	-2	a
+13	Energie Cottbus	Energie Cottbus	41	34	11	8	15	38	49	-11	a
+14	Eintracht Frankfurt	Eintracht Frankfurt	40	34	9	13	12	46	58	-12	a
+15	Wolfsburg	Wolfsburg	37	34	8	13	13	37	45	-8	a
+16	Mainz	Mainz	34	34	8	10	16	34	57	-23	a
+17	Alemannia Aachen	Alemannia Aachen	34	34	9	7	18	46	70	-24	a
+18	Borussia M´gladbach	Borussia M´gladbach	26	34	6	8	20	23	44	-21	a
+1	Bayern München	Bayern München	36	17	10	6	1	31	8	+23	a
+2	Werder Bremen	Werder Bremen	36	17	11	3	3	42	24	+18	a
+3	Hamburger SV	Hamburger SV	32	17	9	5	3	24	13	+11	a
+4	Bayer Leverkusen	Bayer Leverkusen	30	17	9	3	5	32	16	+16	a
+5	Schalke 04	Schalke 04	29	17	7	8	2	26	17	+9	a
+6	Karlsruher SC	Karlsruher SC	28	17	8	4	5	19	21	-2	a
+7	Hannover 96	Hannover 96	27	17	8	3	6	27	28	-1	a
+8	Stuttgart	Stuttgart	25	17	8	1	8	24	25	-1	a
+9	Eintracht Frankfurt	Eintracht Frankfurt	23	17	5	8	4	19	23	-4	a
+10	Borussia Dortmund	Borussia Dortmund	21	17	6	3	8	26	30	-4	a
+11	Hertha BSC	Hertha BSC	20	17	6	2	9	19	24	-5	a
+12	Wolfsburg	Wolfsburg	20	17	5	5	7	30	30	0	a
+13	VfL Bochum	VfL Bochum	19	17	5	4	8	25	27	-2	a
+14	Arminia Bielefeld	Arminia Bielefeld	18	17	5	3	9	19	38	-19	a
+15	Hansa Rostock	Hansa Rostock	17	17	5	2	10	16	26	-10	a
+16	FC Nürnberg	FC Nürnberg	15	17	4	3	10	21	28	-7	a
+17	Energie Cottbus	Energie Cottbus	15	17	3	6	8	17	27	-10	a
+18	MSV Duisburg	MSV Duisburg	13	17	4	1	12	14	26	-12	a
+1	Bayern München	Bayern München	76	34	22	10	2	68	21	+47	a
+2	Werder Bremen	Werder Bremen	66	34	20	6	8	75	45	+30	a
+3	Schalke 04	Schalke 04	64	34	18	10	6	55	32	+23	a
+4	Hamburger SV	Hamburger SV	54	34	14	12	8	47	26	+21	a
+5	Wolfsburg	Wolfsburg	54	34	15	9	10	58	46	+12	a
+6	Stuttgart	Stuttgart	52	34	16	4	14	57	57	0	a
+7	Bayer Leverkusen	Bayer Leverkusen	51	34	15	6	13	57	40	+17	a
+8	Hannover 96	Hannover 96	49	34	13	10	11	54	56	-2	a
+9	Eintracht Frankfurt	Eintracht Frankfurt	46	34	12	10	12	43	50	-7	a
+10	Hertha BSC	Hertha BSC	44	34	12	8	14	39	44	-5	a
+11	Karlsruher SC	Karlsruher SC	43	34	11	10	13	38	53	-15	a
+12	VfL Bochum	VfL Bochum	41	34	10	11	13	48	54	-6	a
+13	Borussia Dortmund	Borussia Dortmund	40	34	10	10	14	50	62	-12	a
+14	Energie Cottbus	Energie Cottbus	36	34	9	9	16	35	56	-21	a
+15	Arminia Bielefeld	Arminia Bielefeld	34	34	8	10	16	35	60	-25	a
+16	FC Nürnberg	FC Nürnberg	31	34	7	10	17	35	51	-16	a
+17	Hansa Rostock	Hansa Rostock	30	34	8	6	20	30	52	-22	a
+18	MSV Duisburg	MSV Duisburg	29	34	8	5	21	36	55	-19	a
+1	TSG Hoffenheim	TSG Hoffenheim	35	17	11	2	4	42	23	+19	a
+2	Bayern München	Bayern München	35	17	10	5	2	39	24	+15	a
+3	Hertha BSC	Hertha BSC	33	17	10	3	4	27	20	+7	a
+4	Hamburger SV	Hamburger SV	33	17	10	3	4	26	24	+2	a
+5	Bayer Leverkusen	Bayer Leverkusen	32	17	10	2	5	36	21	+15	a
+6	Borussia Dortmund	Borussia Dortmund	29	17	7	8	2	27	19	+8	a
+7	Schalke 04	Schalke 04	27	17	7	6	4	24	16	+8	a
+8	Werder Bremen	Werder Bremen	26	17	7	5	5	39	28	+11	a
+9	Wolfsburg	Wolfsburg	26	17	7	5	5	35	25	+10	a
+10	Stuttgart	Stuttgart	25	17	7	4	6	26	23	+3	a
+11	FC Köln	FC Köln	22	17	7	1	9	19	25	-6	a
+12	Eintracht Frankfurt	Eintracht Frankfurt	19	17	5	4	8	23	29	-6	a
+13	Hannover 96	Hannover 96	17	17	4	5	8	20	32	-12	a
+14	Arminia Bielefeld	Arminia Bielefeld	14	17	2	8	7	15	27	-12	a
+15	Karlsruher SC	Karlsruher SC	13	17	4	1	12	15	32	-17	a
+16	Energie Cottbus	Energie Cottbus	13	17	3	4	10	12	29	-17	a
+17	VfL Bochum	VfL Bochum	11	17	1	8	8	19	30	-11	a
+18	Borussia M´gladbach	Borussia M´gladbach	11	17	3	2	12	18	35	-17	a
+1	Wolfsburg	Wolfsburg	69	34	21	6	7	80	41	+39	a
+2	Bayern München	Bayern München	67	34	20	7	7	71	42	+29	a
+3	Stuttgart	Stuttgart	64	34	19	7	8	63	43	+20	a
+4	Hertha BSC	Hertha BSC	63	34	19	6	9	48	41	+7	a
+5	Hamburger SV	Hamburger SV	61	34	19	4	11	49	47	+2	a
+6	Borussia Dortmund	Borussia Dortmund	59	34	15	14	5	60	37	+23	a
+7	TSG Hoffenheim	TSG Hoffenheim	55	34	15	10	9	63	49	+14	a
+8	Schalke 04	Schalke 04	50	34	14	8	12	47	35	+12	a
+9	Bayer Leverkusen	Bayer Leverkusen	49	34	14	7	13	59	46	+13	a
+10	Werder Bremen	Werder Bremen	45	34	12	9	13	64	50	+14	a
+11	Hannover 96	Hannover 96	40	34	10	10	14	49	69	-20	a
+12	FC Köln	FC Köln	39	34	11	6	17	35	50	-15	a
+13	Eintracht Frankfurt	Eintracht Frankfurt	33	34	8	9	17	39	60	-21	a
+14	VfL Bochum	VfL Bochum	32	34	7	11	16	39	55	-16	a
+15	Borussia M´gladbach	Borussia M´gladbach	31	34	8	7	19	39	62	-23	a
+16	Energie Cottbus	Energie Cottbus	30	34	8	6	20	30	57	-27	a
+17	Karlsruher SC	Karlsruher SC	29	34	8	5	21	30	54	-24	a
+18	Arminia Bielefeld	Arminia Bielefeld	28	34	4	16	14	29	56	-27	a
+1	Bayer Leverkusen	Bayer Leverkusen	35	17	9	8	0	35	13	+22	a
+2	Schalke 04	Schalke 04	34	17	10	4	3	26	13	+13	a
+3	Bayern München	Bayern München	33	17	9	6	2	34	15	+19	a
+4	Hamburger SV	Hamburger SV	31	17	8	7	2	34	19	+15	a
+5	Borussia Dortmund	Borussia Dortmund	30	17	8	6	3	23	17	+6	a
+6	Werder Bremen	Werder Bremen	28	17	7	7	3	32	16	+16	a
+7	TSG Hoffenheim	TSG Hoffenheim	25	17	7	4	6	27	17	+10	a
+8	Wolfsburg	Wolfsburg	24	17	6	6	5	32	32	0	a
+9	Mainz	Mainz	24	17	6	6	5	21	22	-1	a
+10	Eintracht Frankfurt	Eintracht Frankfurt	24	17	6	6	5	22	24	-2	a
+11	Borussia M´gladbach	Borussia M´gladbach	21	17	6	3	8	24	29	-5	a
+12	FC Köln	FC Köln	18	17	4	6	7	10	15	-5	a
+13	SC Freiburg	SC Freiburg	18	17	5	3	9	19	33	-14	a
+14	Hannover 96	Hannover 96	17	17	4	5	8	21	27	-6	a
+15	Stuttgart	Stuttgart	16	17	3	7	7	16	23	-7	a
+16	VfL Bochum	VfL Bochum	16	17	4	4	9	18	33	-15	a
+17	FC Nürnberg	FC Nürnberg	12	17	3	3	11	12	32	-20	a
+18	Hertha BSC	Hertha BSC	6	17	1	3	13	13	39	-26	a
+1	Bayern München	Bayern München	70	34	20	10	4	72	31	+41	a
+2	Schalke 04	Schalke 04	65	34	19	8	7	53	31	+22	a
+3	Werder Bremen	Werder Bremen	61	34	17	10	7	71	40	+31	a
+4	Bayer Leverkusen	Bayer Leverkusen	59	34	15	14	5	65	38	+27	a
+5	Borussia Dortmund	Borussia Dortmund	57	34	16	9	9	54	42	+12	a
+6	Stuttgart	Stuttgart	55	34	15	10	9	51	41	+10	a
+7	Hamburger SV	Hamburger SV	52	34	13	13	8	56	41	+15	a
+8	Wolfsburg	Wolfsburg	50	34	14	8	12	64	58	+6	a
+9	Mainz	Mainz	47	34	12	11	11	36	42	-6	a
+10	Eintracht Frankfurt	Eintracht Frankfurt	46	34	12	10	12	47	54	-7	a
+11	TSG Hoffenheim	TSG Hoffenheim	42	34	11	9	14	44	42	+2	a
+12	Borussia M´gladbach	Borussia M´gladbach	39	34	10	9	15	43	60	-17	a
+13	FC Köln	FC Köln	38	34	9	11	14	33	42	-9	a
+14	SC Freiburg	SC Freiburg	35	34	9	8	17	35	59	-24	a
+15	Hannover 96	Hannover 96	33	34	9	6	19	43	67	-24	a
+16	FC Nürnberg	FC Nürnberg	31	34	8	7	19	32	58	-26	a
+17	VfL Bochum	VfL Bochum	28	34	6	10	18	33	64	-31	a
+18	Hertha BSC	Hertha BSC	24	34	5	9	20	34	56	-22	a
+1	Borussia Dortmund	Borussia Dortmund	43	17	14	1	2	39	10	+29	a
+2	Mainz	Mainz	33	17	11	0	6	30	19	+11	a
+3	Bayer Leverkusen	Bayer Leverkusen	33	17	9	6	2	35	25	+10	a
+4	Hannover 96	Hannover 96	31	17	10	1	6	25	27	-2	a
+5	Bayern München	Bayern München	29	17	8	5	4	31	20	+11	a
+6	SC Freiburg	SC Freiburg	28	17	9	1	7	25	25	0	a
+7	Eintracht Frankfurt	Eintracht Frankfurt	26	17	8	2	7	24	21	+3	a
+8	TSG Hoffenheim	TSG Hoffenheim	25	17	6	7	4	32	22	+10	a
+9	Hamburger SV	Hamburger SV	24	17	7	3	7	27	28	-1	a
+10	Schalke 04	Schalke 04	22	17	6	4	7	25	24	+1	a
+11	FC Nürnberg	FC Nürnberg	22	17	6	4	7	22	28	-6	a
+12	Kaiserslautern	Kaiserslautern	21	17	6	3	8	27	27	0	a
+13	Wolfsburg	Wolfsburg	19	17	4	7	6	24	25	-1	a
+14	Werder Bremen	Werder Bremen	19	17	5	4	8	23	35	-12	a
+15	FC St. Pauli	FC St. Pauli	17	17	5	2	10	16	30	-14	a
+16	FC Köln	FC Köln	15	17	4	3	10	18	33	-15	a
+17	Stuttgart	Stuttgart	12	17	3	3	11	32	35	-3	a
+18	Borussia M´gladbach	Borussia M´gladbach	10	17	2	4	11	26	47	-21	a
+1	Borussia Dortmund	Borussia Dortmund	75	34	23	6	5	67	22	+45	a
+2	Bayer Leverkusen	Bayer Leverkusen	68	34	20	8	6	64	44	+20	a
+3	Bayern München	Bayern München	65	34	19	8	7	81	40	+41	a
+4	Hannover 96	Hannover 96	60	34	19	3	12	49	45	+4	a
+5	Mainz	Mainz	58	34	18	4	12	52	39	+13	a
+6	FC Nürnberg	FC Nürnberg	47	34	13	8	13	47	45	+2	a
+7	Kaiserslautern	Kaiserslautern	46	34	13	7	14	48	51	-3	a
+8	Hamburger SV	Hamburger SV	45	34	12	9	13	46	52	-6	a
+9	SC Freiburg	SC Freiburg	44	34	13	5	16	41	50	-9	a
+10	FC Köln	FC Köln	44	34	13	5	16	47	62	-15	a
+11	TSG Hoffenheim	TSG Hoffenheim	43	34	11	10	13	50	50	0	a
+12	Stuttgart	Stuttgart	42	34	12	6	16	60	59	+1	a
+13	Werder Bremen	Werder Bremen	41	34	10	11	13	47	61	-14	a
+14	Schalke 04	Schalke 04	40	34	11	7	16	38	44	-6	a
+15	Wolfsburg	Wolfsburg	38	34	9	11	14	43	48	-5	a
+16	Borussia M´gladbach	Borussia M´gladbach	36	34	10	6	18	48	65	-17	a
+17	Eintracht Frankfurt	Eintracht Frankfurt	34	34	9	7	18	31	49	-18	a
+18	FC St. Pauli	FC St. Pauli	29	34	8	5	21	35	68	-33	a
+1	Bayern München	Bayern München	37	17	12	1	4	43	10	+33	a
+2	Borussia Dortmund	Borussia Dortmund	34	17	10	4	3	35	12	+23	a
+3	Schalke 04	Schalke 04	34	17	11	1	5	38	22	+16	a
+4	Borussia M´gladbach	Borussia M´gladbach	33	17	10	3	4	25	11	+14	a
+5	Werder Bremen	Werder Bremen	29	17	9	2	6	30	31	-1	a
+6	Bayer Leverkusen	Bayer Leverkusen	26	17	7	5	5	22	22	0	a
+7	Hannover 96	Hannover 96	23	17	5	8	4	20	24	-4	a
+8	Stuttgart	Stuttgart	22	17	6	4	7	23	20	+3	a
+9	TSG Hoffenheim	TSG Hoffenheim	22	17	6	4	7	19	19	0	a
+10	FC Köln	FC Köln	21	17	6	3	8	27	35	-8	a
+11	Hertha BSC	Hertha BSC	20	17	4	8	5	24	26	-2	a
+12	Wolfsburg	Wolfsburg	20	17	6	2	9	23	34	-11	a
+13	Hamburger SV	Hamburger SV	19	17	4	7	6	21	27	-6	a
+14	Mainz	Mainz	18	17	4	6	7	22	29	-7	a
+15	FC Nürnberg	FC Nürnberg	18	17	5	3	9	17	28	-11	a
+16	Kaiserslautern	Kaiserslautern	16	17	3	7	7	13	21	-8	a
+17	FC Augsburg	FC Augsburg	15	17	3	6	8	15	28	-13	a
+18	SC Freiburg	SC Freiburg	13	17	3	4	10	21	39	-18	a
+1	Borussia Dortmund	Borussia Dortmund	81	34	25	6	3	80	25	+55	a
+2	Bayern München	Bayern München	73	34	23	4	7	77	22	+55	a
+3	Schalke 04	Schalke 04	64	34	20	4	10	74	44	+30	a
+4	Borussia M´gladbach	Borussia M´gladbach	60	34	17	9	8	49	24	+25	a
+5	Bayer Leverkusen	Bayer Leverkusen	54	34	15	9	10	52	44	+8	a
+6	Stuttgart	Stuttgart	53	34	15	8	11	63	46	+17	a
+7	Hannover 96	Hannover 96	48	34	12	12	10	41	45	-4	a
+8	Wolfsburg	Wolfsburg	44	34	13	5	16	47	60	-13	a
+9	Werder Bremen	Werder Bremen	42	34	11	9	14	49	58	-9	a
+10	FC Nürnberg	FC Nürnberg	42	34	12	6	16	38	49	-11	a
+11	TSG Hoffenheim	TSG Hoffenheim	41	34	10	11	13	41	47	-6	a
+12	SC Freiburg	SC Freiburg	40	34	10	10	14	45	61	-16	a
+13	Mainz	Mainz	39	34	9	12	13	47	51	-4	a
+14	FC Augsburg	FC Augsburg	38	34	8	14	12	36	49	-13	a
+15	Hamburger SV	Hamburger SV	36	34	8	12	14	35	57	-22	a
+16	Hertha BSC	Hertha BSC	31	34	7	10	17	38	64	-26	a
+17	FC Köln	FC Köln	30	34	8	6	20	39	75	-36	a
+18	Kaiserslautern	Kaiserslautern	23	34	4	11	19	24	54	-30	a
+1	Bayern München	Bayern München	42	17	13	3	1	44	7	+37	a
+2	Bayer Leverkusen	Bayer Leverkusen	33	17	10	3	4	33	22	+11	a
+3	Borussia Dortmund	Borussia Dortmund	30	17	8	6	3	35	20	+15	a
+4	Eintracht Frankfurt	Eintracht Frankfurt	30	17	9	3	5	33	27	+6	a
+5	SC Freiburg	SC Freiburg	26	17	7	5	5	24	18	+6	a
+6	Mainz	Mainz	26	17	8	2	7	24	21	+3	a
+7	Schalke 04	Schalke 04	25	17	7	4	6	27	25	+2	a
+8	Borussia M´gladbach	Borussia M´gladbach	25	17	6	7	4	25	26	-1	a
+9	Stuttgart	Stuttgart	25	17	7	4	6	21	28	-7	a
+10	Hamburger SV	Hamburger SV	24	17	7	3	7	18	21	-3	a
+11	Hannover 96	Hannover 96	23	17	7	2	8	32	31	+1	a
+12	Werder Bremen	Werder Bremen	22	17	6	4	7	28	29	-1	a
+13	Fortuna Düsseldorf	Fortuna Düsseldorf	21	17	5	6	6	20	22	-2	a
+14	FC Nürnberg	FC Nürnberg	20	17	5	5	7	17	22	-5	a
+15	Wolfsburg	Wolfsburg	19	17	5	4	8	17	27	-10	a
+16	TSG Hoffenheim	TSG Hoffenheim	12	17	3	3	11	23	41	-18	a
+17	FC Augsburg	FC Augsburg	9	17	1	6	10	12	29	-17	a
+18	SpVgg Greuther Fürth	SpVgg Greuther Fürth	9	17	1	6	10	11	28	-17	a
+1	Bayern München	Bayern München	91	34	29	4	1	98	18	+80	a
+2	Borussia Dortmund	Borussia Dortmund	66	34	19	9	6	81	42	+39	a
+3	Bayer Leverkusen	Bayer Leverkusen	65	34	19	8	7	65	39	+26	a
+4	Schalke 04	Schalke 04	55	34	16	7	11	58	50	+8	a
+5	SC Freiburg	SC Freiburg	51	34	14	9	11	45	40	+5	a
+6	Eintracht Frankfurt	Eintracht Frankfurt	51	34	14	9	11	49	46	+3	a
+7	Hamburger SV	Hamburger SV	48	34	14	6	14	42	53	-11	a
+8	Borussia M´gladbach	Borussia M´gladbach	47	34	12	11	11	45	49	-4	a
+9	Hannover 96	Hannover 96	45	34	13	6	15	60	62	-2	a
+10	FC Nürnberg	FC Nürnberg	44	34	11	11	12	39	47	-8	a
+11	Wolfsburg	Wolfsburg	43	34	10	13	11	47	52	-5	a
+12	Stuttgart	Stuttgart	43	34	12	7	15	37	55	-18	a
+13	Mainz	Mainz	42	34	10	12	12	42	44	-2	a
+14	Werder Bremen	Werder Bremen	34	34	8	10	16	50	66	-16	a
+15	FC Augsburg	FC Augsburg	33	34	8	9	17	33	51	-18	a
+16	TSG Hoffenheim	TSG Hoffenheim	31	34	8	7	19	42	67	-25	a
+17	Fortuna Düsseldorf	Fortuna Düsseldorf	30	34	7	9	18	39	57	-18	a
+18	SpVgg Greuther Fürth	SpVgg Greuther Fürth	21	34	4	9	21	26	60	-34	a
+1	Bayern München	Bayern München	47	17	15	2	0	44	9	+35	a
+2	Bayer Leverkusen	Bayer Leverkusen	37	17	12	1	4	32	16	+16	a
+3	Borussia M´gladbach	Borussia M´gladbach	33	17	10	3	4	35	19	+16	a
+4	Borussia Dortmund	Borussia Dortmund	32	17	10	2	5	38	20	+18	a
+5	Wolfsburg	Wolfsburg	30	17	9	3	5	28	19	+9	a
+6	Hertha BSC	Hertha BSC	28	17	8	4	5	27	20	+7	a
+7	Schalke 04	Schalke 04	28	17	8	4	5	32	28	+4	a
+8	FC Augsburg	FC Augsburg	24	17	7	3	7	21	25	-4	a
+9	Mainz	Mainz	24	17	7	3	7	25	31	-6	a
+10	Stuttgart	Stuttgart	19	17	5	4	8	30	33	-3	a
+11	Werder Bremen	Werder Bremen	19	17	5	4	8	22	37	-15	a
+12	TSG Hoffenheim	TSG Hoffenheim	18	17	4	6	7	36	38	-2	a
+13	Hannover 96	Hannover 96	18	17	5	3	9	23	31	-8	a
+14	Hamburger SV	Hamburger SV	16	17	4	4	9	33	38	-5	a
+15	Eintracht Frankfurt	Eintracht Frankfurt	15	17	3	6	8	20	29	-9	a
+16	SC Freiburg	SC Freiburg	14	17	3	5	9	16	31	-15	a
+17	FC Nürnberg	FC Nürnberg	11	17	0	11	6	17	33	-16	a
+18	Eintracht Braunschweig	Eintracht Braunschweig	11	17	3	2	12	10	32	-22	a
+1	Bayern München	Bayern München	90	34	29	3	2	94	23	+71	a
+2	Borussia Dortmund	Borussia Dortmund	71	34	22	5	7	80	38	+42	a
+3	Schalke 04	Schalke 04	64	34	19	7	8	63	43	+20	a
+4	Bayer Leverkusen	Bayer Leverkusen	61	34	19	4	11	60	41	+19	a
+5	Wolfsburg	Wolfsburg	60	34	18	6	10	63	50	+13	a
+6	Borussia M´gladbach	Borussia M´gladbach	55	34	16	7	11	59	43	+16	a
+7	Mainz	Mainz	53	34	16	5	13	52	54	-2	a
+8	FC Augsburg	FC Augsburg	52	34	15	7	12	47	47	0	a
+9	TSG Hoffenheim	TSG Hoffenheim	44	34	11	11	12	72	70	+2	a
+10	Hannover 96	Hannover 96	42	34	12	6	16	46	59	-13	a
+11	Hertha BSC	Hertha BSC	41	34	11	8	15	40	48	-8	a
+12	Werder Bremen	Werder Bremen	39	34	10	9	15	42	66	-24	a
+13	Eintracht Frankfurt	Eintracht Frankfurt	36	34	9	9	16	40	57	-17	a
+14	SC Freiburg	SC Freiburg	36	34	9	9	16	43	61	-18	a
+15	Stuttgart	Stuttgart	32	34	8	8	18	49	62	-13	a
+16	Hamburger SV	Hamburger SV	27	34	7	6	21	51	75	-24	a
+17	FC Nürnberg	FC Nürnberg	26	34	5	11	18	37	70	-33	a
+18	Eintracht Braunschweig	Eintracht Braunschweig	25	34	6	7	21	29	60	-31	a
+1	Bayern München	Bayern München	45	17	14	3	0	41	4	+37	a
+2	Wolfsburg	Wolfsburg	34	17	10	4	3	33	17	+16	a
+3	Bayer Leverkusen	Bayer Leverkusen	28	17	7	7	3	28	20	+8	a
+4	Borussia M´gladbach	Borussia M´gladbach	27	17	7	6	4	25	16	+9	a
+5	Schalke 04	Schalke 04	27	17	8	3	6	28	21	+7	a
+6	FC Augsburg	FC Augsburg	27	17	9	0	8	22	21	+1	a
+7	TSG Hoffenheim	TSG Hoffenheim	26	17	7	5	5	29	25	+4	a
+8	Hannover 96	Hannover 96	24	17	7	3	7	21	26	-5	a
+9	Eintracht Frankfurt	Eintracht Frankfurt	23	17	6	5	6	34	34	0	a
+10	SC Paderborn 07	SC Paderborn 07	19	17	4	7	6	21	26	-5	a
+11	FC Köln	FC Köln	19	17	5	4	8	17	23	-6	a
+12	Mainz	Mainz	18	17	3	9	5	19	23	-4	a
+13	Hertha BSC	Hertha BSC	18	17	5	3	9	24	35	-11	a
+14	Hamburger SV	Hamburger SV	17	17	4	5	8	9	19	-10	a
+15	Stuttgart	Stuttgart	17	17	4	5	8	20	32	-12	a
+16	Werder Bremen	Werder Bremen	17	17	4	5	8	26	39	-13	a
+17	Borussia Dortmund	Borussia Dortmund	15	17	4	3	10	18	26	-8	a
+18	SC Freiburg	SC Freiburg	15	17	2	9	6	17	25	-8	a
+1	Bayern München	Bayern München	79	34	25	4	5	80	18	+62	a
+2	Wolfsburg	Wolfsburg	69	34	20	9	5	72	38	+34	a
+3	Borussia M´gladbach	Borussia M´gladbach	66	34	19	9	6	53	26	+27	a
+4	Bayer Leverkusen	Bayer Leverkusen	61	34	17	10	7	62	37	+25	a
+5	FC Augsburg	FC Augsburg	49	34	15	4	15	43	43	0	a
+6	Schalke 04	Schalke 04	48	34	13	9	12	42	40	+2	a
+7	Borussia Dortmund	Borussia Dortmund	46	34	13	7	14	47	42	+5	a
+8	TSG Hoffenheim	TSG Hoffenheim	44	34	12	8	14	49	55	-6	a
+9	Eintracht Frankfurt	Eintracht Frankfurt	43	34	11	10	13	56	62	-6	a
+10	Werder Bremen	Werder Bremen	43	34	11	10	13	50	65	-15	a
+11	Mainz	Mainz	40	34	9	13	12	45	47	-2	a
+12	FC Köln	FC Köln	40	34	9	13	12	34	40	-6	a
+13	Hannover 96	Hannover 96	37	34	9	10	15	40	56	-16	a
+14	Stuttgart	Stuttgart	36	34	9	9	16	42	60	-18	a
+15	Hertha BSC	Hertha BSC	35	34	9	8	17	36	52	-16	a
+16	Hamburger SV	Hamburger SV	35	34	9	8	17	25	50	-25	a
+17	SC Freiburg	SC Freiburg	34	34	7	13	14	36	47	-11	a
+18	SC Paderborn 07	SC Paderborn 07	31	34	7	10	17	31	65	-34	a
+1	Bayern München	Bayern München	46	17	15	1	1	46	8	+38	a
+2	Borussia Dortmund	Borussia Dortmund	38	17	12	2	3	47	23	+24	a
+3	Hertha BSC	Hertha BSC	32	17	10	2	5	26	18	+8	a
+4	Borussia M´gladbach	Borussia M´gladbach	29	17	9	2	6	34	30	+4	a
+5	Bayer Leverkusen	Bayer Leverkusen	27	17	8	3	6	25	20	+5	a
+6	Schalke 04	Schalke 04	27	17	8	3	6	23	23	0	a
+7	Wolfsburg	Wolfsburg	26	17	7	5	5	26	21	+5	a
+8	Mainz	Mainz	24	17	7	3	7	23	23	0	a
+9	FC Köln	FC Köln	24	17	6	6	5	18	21	-3	a
+10	Hamburger SV	Hamburger SV	22	17	6	4	7	19	23	-4	a
+11	FC Ingolstadt 04	FC Ingolstadt 04	20	17	5	5	7	11	18	-7	a
+12	FC Augsburg	FC Augsburg	19	17	5	4	8	21	26	-5	a
+13	Darmstadt 98	Darmstadt 98	18	17	4	6	7	17	26	-9	a
+14	Eintracht Frankfurt	Eintracht Frankfurt	17	17	4	5	8	21	28	-7	a
+15	Stuttgart	Stuttgart	15	17	4	3	10	22	37	-15	a
+16	Werder Bremen	Werder Bremen	15	17	4	3	10	17	32	-15	a
+17	Hannover 96	Hannover 96	14	17	4	2	11	18	29	-11	a
+18	TSG Hoffenheim	TSG Hoffenheim	13	17	2	7	8	17	25	-8	a
+1	Bayern München	Bayern München	88	34	28	4	2	80	17	+63	a
+2	Borussia Dortmund	Borussia Dortmund	78	34	24	6	4	82	34	+48	a
+3	Bayer Leverkusen	Bayer Leverkusen	60	34	18	6	10	56	40	+16	a
+4	Borussia M´gladbach	Borussia M´gladbach	55	34	17	4	13	67	50	+17	a
+5	Schalke 04	Schalke 04	52	34	15	7	12	51	49	+2	a
+6	Mainz	Mainz	50	34	14	8	12	46	42	+4	a
+7	Hertha BSC	Hertha BSC	50	34	14	8	12	42	42	0	a
+8	Wolfsburg	Wolfsburg	45	34	12	9	13	47	49	-2	a
+9	FC Köln	FC Köln	43	34	10	13	11	38	42	-4	a
+10	Hamburger SV	Hamburger SV	41	34	11	8	15	40	46	-6	a
+11	FC Ingolstadt 04	FC Ingolstadt 04	40	34	10	10	14	33	42	-9	a
+12	FC Augsburg	FC Augsburg	38	34	9	11	14	42	52	-10	a
+13	Werder Bremen	Werder Bremen	38	34	10	8	16	50	65	-15	a
+14	Darmstadt 98	Darmstadt 98	38	34	9	11	14	38	53	-15	a
+15	TSG Hoffenheim	TSG Hoffenheim	37	34	9	10	15	39	54	-15	a
+16	Eintracht Frankfurt	Eintracht Frankfurt	36	34	9	9	16	34	52	-18	a
+17	Stuttgart	Stuttgart	33	34	9	6	19	50	75	-25	a
+18	Hannover 96	Hannover 96	25	34	7	4	23	31	62	-31	a
+1	Bayern München	Bayern München	42	17	13	3	1	40	10	+30	a
+2	RB Leipzig	RB Leipzig	39	17	12	3	2	34	15	+19	a
+3	TSG Hoffenheim	TSG Hoffenheim	31	17	7	10	0	30	17	+13	a
+4	Borussia Dortmund	Borussia Dortmund	30	17	8	6	3	37	20	+17	a
+5	Hertha BSC	Hertha BSC	30	17	9	3	5	25	19	+6	a
+6	Eintracht Frankfurt	Eintracht Frankfurt	29	17	8	5	4	22	15	+7	a
+7	FC Köln	FC Köln	26	17	6	8	3	21	15	+6	a
+8	Bayer Leverkusen	Bayer Leverkusen	24	17	7	3	7	26	25	+1	a
+9	SC Freiburg	SC Freiburg	23	17	7	2	8	22	29	-7	a
+10	Schalke 04	Schalke 04	21	17	6	3	8	21	19	+2	a
+11	Mainz	Mainz	21	17	6	3	8	26	30	-4	a
+12	Wolfsburg	Wolfsburg	19	17	5	4	8	16	24	-8	a
+13	FC Augsburg	FC Augsburg	18	17	4	6	7	13	19	-6	a
+14	Borussia M´gladbach	Borussia M´gladbach	17	17	4	5	8	15	25	-10	a
+15	Werder Bremen	Werder Bremen	16	17	4	4	9	21	36	-15	a
+16	Hamburger SV	Hamburger SV	13	17	3	4	10	14	32	-18	a
+17	FC Ingolstadt 04	FC Ingolstadt 04	12	17	3	3	11	14	28	-14	a
+18	Darmstadt 98	Darmstadt 98	9	17	2	3	12	11	30	-19	a
+1	Bayern München	Bayern München	82	34	25	7	2	89	22	+67	a
+2	RB Leipzig	RB Leipzig	67	34	20	7	7	66	39	+27	a
+3	Borussia Dortmund	Borussia Dortmund	64	34	18	10	6	72	40	+32	a
+4	TSG Hoffenheim	TSG Hoffenheim	62	34	16	14	4	64	37	+27	a
+5	FC Köln	FC Köln	49	34	12	13	9	51	42	+9	a
+6	Hertha BSC	Hertha BSC	49	34	15	4	15	43	47	-4	a
+7	SC Freiburg	SC Freiburg	48	34	14	6	14	42	60	-18	a
+8	Werder Bremen	Werder Bremen	45	34	13	6	15	61	64	-3	a
+9	Borussia M´gladbach	Borussia M´gladbach	45	34	12	9	13	45	49	-4	a
+10	Schalke 04	Schalke 04	43	34	11	10	13	45	40	+5	a
+11	Eintracht Frankfurt	Eintracht Frankfurt	42	34	11	9	14	36	43	-7	a
+12	Bayer Leverkusen	Bayer Leverkusen	41	34	11	8	15	53	55	-2	a
+13	FC Augsburg	FC Augsburg	38	34	9	11	14	35	51	-16	a
+14	Hamburger SV	Hamburger SV	38	34	10	8	16	33	61	-28	a
+15	Mainz	Mainz	37	34	10	7	17	44	55	-11	a
+16	Wolfsburg	Wolfsburg	37	34	10	7	17	34	52	-18	a
+17	FC Ingolstadt 04	FC Ingolstadt 04	32	34	8	8	18	36	57	-21	a
+18	Darmstadt 98	Darmstadt 98	25	34	7	4	23	28	63	-35	a
