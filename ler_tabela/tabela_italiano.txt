@@ -1,0 +1,520 @@
+1	Juventus	Juventus	44	19	13	5	1	34	11	+23	a
+2	Milan	Milan	42	19	12	6	1	35	12	+23	a
+3	Udinese	Udinese	34	19	10	4	5	28	18	+10	a
+4	Internazionale	Internazionale	31	19	6	13	0	38	26	+12	a
+5	Palermo	Palermo	28	19	7	7	5	19	13	+6	a
+6	Sampdoria	Sampdoria	28	19	8	4	7	19	15	+4	a
+7	Roma	Roma	27	19	7	6	6	35	29	+6	a
+8	Cagliari	Cagliari	26	19	7	5	7	27	32	-5	a
+9	F.C. Messina Peloro	F.C. Messina Peloro	24	19	6	6	7	23	29	-6	a
+10	Reggina	Reggina	24	19	6	6	7	16	20	-4	a
+11	Lazio	Lazio	23	19	6	5	8	26	29	-3	a
+12	Fiorentina	Fiorentina	23	19	5	8	6	19	22	-3	a
+13	Livorno 1915	Livorno 1915	23	19	6	5	8	23	27	-4	a
+14	Lecce	Lecce	22	19	5	7	7	35	38	-3	a
+15	Bologna	Bologna	21	19	5	6	8	19	20	-1	a
+16	Chievo	Chievo	21	19	5	6	8	18	28	-10	a
+17	Brescia	Brescia	19	19	5	4	10	15	25	-10	a
+18	Parma	Parma	19	19	4	7	8	20	31	-11	a
+19	AC Siena	AC Siena	17	19	3	8	8	15	27	-12	a
+20	Atalanta	Atalanta	11	19	1	8	10	14	26	-12	a
+1	Juventus	Juventus	86	38	26	8	4	67	27	+40	a
+2	Milan	Milan	79	38	23	10	5	63	28	+35	a
+3	Internazionale	Internazionale	72	38	18	18	2	65	37	+28	a
+4	Udinese	Udinese	62	38	17	11	10	56	40	+16	a
+5	Sampdoria	Sampdoria	61	38	17	10	11	42	29	+13	a
+6	Palermo	Palermo	53	38	12	17	9	48	44	+4	a
+7	F.C. Messina Peloro	F.C. Messina Peloro	48	38	12	12	14	44	52	-8	a
+8	Roma	Roma	45	38	11	12	15	55	58	-3	a
+9	Livorno 1915	Livorno 1915	45	38	11	12	15	49	60	-11	a
+10	Lazio	Lazio	44	38	11	11	16	48	53	-5	a
+11	Lecce	Lecce	44	38	10	14	14	66	73	-7	a
+12	Cagliari	Cagliari	44	38	10	14	14	51	60	-9	a
+13	Reggina	Reggina	44	38	10	14	14	36	45	-9	a
+14	AC Siena	AC Siena	43	38	9	16	13	44	55	-11	a
+15	Chievo	Chievo	43	38	11	10	17	32	49	-17	a
+16	Fiorentina	Fiorentina	42	38	9	15	14	42	50	-8	a
+17	Bologna	Bologna	42	38	9	15	14	33	36	-3	a
+18	Parma	Parma	42	38	10	12	16	48	65	-17	a
+19	Brescia	Brescia	41	38	11	8	19	37	54	-17	a
+20	Atalanta	Atalanta	35	38	8	11	19	34	45	-11	a
+1	Juventus	Juventus	52	19	17	1	1	41	10	+31	a
+2	Internazionale	Internazionale	42	19	13	3	3	39	16	+23	a
+3	Fiorentina	Fiorentina	40	19	12	4	3	35	19	+16	a
+4	Milan	Milan	40	19	13	1	5	43	22	+21	a
+5	Livorno 1915	Livorno 1915	35	19	10	5	4	23	19	+4	a
+6	Roma	Roma	30	19	8	6	5	29	20	+9	a
+7	Chievo	Chievo	30	19	8	6	5	24	22	+2	a
+8	Sampdoria	Sampdoria	28	19	8	4	7	30	25	+5	a
+9	Lazio	Lazio	28	19	7	7	5	26	24	+2	a
+10	Udinese	Udinese	24	19	7	3	9	21	27	-6	a
+11	Palermo	Palermo	23	19	5	8	6	25	27	-2	a
+12	AC Siena	AC Siena	21	19	5	6	8	25	32	-7	a
+13	Ascoli	Ascoli	20	19	4	8	7	20	25	-5	a
+14	Reggina	Reggina	19	19	5	4	10	18	28	-10	a
+15	Empoli	Empoli	18	19	5	3	11	21	34	-13	a
+16	F.C. Messina Peloro	F.C. Messina Peloro	17	19	3	8	8	17	26	-9	a
+17	Parma	Parma	15	19	3	6	10	20	33	-13	a
+18	Cagliari	Cagliari	15	19	3	6	10	18	32	-14	a
+19	Treviso	Treviso	12	19	2	6	11	12	27	-15	a
+20	Lecce	Lecce	12	19	3	3	13	15	34	-19	a
+1	Internazionale	Internazionale	76	38	23	7	8	68	30	+38	a
+2	Roma	Roma	69	38	19	12	7	70	42	+28	a
+3	Milan	Milan	58	38	28	4	6	85	31	+54	a
+4	Chievo	Chievo	54	38	13	15	10	54	49	+5	a
+5	Palermo	Palermo	52	38	13	13	12	50	52	-2	a
+6	Livorno 1915	Livorno 1915	49	38	12	13	13	37	44	-7	a
+7	Parma	Parma	45	38	12	9	17	46	60	-14	a
+8	Empoli	Empoli	45	38	13	6	19	47	61	-14	a
+9	Fiorentina	Fiorentina	44	38	22	8	8	66	41	+25	a
+10	Ascoli	Ascoli	43	38	9	16	13	43	53	-10	a
+11	Udinese	Udinese	43	38	11	10	17	40	54	-14	a
+12	Reggina	Reggina	41	38	11	8	19	39	65	-26	a
+13	Sampdoria	Sampdoria	41	38	10	11	17	47	51	-4	a
+14	Cagliari	Cagliari	39	38	8	15	15	42	55	-13	a
+15	AC Siena	AC Siena	39	38	9	12	17	42	60	-18	a
+16	Lazio	Lazio	32	38	16	14	8	57	47	+10	a
+17	F.C. Messina Peloro	F.C. Messina Peloro	31	38	6	13	19	33	59	-26	a
+18	Lecce	Lecce	29	38	7	8	23	30	57	-27	a
+19	Treviso	Treviso	21	38	3	12	23	24	56	-32	a
+20	Juventus	Juventus	0	38	27	10	1	71	24	+47	a
+1	Internazionale	Internazionale	51	19	16	3	0	41	16	+25	a
+2	Roma	Roma	42	19	13	3	3	41	16	+25	a
+3	Palermo	Palermo	38	19	12	2	5	37	23	+14	a
+4	Catania	Catania	29	19	8	5	6	28	34	-6	a
+5	Lazio	Lazio	26	19	8	5	6	30	18	+12	a
+6	Empoli	Empoli	25	19	6	7	6	17	19	-2	a
+7	Atalanta	Atalanta	24	19	6	6	7	32	30	+2	a
+8	Sampdoria	Sampdoria	24	19	6	6	7	28	26	+2	a
+9	Milan	Milan	23	19	8	7	4	25	17	+8	a
+10	Udinese	Udinese	23	19	6	5	8	19	23	-4	a
+11	Torino	Torino	22	19	5	7	7	15	23	-8	a
+12	Livorno 1915	Livorno 1915	22	19	5	7	7	19	29	-10	a
+13	AC Siena	AC Siena	21	19	4	10	5	16	20	-4	a
+14	Fiorentina	Fiorentina	19	19	10	4	5	30	17	+13	a
+15	Cagliari	Cagliari	19	19	3	10	6	15	21	-6	a
+16	Chievo	Chievo	17	19	4	5	10	20	28	-8	a
+17	F.C. Messina Peloro	F.C. Messina Peloro	16	19	3	7	9	20	33	-13	a
+18	Reggina	Reggina	12	19	6	5	8	24	28	-4	a
+19	Parma	Parma	12	19	2	6	11	16	35	-19	a
+20	Ascoli	Ascoli	9	19	1	6	12	13	30	-17	a
+1	Internazionale	Internazionale	97	38	30	7	1	80	34	+46	a
+2	Roma	Roma	75	38	22	9	7	74	34	+40	a
+3	Lazio	Lazio	62	38	18	11	9	59	33	+26	a
+4	Milan	Milan	61	38	19	12	7	57	36	+21	a
+5	Palermo	Palermo	58	38	16	10	12	58	51	+7	a
+6	Fiorentina	Fiorentina	58	38	21	10	7	62	31	+31	a
+7	Empoli	Empoli	54	38	14	12	12	42	43	-1	a
+8	Atalanta	Atalanta	50	38	12	14	12	56	54	+2	a
+9	Sampdoria	Sampdoria	49	38	13	10	15	44	48	-4	a
+10	Udinese	Udinese	46	38	12	10	16	49	55	-6	a
+11	Livorno 1915	Livorno 1915	43	38	10	13	15	41	54	-13	a
+12	Parma	Parma	42	38	10	12	16	41	56	-15	a
+13	Catania	Catania	41	38	10	11	17	46	68	-22	a
+14	Reggina	Reggina	40	38	12	15	11	52	50	+2	a
+15	AC Siena	AC Siena	40	38	9	14	15	35	45	-10	a
+16	Torino	Torino	40	38	10	10	18	27	47	-20	a
+17	Cagliari	Cagliari	40	38	9	13	16	35	46	-11	a
+18	Chievo	Chievo	39	38	9	12	17	38	48	-10	a
+19	Ascoli	Ascoli	27	38	5	12	21	36	67	-31	a
+20	F.C. Messina Peloro	F.C. Messina Peloro	26	38	5	11	22	37	69	-32	a
+1	Internazionale	Internazionale	49	19	15	4	0	43	13	+30	a
+2	Roma	Roma	42	19	12	6	1	37	19	+18	a
+3	Juventus	Juventus	37	19	10	7	2	36	16	+20	a
+4	Fiorentina	Fiorentina	34	19	9	7	3	30	18	+12	a
+5	Udinese	Udinese	32	19	9	5	5	23	22	+1	a
+6	Milan	Milan	28	19	7	7	5	30	17	+13	a
+7	Sampdoria	Sampdoria	25	19	7	4	8	25	24	+1	a
+8	Genoa	Genoa	25	19	6	7	6	20	25	-5	a
+9	Palermo	Palermo	25	19	6	7	6	27	33	-6	a
+10	Atalanta	Atalanta	25	19	6	7	6	27	26	+1	a
+11	Napoli	Napoli	24	19	6	6	7	29	29	0	a
+12	Catania	Catania	22	19	5	7	7	18	22	-4	a
+13	Livorno 1915	Livorno 1915	22	19	5	7	7	23	29	-6	a
+14	Lazio	Lazio	19	19	4	7	8	22	29	-7	a
+15	Parma	Parma	18	19	4	6	9	22	29	-7	a
+16	Torino	Torino	17	19	2	11	6	17	24	-7	a
+17	Reggina	Reggina	17	19	3	8	8	15	27	-12	a
+18	AC Siena	AC Siena	17	19	3	8	8	22	30	-8	a
+19	Empoli	Empoli	16	19	3	7	9	15	26	-11	a
+20	Cagliari	Cagliari	10	19	2	4	13	13	36	-23	a
+1	Internazionale	Internazionale	85	38	25	10	3	69	26	+43	a
+2	Roma	Roma	82	38	24	10	4	72	37	+35	a
+3	Juventus	Juventus	72	38	20	12	6	72	37	+35	a
+4	Fiorentina	Fiorentina	66	38	19	9	10	55	39	+16	a
+5	Milan	Milan	64	38	18	10	10	66	38	+28	a
+6	Sampdoria	Sampdoria	60	38	17	9	12	56	46	+10	a
+7	Udinese	Udinese	57	38	16	9	13	48	53	-5	a
+8	Napoli	Napoli	50	38	14	8	16	50	53	-3	a
+9	Atalanta	Atalanta	48	38	12	12	14	52	56	-4	a
+10	Genoa	Genoa	48	38	13	9	16	44	52	-8	a
+11	Palermo	Palermo	47	38	12	11	15	47	57	-10	a
+12	Lazio	Lazio	46	38	11	13	14	47	51	-4	a
+13	AC Siena	AC Siena	44	38	9	17	12	40	45	-5	a
+14	Cagliari	Cagliari	42	38	11	9	18	40	56	-16	a
+15	Torino	Torino	40	38	8	16	14	36	49	-13	a
+16	Reggina	Reggina	40	38	9	13	16	37	56	-19	a
+17	Catania	Catania	37	38	8	13	17	33	45	-12	a
+18	Empoli	Empoli	36	38	9	9	20	29	52	-23	a
+19	Parma	Parma	34	38	7	13	18	42	62	-20	a
+20	Livorno 1915	Livorno 1915	30	38	6	12	20	35	60	-25	a
+1	Internazionale	Internazionale	43	19	13	4	2	33	15	+18	a
+2	Juventus	Juventus	40	19	12	4	3	32	14	+18	a
+3	Milan	Milan	37	19	11	4	4	31	20	+11	a
+4	Genoa	Genoa	35	19	10	5	4	29	17	+12	a
+5	Napoli	Napoli	33	19	10	3	6	27	18	+9	a
+6	Fiorentina	Fiorentina	32	19	10	2	7	26	17	+9	a
+7	Lazio	Lazio	31	19	9	4	6	30	25	+5	a
+8	Roma	Roma	30	19	9	3	7	26	25	+1	a
+9	Palermo	Palermo	29	19	9	2	8	26	23	+3	a
+10	Atalanta	Atalanta	27	19	8	3	8	26	23	+3	a
+11	Catania	Catania	25	19	7	4	8	19	23	-4	a
+12	Cagliari	Cagliari	25	19	7	4	8	22	22	0	a
+13	Udinese	Udinese	23	19	6	5	8	26	29	-3	a
+14	AC Siena	AC Siena	22	19	6	4	9	14	19	-5	a
+15	Sampdoria	Sampdoria	20	19	5	5	9	16	23	-7	a
+16	Bologna	Bologna	19	19	4	7	8	22	29	-7	a
+17	Lecce	Lecce	17	19	3	8	8	16	27	-11	a
+18	Torino	Torino	15	19	4	3	12	18	33	-15	a
+19	Chievo	Chievo	13	19	3	4	12	12	29	-17	a
+20	Reggina	Reggina	13	19	3	4	12	17	37	-20	a
+1	Internazionale	Internazionale	84	38	25	9	4	70	32	+38	a
+2	Juventus	Juventus	74	38	21	11	6	69	37	+32	a
+3	Milan	Milan	74	38	22	8	8	70	35	+35	a
+4	Fiorentina	Fiorentina	68	38	21	5	12	53	38	+15	a
+5	Genoa	Genoa	68	38	19	11	8	56	39	+17	a
+6	Roma	Roma	63	38	18	9	11	64	61	+3	a
+7	Udinese	Udinese	58	38	16	10	12	61	50	+11	a
+8	Palermo	Palermo	57	38	17	6	15	57	50	+7	a
+9	Cagliari	Cagliari	53	38	15	8	15	49	50	-1	a
+10	Lazio	Lazio	50	38	15	5	18	46	55	-9	a
+11	Atalanta	Atalanta	47	38	13	8	17	45	48	-3	a
+12	Napoli	Napoli	46	38	12	10	16	43	45	-2	a
+13	Sampdoria	Sampdoria	46	38	11	13	14	49	52	-3	a
+14	AC Siena	AC Siena	44	38	12	8	18	33	44	-11	a
+15	Catania	Catania	43	38	12	7	19	41	51	-10	a
+16	Chievo	Chievo	38	38	8	14	16	35	49	-14	a
+17	Bologna	Bologna	37	38	9	10	19	43	62	-19	a
+18	Torino	Torino	34	38	8	10	20	37	61	-24	a
+19	Reggina	Reggina	31	38	6	13	19	30	62	-32	a
+20	Lecce	Lecce	30	38	5	15	18	37	67	-30	a
+1	Internazionale	Internazionale	45	19	14	3	2	41	17	+24	a
+2	Milan	Milan	40	19	12	4	3	33	20	+13	a
+3	Napoli	Napoli	33	19	9	6	4	29	24	+5	a
+4	Juventus	Juventus	33	19	10	3	6	32	25	+7	a
+5	Roma	Roma	32	19	9	5	5	30	24	+6	a
+6	Fiorentina	Fiorentina	30	19	9	3	7	26	19	+7	a
+7	Palermo	Palermo	30	19	8	6	5	24	21	+3	a
+8	Parma	Parma	28	19	8	4	7	24	26	-2	a
+9	Genoa	Genoa	28	19	8	4	7	33	33	0	a
+10	AS Bari	AS Bari	28	19	7	7	5	23	18	+5	a
+11	Cagliari	Cagliari	27	19	8	3	8	29	25	+4	a
+12	Sampdoria	Sampdoria	26	19	7	5	7	22	27	-5	a
+13	Chievo	Chievo	24	19	7	3	9	20	21	-1	a
+14	Udinese	Udinese	22	19	6	4	9	22	25	-3	a
+15	Livorno 1915	Livorno 1915	21	19	6	3	10	13	24	-11	a
+16	Lazio	Lazio	20	19	4	8	7	15	18	-3	a
+17	Bologna	Bologna	17	19	4	5	10	19	28	-9	a
+18	Catania	Catania	15	19	3	6	10	17	28	-11	a
+19	Atalanta	Atalanta	14	19	3	5	11	17	30	-13	a
+20	AC Siena	AC Siena	12	19	3	3	13	21	37	-16	a
+1	Internazionale	Internazionale	82	38	24	10	4	75	34	+41	a
+2	Roma	Roma	80	38	24	8	6	68	41	+27	a
+3	Milan	Milan	70	38	20	10	8	60	39	+21	a
+4	Sampdoria	Sampdoria	67	38	19	10	9	49	41	+8	a
+5	Palermo	Palermo	65	38	18	11	9	59	47	+12	a
+6	Napoli	Napoli	59	38	15	14	9	50	43	+7	a
+7	Juventus	Juventus	55	38	16	7	15	55	56	-1	a
+8	Parma	Parma	52	38	14	10	14	46	51	-5	a
+9	Genoa	Genoa	51	38	14	9	15	57	61	-4	a
+10	AS Bari	AS Bari	50	38	13	11	14	49	49	0	a
+11	Fiorentina	Fiorentina	47	38	13	8	17	48	47	+1	a
+12	Lazio	Lazio	46	38	11	13	14	39	43	-4	a
+13	Catania	Catania	45	38	10	15	13	44	45	-1	a
+14	Chievo	Chievo	44	38	12	8	18	37	42	-5	a
+15	Udinese	Udinese	44	38	11	11	16	54	59	-5	a
+16	Cagliari	Cagliari	44	38	11	11	16	56	58	-2	a
+17	Bologna	Bologna	42	38	10	12	16	42	55	-13	a
+18	Atalanta	Atalanta	35	38	9	8	21	37	53	-16	a
+19	AC Siena	AC Siena	31	38	7	10	21	40	67	-27	a
+20	Livorno 1915	Livorno 1915	29	38	7	8	23	27	61	-34	a
+1	Milan	Milan	40	19	12	4	3	34	17	+17	a
+2	Napoli	Napoli	36	19	11	3	5	30	20	+10	a
+3	Internazionale	Internazionale	35	19	10	5	4	30	19	+11	a
+4	Lazio	Lazio	34	19	10	4	5	25	18	+7	a
+5	Roma	Roma	32	19	9	5	5	27	24	+3	a
+6	Palermo	Palermo	31	19	9	4	6	32	22	+10	a
+7	Juventus	Juventus	31	19	8	7	4	33	24	+9	a
+8	Udinese	Udinese	27	19	8	3	8	27	25	+2	a
+9	Genoa	Genoa	26	19	7	5	7	14	15	-1	a
+10	Sampdoria	Sampdoria	26	19	6	8	5	20	18	+2	a
+11	Fiorentina	Fiorentina	23	19	6	5	8	21	22	-1	a
+12	Cagliari	Cagliari	23	19	6	5	8	21	18	+3	a
+13	Bologna	Bologna	22	19	6	7	6	19	24	-5	a
+14	Parma	Parma	22	19	5	7	7	19	23	-4	a
+15	Chievo	Chievo	22	19	5	7	7	19	21	-2	a
+16	Catania	Catania	21	19	5	6	8	17	24	-7	a
+17	AC Cesena	AC Cesena	19	19	5	4	10	15	24	-9	a
+18	Lecce	Lecce	18	19	5	3	11	18	36	-18	a
+19	Brescia	Brescia	15	19	4	3	12	15	26	-11	a
+20	AS Bari	AS Bari	14	19	3	5	11	12	28	-16	a
+1	Milan	Milan	82	38	24	10	4	65	24	+41	a
+2	Internazionale	Internazionale	76	38	23	7	8	69	42	+27	a
+3	Napoli	Napoli	70	38	21	7	10	59	39	+20	a
+4	Udinese	Udinese	66	38	20	6	12	65	43	+22	a
+5	Lazio	Lazio	66	38	20	6	12	55	39	+16	a
+6	Roma	Roma	63	38	18	9	11	59	52	+7	a
+7	Juventus	Juventus	58	38	15	13	10	57	47	+10	a
+8	Palermo	Palermo	56	38	17	5	16	58	63	-5	a
+9	Fiorentina	Fiorentina	51	38	12	15	11	49	44	+5	a
+10	Genoa	Genoa	51	38	14	9	15	45	47	-2	a
+11	Chievo	Chievo	46	38	11	13	14	38	40	-2	a
+12	Parma	Parma	46	38	11	13	14	39	47	-8	a
+13	Catania	Catania	46	38	12	10	16	40	52	-12	a
+14	Cagliari	Cagliari	45	38	12	9	17	44	51	-7	a
+15	AC Cesena	AC Cesena	43	38	11	10	17	38	50	-12	a
+16	Bologna	Bologna	42	38	11	12	15	35	52	-17	a
+17	Lecce	Lecce	41	38	11	8	19	46	66	-20	a
+18	Sampdoria	Sampdoria	36	38	8	12	18	33	49	-16	a
+19	Brescia	Brescia	32	38	7	11	20	34	52	-18	a
+20	AS Bari	AS Bari	24	38	5	9	24	27	56	-29	a
+1	Juventus	Juventus	41	19	11	8	0	31	12	+19	a
+2	Milan	Milan	40	19	12	4	3	40	17	+23	a
+3	Udinese	Udinese	38	19	11	5	3	28	14	+14	a
+4	Internazionale	Internazionale	35	19	11	2	6	30	20	+10	a
+5	Lazio	Lazio	33	19	9	6	4	27	19	+8	a
+6	Roma	Roma	31	19	9	4	6	29	21	+8	a
+7	Napoli	Napoli	29	19	7	8	4	34	21	+13	a
+8	Chievo	Chievo	24	19	6	6	7	16	22	-6	a
+9	Palermo	Palermo	24	19	7	3	9	24	27	-3	a
+10	Genoa	Genoa	24	19	7	3	9	25	34	-9	a
+11	Cagliari	Cagliari	23	19	5	8	6	16	18	-2	a
+12	Parma	Parma	23	19	6	5	8	24	32	-8	a
+13	Catania	Catania	23	19	5	8	6	22	28	-6	a
+14	Fiorentina	Fiorentina	22	19	5	7	7	18	16	+2	a
+15	Bologna	Bologna	20	19	5	5	9	17	25	-8	a
+16	Atalanta	Atalanta	20	19	6	8	5	23	25	-2	a
+17	AC Siena	AC Siena	19	19	4	7	8	20	20	0	a
+18	AC Cesena	AC Cesena	15	19	4	3	12	13	30	-17	a
+19	Lecce	Lecce	13	19	3	4	12	20	36	-16	a
+20	Novara	Novara	12	19	2	6	11	18	38	-20	a
+1	Juventus	Juventus	84	38	23	15	0	68	20	+48	a
+2	Milan	Milan	80	38	24	8	6	74	33	+41	a
+3	Udinese	Udinese	64	38	18	10	10	52	35	+17	a
+4	Lazio	Lazio	62	38	18	8	12	56	47	+9	a
+5	Napoli	Napoli	61	38	16	13	9	66	46	+20	a
+6	Internazionale	Internazionale	58	38	17	7	14	58	55	+3	a
+7	Roma	Roma	56	38	16	8	14	60	54	+6	a
+8	Parma	Parma	56	38	15	11	12	54	53	+1	a
+9	Bologna	Bologna	51	38	13	12	13	41	43	-2	a
+10	Chievo	Chievo	49	38	12	13	13	35	45	-10	a
+11	Catania	Catania	48	38	11	15	12	47	52	-5	a
+12	Atalanta	Atalanta	46	38	13	13	12	41	43	-2	a
+13	Fiorentina	Fiorentina	46	38	11	13	14	37	43	-6	a
+14	AC Siena	AC Siena	44	38	11	11	16	45	45	0	a
+15	Cagliari	Cagliari	43	38	10	13	15	37	46	-9	a
+16	Palermo	Palermo	43	38	11	10	17	52	62	-10	a
+17	Genoa	Genoa	42	38	11	9	18	50	69	-19	a
+18	Lecce	Lecce	36	38	8	12	18	40	56	-16	a
+19	Novara	Novara	32	38	7	11	20	35	65	-30	a
+20	AC Cesena	AC Cesena	22	38	4	10	24	24	60	-36	a
+1	Juventus	Juventus	44	19	14	2	3	40	13	+27	a
+2	Napoli	Napoli	39	19	12	3	4	37	18	+19	a
+3	Lazio	Lazio	39	19	12	3	4	28	19	+9	a
+4	Internazionale	Internazionale	35	19	11	2	6	30	22	+8	a
+5	Fiorentina	Fiorentina	35	19	10	5	4	36	21	+15	a
+6	Roma	Roma	32	19	10	2	7	43	33	+10	a
+7	Milan	Milan	30	19	9	3	7	36	27	+9	a
+8	Parma	Parma	29	19	8	5	6	27	25	+2	a
+9	Udinese	Udinese	27	19	6	9	4	29	26	+3	a
+10	Catania	Catania	26	19	7	5	7	26	27	-1	a
+11	Chievo	Chievo	24	19	7	3	9	21	29	-8	a
+12	Atalanta	Atalanta	22	19	7	3	9	18	28	-10	a
+13	Torino	Torino	20	19	4	9	6	20	22	-2	a
+14	Sampdoria	Sampdoria	20	19	6	3	10	22	28	-6	a
+15	Pescara	Pescara	20	19	6	2	11	17	35	-18	a
+16	Bologna	Bologna	18	19	5	3	11	21	26	-5	a
+17	Genoa	Genoa	17	19	4	5	10	20	30	-10	a
+18	Cagliari	Cagliari	16	19	4	4	11	17	35	-18	a
+19	Palermo	Palermo	15	19	3	6	10	16	29	-13	a
+20	AC Siena	AC Siena	11	19	4	5	10	17	28	-11	a
+1	Juventus	Juventus	87	38	27	6	5	71	24	+47	a
+2	Napoli	Napoli	78	38	23	9	6	73	36	+37	a
+3	Milan	Milan	72	38	21	9	8	67	39	+28	a
+4	Fiorentina	Fiorentina	70	38	21	7	10	72	44	+28	a
+5	Udinese	Udinese	66	38	18	12	8	59	45	+14	a
+6	Roma	Roma	62	38	18	8	12	71	56	+15	a
+7	Lazio	Lazio	61	38	18	7	13	51	42	+9	a
+8	Catania	Catania	56	38	15	11	12	50	46	+4	a
+9	Internazionale	Internazionale	54	38	16	6	16	55	57	-2	a
+10	Parma	Parma	49	38	13	10	15	45	46	-1	a
+11	Cagliari	Cagliari	47	38	12	11	15	43	55	-12	a
+12	Chievo	Chievo	45	38	12	9	17	37	52	-15	a
+13	Bologna	Bologna	44	38	11	11	16	46	52	-6	a
+14	Sampdoria	Sampdoria	42	38	11	10	17	43	51	-8	a
+15	Atalanta	Atalanta	40	38	11	9	18	39	56	-17	a
+16	Torino	Torino	39	38	8	16	14	46	55	-9	a
+17	Genoa	Genoa	38	38	8	14	16	38	52	-14	a
+18	Palermo	Palermo	32	38	6	14	18	34	54	-20	a
+19	AC Siena	AC Siena	30	38	9	9	20	36	57	-21	a
+20	Pescara	Pescara	22	38	6	4	28	27	84	-57	a
+1	Juventus	Juventus	52	19	17	1	1	46	12	+34	a
+2	Roma	Roma	44	19	13	5	1	39	10	+29	a
+3	Napoli	Napoli	42	19	13	3	3	41	20	+21	a
+4	Fiorentina	Fiorentina	37	19	11	4	4	34	20	+14	a
+5	Internazionale	Internazionale	32	19	8	8	3	38	23	+15	a
+6	Hellas Verona	Hellas Verona	32	19	10	2	7	34	30	+4	a
+7	Parma	Parma	26	19	6	8	5	29	26	+3	a
+8	Torino	Torino	26	19	6	8	5	31	27	+4	a
+9	Lazio	Lazio	24	19	6	6	7	23	26	-3	a
+10	Genoa	Genoa	23	19	6	5	8	19	24	-5	a
+11	Milan	Milan	22	19	5	7	7	31	30	+1	a
+12	Cagliari	Cagliari	21	19	4	9	6	19	28	-9	a
+13	Sampdoria	Sampdoria	21	19	5	6	8	22	27	-5	a
+14	Atalanta	Atalanta	21	19	6	3	10	20	29	-9	a
+15	Udinese	Udinese	20	19	6	2	11	18	28	-10	a
+16	Chievo	Chievo	17	19	4	5	10	14	24	-10	a
+17	Sassuolo	Sassuolo	17	19	4	5	10	21	41	-20	a
+18	Bologna	Bologna	16	19	3	7	9	17	33	-16	a
+19	Livorno 1915	Livorno 1915	13	19	3	4	12	16	33	-17	a
+20	Catania	Catania	13	19	3	4	12	13	34	-21	a
+1	Juventus	Juventus	102	38	33	3	2	80	23	+57	a
+2	Roma	Roma	85	38	26	7	5	72	25	+47	a
+3	Napoli	Napoli	78	38	23	9	6	77	39	+38	a
+4	Fiorentina	Fiorentina	65	38	19	8	11	65	44	+21	a
+5	Internazionale	Internazionale	60	38	15	15	8	62	39	+23	a
+6	Parma	Parma	58	38	15	13	10	58	46	+12	a
+7	Torino	Torino	57	38	15	12	11	58	48	+10	a
+8	Milan	Milan	57	38	16	9	13	57	49	+8	a
+9	Lazio	Lazio	56	38	15	11	12	54	54	0	a
+10	Hellas Verona	Hellas Verona	54	38	16	6	16	62	68	-6	a
+11	Atalanta	Atalanta	50	38	15	5	18	43	51	-8	a
+12	Sampdoria	Sampdoria	45	38	12	9	17	48	62	-14	a
+13	Udinese	Udinese	44	38	12	8	18	46	57	-11	a
+14	Genoa	Genoa	44	38	11	11	16	41	50	-9	a
+15	Cagliari	Cagliari	39	38	9	12	17	34	53	-19	a
+16	Chievo	Chievo	36	38	10	6	22	34	54	-20	a
+17	Sassuolo	Sassuolo	34	38	9	7	22	43	72	-29	a
+18	Catania	Catania	32	38	8	8	22	34	66	-32	a
+19	Bologna	Bologna	29	38	5	14	19	28	58	-30	a
+20	Livorno 1915	Livorno 1915	25	38	6	7	25	39	77	-38	a
+1	Juventus	Juventus	46	19	14	4	1	42	9	+33	a
+2	Roma	Roma	41	19	12	5	2	32	14	+18	a
+3	Napoli	Napoli	33	19	9	6	4	34	24	+10	a
+4	Sampdoria	Sampdoria	33	19	8	9	2	25	17	+8	a
+5	Lazio	Lazio	31	19	9	4	6	33	22	+11	a
+6	Fiorentina	Fiorentina	30	19	8	6	5	27	18	+9	a
+7	Genoa	Genoa	28	19	7	7	5	27	23	+4	a
+8	Palermo	Palermo	26	19	6	8	5	31	31	0	a
+9	Internazionale	Internazionale	26	19	6	8	5	29	25	+4	a
+10	Milan	Milan	26	19	6	8	5	27	22	+5	a
+11	Sassuolo	Sassuolo	25	19	5	10	4	23	26	-3	a
+12	Udinese	Udinese	24	19	6	6	7	23	26	-3	a
+13	Torino	Torino	22	19	5	7	7	16	21	-5	a
+14	Hellas Verona	Hellas Verona	21	19	5	6	8	21	32	-11	a
+15	Atalanta	Atalanta	20	19	4	8	7	15	24	-9	a
+16	Empoli	Empoli	19	19	3	10	6	17	23	-6	a
+17	Chievo	Chievo	18	19	4	6	9	14	22	-8	a
+18	Cagliari	Cagliari	16	19	3	7	9	25	37	-12	a
+19	AC Cesena	AC Cesena	9	19	1	6	12	17	39	-22	a
+20	Parma	Parma	9	19	3	1	15	18	41	-23	a
+1	Juventus	Juventus	87	38	26	9	3	72	24	+48	a
+2	Roma	Roma	70	38	19	13	6	54	31	+23	a
+3	Lazio	Lazio	69	38	21	6	11	71	38	+33	a
+4	Fiorentina	Fiorentina	64	38	18	10	10	61	46	+15	a
+5	Napoli	Napoli	63	38	18	9	11	70	54	+16	a
+6	Genoa	Genoa	59	38	16	11	11	62	47	+15	a
+7	Sampdoria	Sampdoria	56	38	13	17	8	48	42	+6	a
+8	Internazionale	Internazionale	55	38	14	13	11	59	48	+11	a
+9	Torino	Torino	54	38	14	12	12	48	45	+3	a
+10	Milan	Milan	52	38	13	13	12	56	50	+6	a
+11	Palermo	Palermo	49	38	12	13	13	53	55	-2	a
+12	Sassuolo	Sassuolo	49	38	12	13	13	49	57	-8	a
+13	Hellas Verona	Hellas Verona	46	38	11	13	14	49	65	-16	a
+14	Chievo	Chievo	43	38	10	13	15	28	41	-13	a
+15	Empoli	Empoli	42	38	8	18	12	46	52	-6	a
+16	Udinese	Udinese	41	38	10	11	17	43	56	-13	a
+17	Atalanta	Atalanta	37	38	7	16	15	38	57	-19	a
+18	Cagliari	Cagliari	34	38	8	10	20	48	68	-20	a
+19	AC Cesena	AC Cesena	24	38	4	12	22	36	73	-37	a
+20	Parma	Parma	19	38	6	8	24	33	75	-42	a
+1	Napoli	Napoli	41	19	12	5	2	38	15	+23	a
+2	Juventus	Juventus	39	19	12	3	4	33	15	+18	a
+3	Internazionale	Internazionale	39	19	12	3	4	24	12	+12	a
+4	Fiorentina	Fiorentina	38	19	12	2	5	37	19	+18	a
+5	Roma	Roma	34	19	9	7	3	36	22	+14	a
+6	Sassuolo	Sassuolo	32	19	8	8	3	24	18	+6	a
+7	Empoli	Empoli	30	19	9	3	7	24	23	+1	a
+8	Milan	Milan	29	19	8	5	6	25	23	+2	a
+9	Lazio	Lazio	27	19	8	3	8	23	27	-4	a
+10	Chievo	Chievo	26	19	7	5	7	25	21	+4	a
+11	Udinese	Udinese	24	19	7	3	9	18	27	-9	a
+12	Atalanta	Atalanta	24	19	7	3	9	20	23	-3	a
+13	Torino	Torino	23	19	6	5	8	23	24	-1	a
+14	Sampdoria	Sampdoria	23	19	6	5	8	28	30	-2	a
+15	Bologna	Bologna	22	19	7	1	11	20	25	-5	a
+16	Palermo	Palermo	21	19	6	3	10	19	29	-10	a
+17	Genoa	Genoa	19	19	5	4	10	19	26	-7	a
+18	Frosinone	Frosinone	15	19	4	3	12	20	41	-21	a
+19	Carpi 1909	Carpi 1909	14	19	3	5	11	17	34	-17	a
+20	Hellas Verona	Hellas Verona	8	19	0	8	11	12	31	-19	a
+1	Juventus	Juventus	91	38	29	4	5	75	20	+55	a
+2	Napoli	Napoli	82	38	25	7	6	80	32	+48	a
+3	Roma	Roma	80	38	23	11	4	83	41	+42	a
+4	Internazionale	Internazionale	67	38	20	7	11	50	38	+12	a
+5	Fiorentina	Fiorentina	64	38	18	10	10	60	42	+18	a
+6	Sassuolo	Sassuolo	61	38	16	13	9	49	40	+9	a
+7	Milan	Milan	57	38	15	12	11	49	43	+6	a
+8	Lazio	Lazio	54	38	15	9	14	52	52	0	a
+9	Chievo	Chievo	50	38	13	11	14	43	45	-2	a
+10	Empoli	Empoli	46	38	12	10	16	40	49	-9	a
+11	Genoa	Genoa	46	38	13	7	18	45	48	-3	a
+12	Torino	Torino	45	38	12	9	17	52	55	-3	a
+13	Atalanta	Atalanta	45	38	11	12	15	41	47	-6	a
+14	Bologna	Bologna	42	38	11	9	18	33	45	-12	a
+15	Sampdoria	Sampdoria	40	38	10	10	18	48	61	-13	a
+16	Palermo	Palermo	39	38	10	9	19	38	65	-27	a
+17	Udinese	Udinese	39	38	10	9	19	35	60	-25	a
+18	Carpi 1909	Carpi 1909	38	38	9	11	18	37	57	-20	a
+19	Frosinone	Frosinone	31	38	8	7	23	35	76	-41	a
+20	Hellas Verona	Hellas Verona	28	38	5	13	20	34	63	-29	a
+1	Juventus	Juventus	48	19	16	0	3	41	14	+27	a
+2	Roma	Roma	41	19	13	2	4	40	18	+22	a
+3	Milan	Milan	39	19	12	3	4	29	20	+9	a
+4	Napoli	Napoli	38	19	11	5	3	42	22	+20	a
+5	Lazio	Lazio	37	19	11	4	4	33	21	+12	a
+6	Atalanta	Atalanta	35	19	11	2	6	31	22	+9	a
+7	Internazionale	Internazionale	33	19	10	3	6	30	22	+8	a
+8	Fiorentina	Fiorentina	30	19	8	6	5	30	25	+5	a
+9	Torino	Torino	29	19	8	5	6	36	27	+9	a
+10	Chievo	Chievo	25	19	7	4	8	20	24	-4	a
+11	Udinese	Udinese	25	19	7	4	8	25	26	-1	a
+12	Genoa	Genoa	23	19	6	5	8	21	23	-2	a
+13	Sampdoria	Sampdoria	23	19	6	5	8	22	26	-4	a
+14	Cagliari	Cagliari	23	19	7	2	10	27	43	-16	a
+15	Bologna	Bologna	20	19	5	5	9	17	26	-9	a
+16	Sassuolo	Sassuolo	18	19	5	3	11	24	33	-9	a
+17	Empoli	Empoli	17	19	4	5	10	11	26	-15	a
+18	Palermo	Palermo	10	19	2	4	13	16	36	-20	a
+19	Crotone	Crotone	9	19	2	3	14	14	35	-21	a
+20	Pescara	Pescara	9	19	1	6	12	15	35	-20	a
+1	Juventus	Juventus	91	38	29	4	5	77	27	+50	a
+2	Roma	Roma	87	38	28	3	7	90	38	+52	a
+3	Napoli	Napoli	86	38	26	8	4	94	39	+55	a
+4	Atalanta	Atalanta	72	38	21	9	8	62	41	+21	a
+5	Lazio	Lazio	70	38	21	7	10	74	51	+23	a
+6	Milan	Milan	63	38	18	9	11	57	45	+12	a
+7	Internazionale	Internazionale	62	38	19	5	14	72	49	+23	a
+8	Fiorentina	Fiorentina	60	38	16	12	10	63	57	+6	a
+9	Torino	Torino	53	38	13	14	11	71	66	+5	a
+10	Sampdoria	Sampdoria	48	38	12	12	14	49	55	-6	a
+11	Cagliari	Cagliari	47	38	14	5	19	55	76	-21	a
+12	Sassuolo	Sassuolo	46	38	13	7	18	58	63	-5	a
+13	Udinese	Udinese	45	38	12	9	17	47	56	-9	a
+14	Chievo	Chievo	43	38	12	7	19	43	61	-18	a
+15	Bologna	Bologna	41	38	11	8	19	40	58	-18	a
+16	Genoa	Genoa	36	38	9	9	20	38	64	-26	a
+17	Crotone	Crotone	34	38	9	7	22	34	58	-24	a
+18	Empoli	Empoli	32	38	8	8	22	29	61	-32	a
+19	Palermo	Palermo	26	38	6	8	24	33	77	-44	a
+20	Pescara	Pescara	18	38	3	9	26	37	81	-44	a
