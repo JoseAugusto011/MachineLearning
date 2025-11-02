@@ -1,8 +1,10 @@
 // src/PocketPLA.cpp
 #include "../include/PocketPLA.h"
+#include "../include/Metrics.h"
 #include <fstream>
 #include <iostream>
 #include <random>
+#include <stdexcept>
 
 template<typename T>
 PocketPLA<T>::PocketPLA() {
@@ -53,7 +55,7 @@ void PocketPLA<T>::executeTraining(const Eigen::MatrixX<T>& X, const Eigen::Vect
             break;
         }
         
-        // Encontra primeiro ponto mal classificado (aproximação do original)
+        // Encontra primeiro ponto mal classificado
         int misclassified_index = -1;
         for (int i = 0; i < misclassified.size(); ++i) {
             if (misclassified[i]) {
@@ -130,7 +132,8 @@ void PocketPLA<T>::loadWeights(const std::string& filename) {
 template<typename T>
 T PocketPLA<T>::calculateError(const Eigen::MatrixX<T>& X, const Eigen::VectorX<T>& y) const {
     Eigen::VectorX<T> predictions = predict(X);
-    return (predictions.array() != y.array()).cast<T>().sum() / static_cast<T>(y.size());
+    // CORREÇÃO: usar template keyword para dependent names
+    return (predictions.array() != y.array()).template cast<T>().sum() / static_cast<T>(y.size());
 }
 
 template<typename T>
@@ -138,6 +141,6 @@ void PocketPLA<T>::initializeWeights(int num_features) {
     weights = Eigen::VectorX<T>::Zero(num_features);
 }
 
-// Instanciações explícitas para tipos comuns
+// Instanciações explícitas
 template class PocketPLA<float>;
 template class PocketPLA<double>;

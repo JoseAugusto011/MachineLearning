@@ -7,7 +7,6 @@
 #include "Metrics.h"
 #include <Eigen/Dense>
 #include <vector>
-  
 
 template<typename T>
 class PocketPLA : public Model<T> {
@@ -34,6 +33,9 @@ private:
     ClassificationMetrics<T> training_metrics;
     int iterations = 0;
     T final_error = 0;
+    
+    // ADICIONAR ESTA DECLARAÇÃO
+    void executeTraining(const Eigen::MatrixX<T>& X, const Eigen::VectorX<T>& y);
     
     T calculateError(const Eigen::MatrixX<T>& X, const Eigen::VectorX<T>& y) const;
     void initializeWeights(int num_features);

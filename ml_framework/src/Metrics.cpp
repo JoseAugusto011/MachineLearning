@@ -37,7 +37,14 @@ ClassificationMetrics<T> Metrics<T>::calculateClassificationMetrics(
 
 template<typename T>
 T Metrics<T>::calculateAccuracy(const Eigen::VectorX<T>& y_true, const Eigen::VectorX<T>& y_pred) {
-    return (y_true.array() == y_pred.array()).cast<T>().mean();
+    // CORREÇÃO: usar abordagem sem template cast
+    int correct = 0;
+    for (int i = 0; i < y_true.size(); ++i) {
+        if (y_true(i) == y_pred(i)) {
+            correct++;
+        }
+    }
+    return static_cast<T>(correct) / static_cast<T>(y_true.size());
 }
 
 // Instanciações explícitas

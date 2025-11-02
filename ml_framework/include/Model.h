@@ -24,7 +24,9 @@ public:
 protected:
     bool preprocessing_enabled = false;
     virtual void preprocessData(Eigen::MatrixX<T>& X, Eigen::VectorX<T>& y) {
-        // Default: nenhum pré-processamento
+        // Default: nenhum pré-processamento - remover parâmetros não usados
+        (void)X; // Suprime warning
+        (void)y; // Suprime warning
     }
 };
 

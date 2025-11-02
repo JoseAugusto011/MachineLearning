@@ -3,12 +3,17 @@
 #include <Eigen/Dense>
 #include "include/PocketPLA.h"
 #include "include/Metrics.h"
+#include "include/LinearRegression.h"
+#include "include/LRClassifier.h"
 
 using namespace std;
 
+
+
+
 // Função para gerar dados de exemplo linearmente separáveis
-void generateLinearData(Eigen::MatrixXd& X, Eigen::VectorXd& y, int samples = 100) {
-    X = Eigen::MatrixXd::Random(samples, 2);
+Eigen::MatrixXd generateLinearData(Eigen::VectorXd& y, int samples = 100) {
+    Eigen::MatrixXd X = Eigen::MatrixXd::Random(samples, 2);
     y = Eigen::VectorXd(samples);
     
     // Linha de separação: 2*x1 + x2 - 1 = 0
@@ -23,12 +28,12 @@ void generateLinearData(Eigen::MatrixXd& X, Eigen::VectorXd& y, int samples = 10
     // Adiciona bias column
     Eigen::MatrixXd X_with_bias = Eigen::MatrixXd::Ones(samples, 3);
     X_with_bias.block(0, 1, samples, 2) = X;
-    X = X_with_bias;
+    return X_with_bias;
 }
 
 // Função para gerar dados XOR (não linearmente separáveis)
-void generateXORData(Eigen::MatrixXd& X, Eigen::VectorXd& y, int samples = 100) {
-    X = Eigen::MatrixXd::Random(samples, 2);
+Eigen::MatrixXd generateXORData(Eigen::VectorXd& y, int samples = 100) {
+    Eigen::MatrixXd X = Eigen::MatrixXd::Random(samples, 2);
     y = Eigen::VectorXd(samples);
     
     for (int i = 0; i < samples; ++i) {
@@ -42,17 +47,15 @@ void generateXORData(Eigen::MatrixXd& X, Eigen::VectorXd& y, int samples = 100) 
     // Adiciona bias column
     Eigen::MatrixXd X_with_bias = Eigen::MatrixXd::Ones(samples, 3);
     X_with_bias.block(0, 1, samples, 2) = X;
-    X = X_with_bias;
+    return X_with_bias;
 }
 
 void testLinearSeparation() {
     cout << "=== TESTE 1: Dados Linearmente Separáveis ===" << endl;
     
-    Eigen::MatrixXd X_train, X_test;
     Eigen::VectorXd y_train, y_test;
-    
-    generateLinearData(X_train, y_train, 200);
-    generateLinearData(X_test, y_test, 50);
+    Eigen::MatrixXd X_train = generateLinearData(y_train, 200);
+    Eigen::MatrixXd X_test = generateLinearData(y_test, 50);
     
     // Configuração do treinamento
     TrainingConfig<double> config;
@@ -97,11 +100,9 @@ void testLinearSeparation() {
 void testNonLinearSeparation() {
     cout << "\n\n=== TESTE 2: Dados NÃO Linearmente Separáveis (XOR) ===" << endl;
     
-    Eigen::MatrixXd X_train, X_test;
     Eigen::VectorXd y_train, y_test;
-    
-    generateXORData(X_train, y_train, 200);
-    generateXORData(X_test, y_test, 50);
+    Eigen::MatrixXd X_train = generateXORData(y_train, 200);
+    Eigen::MatrixXd X_test = generateXORData(y_test, 50);
     
     TrainingConfig<double> config;
     config.max_iterations = 1000;
@@ -128,8 +129,8 @@ void testNonLinearSeparation() {
 void testWeightPersistence() {
     cout << "\n\n=== TESTE 3: Persistência de Pesos ===" << endl;
     
-    Eigen::MatrixXd X, y;
-    generateLinearData(X, y, 100);
+    Eigen::VectorXd y;
+    Eigen::MatrixXd X = generateLinearData(y, 100);
     
     PocketPLA<double> model1;
     model1.train(X, y);
@@ -160,8 +161,8 @@ void testWeightPersistence() {
 void testDifferentConfigurations() {
     cout << "\n\n=== TESTE 4: Diferentes Configurações ===" << endl;
     
-    Eigen::MatrixXd X, y;
-    generateLinearData(X, y, 150);
+    Eigen::VectorXd y;
+    Eigen::MatrixXd X = generateLinearData(y, 150);
     
     // Testa com poucas iterações
     {
@@ -187,6 +188,84 @@ void testDifferentConfigurations() {
     }
 }
 
+
+
+void testLinearRegression() {
+    cout << "\n\n=== TESTE 5: Linear Regression ===" << endl;
+    
+    // Gerar dados lineares com ruído
+    Eigen::VectorXd y;
+    Eigen::MatrixXd X = generateLinearData(y, 200);
+    
+    // Adicionar ruído para regression mais realista
+    y = y.array() + 0.1 * Eigen::VectorXd::Random(y.size()).array();
+    
+    TrainingConfig<double> config;
+    config.verbose = true;
+    
+    LinearRegression<double> model(config);
+    model.train(X, y);
+    
+    Eigen::VectorXd predictions = model.predict(X);
+    
+    cout << "R²: " << model.getRSquared() << endl;
+    cout << "MSE: " << model.getMSE() << endl;
+    
+    Eigen::VectorXd weights = model.getWeights();
+    cout << "Pesos: [" << weights.transpose() << "]" << endl;
+    
+    // Testar com matriz singular
+    cout << "\n--- Teste com dados colineares ---" << endl;
+    Eigen::MatrixXd X_singular = X;
+    X_singular.col(1) = X_singular.col(2); // Tornar colunas linearmente dependentes
+    
+    LinearRegression<double> model2(config);
+    model2.train(X_singular, y); // Deve usar fallback SVD
+    
+    cout << "Treinamento com matriz singular completado (usou SVD)" << endl;
+}
+
+
+
+void testLRClassifier() {
+    cout << "\n\n=== TESTE 6: LR Classifier ===" << endl;
+    
+    Eigen::VectorXd y_train, y_test;
+    Eigen::MatrixXd X_train = generateLinearData(y_train, 200);
+    Eigen::MatrixXd X_test = generateLinearData(y_test, 50);
+    
+    TrainingConfig<double> config;
+    config.verbose = true;
+    
+    LRClassifier<double> model(config);
+    model.train(X_train, y_train);
+    
+    Eigen::VectorXd predictions = model.predict(X_test);
+    auto metrics = model.getClassificationMetrics();
+    
+    cout << "\n=== RESULTADOS CLASSIFICAÇÃO ===" << endl;
+    cout << "Acurácia: " << metrics.accuracy << endl;
+    cout << "Precisão: " << metrics.precision << endl;
+    cout << "Recall: " << metrics.recall << endl;
+    cout << "F1-Score: " << metrics.f1_score << endl;
+    
+    // Testar linha de decisão
+    Eigen::VectorXd x_values = Eigen::VectorXd::LinSpaced(10, -1, 1);
+    Eigen::VectorXd decision_line = model.getDecisionBoundary(x_values);
+    cout << "\nLinha de decisão para x=[" << x_values.transpose() << "]:" << endl;
+    cout << "y = [" << decision_line.transpose() << "]" << endl;
+    
+    // Comparar com PocketPLA
+    cout << "\n--- Comparação com PocketPLA ---" << endl;
+    PocketPLA<double> pla_model;
+    pla_model.train(X_train, y_train);
+    Eigen::VectorXd pla_predictions = pla_model.predict(X_test);
+    auto pla_metrics = pla_model.getTrainingMetrics();
+    
+    cout << "LR Classifier Accuracy: " << metrics.accuracy << endl;
+    cout << "PocketPLA Accuracy: " << pla_metrics.accuracy << endl;
+}
+
 int main() {
     try {
         cout << "Framework de Machine Learning - Teste PocketPLA" << endl;
@@ -196,6 +275,8 @@ int main() {
         testNonLinearSeparation();
         testWeightPersistence();
         testDifferentConfigurations();
+        testLinearRegression();
+        testLRClassifier();
         
         cout << "\n\nTodos os testes completados!" << endl;
         
