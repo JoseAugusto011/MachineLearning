@@ -5,6 +5,7 @@
 #include <Eigen/Dense>
 #include <vector>
 #include <string>
+#include <stdexcept>
 
 template<typename T>
 struct ClassificationMetrics {
